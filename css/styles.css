@@ -1,0 +1,19 @@
+/* Colors 
+
+Teals #28403A, #49756A, #5DB59C, #6B9186
+Neutrals #51493F, #DDD0B3, #F9F3ED, #FFFFFF
+Reds #7F372A, #994233, #E2614B
+Greens #406340, #679967, #95DD95
+Tans #706048, #D6B88A, #FFE7C7
+Yellows #BF9300, #E5B000, #DDC276, #FFECAE
+Mints #354039, #6B7F73, #CCE2D3
+
+*/
+
+html{
+	background: url(/images/map_background.svg) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+ 	-o-background-size: cover;
+	background-size: cover;
+}

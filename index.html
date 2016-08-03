@@ -12,11 +12,12 @@
         <script type="text/javascript" src="js/cities.js"></script>
 
         <!-- css -->
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
 
     </head>
 
     <body ng-app="myApp" ng-controller="BaseController as base">
-       
+
         <div ng-controller="CitiesController as cityCtrl">
             <div ng-repeat="cities in cityCtrl.cities">
             <h2>{{cities.city}}</h2>
@@ -30,9 +31,9 @@
                         </ul>
                     </ul>
                 </ul>
-            </div>
-            </div>
-        </div>
-        
-    </body>
+            </div> <!-- end of categories repeater -->
+            </div> <!-- end of cities repeater -->
+        </div> <!-- end of CitiesController -->
+
+    </body> <!-- end of BaseController -->
 </html>
