@@ -17,23 +17,26 @@
     </head>
 
     <body ng-app="myApp" ng-controller="BaseController as base">
+    <div class="background"><img src="/images/map_background.svg"></div>
 
-        <div ng-controller="CitiesController as cityCtrl">
-            <div ng-repeat="cities in cityCtrl.cities">
-            <h2>{{cities.city}}</h2>
-            <div ng-repeat="categories in cities.categories">
-                <ul>
-                    <li>{{categories.categoryType}}</li>
-                    <ul ng-repeat="events in categories.events">
-                        <li>{{events.name}}</li>
-                        <ul>
-                            <li>{{events.address}}</li>
-                        </ul>
-                    </ul>
-                </ul>
-            </div> <!-- end of categories repeater -->
-            </div> <!-- end of cities repeater -->
-        </div> <!-- end of CitiesController -->
+        <h1>Happy Holidays From BURKE!!</h1>
+        <div class="subhead">Sub head briefly describing the map with further instructions below</div>
+
+        <div class="description">
+            <div class="subhead">Header 2</div>
+            <div>
+            Praesent eu urna sagittis, ultricies leo id, scelerisque ante. Vivamus viverra magna sit amet nulla vulputate commodo. Praesent eu urna sagittis, ultricies leo id, scelerisque ante.
+            </div>
+            <br />
+            <div>
+            Donec hendrerit egestas vulputate. Praesent eu urna sagittis, ultricies leo id, scelerisque ante. Vivamus viverra magna sit amet nulla vulputate commodo. Praesent eu urna sagittis, ultricies leo id, scelerisque ante.
+            </div>
+            <br />
+            <div>
+            Vivamus viverra magna sit amet nulla vulputate commodo. Praesent eu urna sagittis, ultricies leo id, scelerisque ante. </div>
+            </div>
+
+
 
     </body> <!-- end of BaseController -->
 </html>
