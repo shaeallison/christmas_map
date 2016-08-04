@@ -24,6 +24,10 @@ Mints #354039, #6B7F73, #CCE2D3
 	width: 100%;
 }
 
+.container{
+	margin: 0 20px 0 20px;
+}
+
 *{
 	padding: 0px;
 	margin: 0px;
@@ -65,3 +69,40 @@ h1{
 	width: 500px;
 	color: #49756A;
 }
+
+ul.key{
+	list-style-type: none;
+	text-align: center;
+	font-size: 1em;
+	margin: auto;
+}
+
+.key a {
+	text-decoration: none;
+	font-family: 'Big John';
+	color: #E2614B;
+}
+
+li{
+	display: inline-block;
+}
+
+li img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+.center{
+	position: absolute;
+	bottom: 30px;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
