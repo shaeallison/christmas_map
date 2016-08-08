@@ -10,8 +10,13 @@ app.controller('CitiesController', function() {
 
 var data = [{
 			"city": "Charlotte",
-			"cityFlag": "fileName",
-			"mapLocation": "coordinates",
+			"cityFlag": "/graphics/christmas_icons-charlotte.svg",
+			"id": 1,
+			"icon-animation": "",
+			"position": {
+				"top": "31%",
+				"left": "40%"
+				},
 			"categories": [
 				{
 				"categoryType": "Light Show",
@@ -307,8 +312,13 @@ var data = [{
 			],
 	},
 	{"city": "Raleigh",
-			"cityFlag": "fileName",
-			"mapLocation": "coordinates",
+			"cityFlag": "/graphics/christmas_icons-raleigh.svg",
+			"id": 2,
+			"icon-animation": "",
+			"position": {
+				"top": "15%",
+				"left": "62%"
+				},
 			"categories": [
 				{
 				"categoryType": "Light Show",

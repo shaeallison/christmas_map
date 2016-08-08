@@ -16,9 +16,14 @@
 
     </head>
 
-    <body ng-app="myApp" ng-controller="BaseController as base">
+    <body class="modal-info" ng-app="myApp" ng-controller="BaseController as base">
 
-        <h1>Happy Holidays From BURKE!!</h1>
+    <a href="#modal">Launch A Modal</a>
+
+
+    <div id="modal">
+        <div class="modal-content">
+
 
         <div ng-controller="CitiesController as cityCtrl">
             <div ng-repeat="cities in cityCtrl.cities">
@@ -36,6 +41,11 @@
             </div> <!-- end of categories repeater -->
             </div> <!-- end of cities repeater -->
         </div> <!-- end of CitiesController -->
+
+        <a href="#">Close Link</a> </div>
+        <div class="overlay"></div>
+        </div> <!-- end of modal div -->
+
 
     </body> <!-- end of BaseController -->
 </html>

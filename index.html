@@ -17,18 +17,26 @@
     </head>
 
     <body ng-app="myApp" ng-controller="BaseController as base">
-  	<div class="background"><!--<img src="/images/map_background.svg">--></div>
+
+    <div ng-controller="CitiesController as cityCtrl">
+        <a marker ng-repeat="cities in cityCtrl.cities" ui-sref="nc_location({id:cities.id})" class="marker ng-scope" data-animationid="{{cities.icon-animation}}" ng-style="{{cities.position}}" href="#modal{{cities.id}}">
+        	<div class="animation-container">
+        		<img class="city-icon" ng-src="{{cities.cityFlag}}" />
+
+        	</div>
+        </a>
+            
+        </div><!-- end of cities repeater -->
+    </div><!-- end of CitiesController -->
 
 
-    <div class="container">
-
-    <div class="center">
+	<div class="center">
     <ul class="key">
     	<li class="event-icon">
-    		<a class="event-name" href="#">
+    		<div class="event-name">
     		<img src="/graphics/christmas_icons-trees.svg">
     		Tree Farm
-    		</a>
+    		</div>
     	</li>
     	<li class="event-icon">
     		<a class="event-name" href="#">
@@ -62,8 +70,33 @@
     	</li>
     </ul>
     </div>
-
-    </div><!-- end of container -->
     
     </body> <!-- end of BaseController -->
 </html>
+
+
+
+ <!-- <a href="#modal">Launch A Modal</a>
+
+      <div id="modal">
+        <div class="modal-content">
+        <div ng-controller="CitiesController as cityCtrl">
+            <div ng-repeat="cities in cityCtrl.cities">
+            <h2>{{cities.city}}</h2>
+            <div ng-repeat="categories in cities.categories">
+                <ul>
+                    <li>{{categories.categoryType}}</li>
+                    <ul ng-repeat="events in categories.events">
+                        <li>{{events.name}}</li>
+                        <ul>
+                            <li>{{events.address}}</li>
+                        </ul>
+                    </ul>
+                </ul>
+            </div> --> <!-- end of categories repeater -->
+           <!-- </div> --><!-- end of cities repeater -->
+       <!-- </div> --><!-- end of CitiesController -->
+
+        <!-- <a href="#">Close Link</a> </div>
+        <div class="overlay"></div>
+       </div> --> <!-- end of modal div -->

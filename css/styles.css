@@ -19,10 +19,6 @@ html {
 }
 
 
-.container{
-	margin: 0 20px 0 20px;
-}
-
 *{
 	padding: 0px;
 	margin: 0px;
@@ -31,7 +27,7 @@ html {
 body{
 	/*margin: 1.5em;*/
 	letter-spacing: 1px;
-	overflow: hidden;
+	
 }
 
 @font-face {
@@ -78,8 +74,15 @@ ul.key{
 	color: #E2614B;
 }
 
+.key .event-name {
+	text-decoration: none;
+	font-family: 'Big John';
+	color: #E2614B;
+}
+
 li{
 	display: inline-block;
+	padding: 10px;
 }
 
 li img{
@@ -94,10 +97,30 @@ li img{
 	width: 100%;
 }
 
+.city-icon{
+	width: 100px;
+}
+
+/* markers */
+
+.marker{
+	position: fixed;
+}
 
 
+/* modal window */
 
+#modal {
+  opacity: 0;
+  visibility: hidden;
+  width: 100%;
+  box-sizing: border-box;
+  background: white;
+}
 
-
+#modal:target {
+  opacity: 1;
+  visibility: visible
+}
 
 
