@@ -7,22 +7,17 @@ Greens #406340, #679967, #95DD95
 Tans #706048, #D6B88A, #FFE7C7
 Yellows #BF9300, #E5B000, #DDC276, #FFECAE
 Mints #354039, #6B7F73, #CCE2D3
-
 */
 
-.background{
-	font-size: 10pt;
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	z-index: -1;
 
+html { 
+  background: url(/images/map_background.svg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-.background img{
-	min-width: 1000px;
-	width: 100%;
-}
 
 .container{
 	margin: 0 20px 0 20px;
