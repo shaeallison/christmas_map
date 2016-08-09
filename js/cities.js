@@ -14,8 +14,8 @@ var data = [{
 			"id": 1,
 			"icon-animation": "",
 			"position": {
-				"top": "650px",
-				"left": "920px"
+				"top": "330px",
+				"left": "740px"
 				},
 			"categories": [
 				{
@@ -316,8 +316,8 @@ var data = [{
 			"id": 2,
 			"icon-animation": "",
 			"position": {
-				"top": "480px",
-				"left": "1370px"
+				"top": "160px",
+				"left": "1200px"
 				},
 			"categories": [
 				{
@@ -376,8 +376,8 @@ var data = [{
 			"id": 3,
 			"icon-animation": "",
 			"position": {
-				"top": "450px",
-				"left": "1310px"
+				"top": "140px",
+				"left": "1150px"
 				},
 			"categories": [
 				{
@@ -436,8 +436,8 @@ var data = [{
 			"id": 4,
 			"icon-animation": "",
 			"position": {
-				"top": "570px",
-				"left": "600px"
+				"top": "270px",
+				"left": "440px"
 				},
 			"categories": [
 				{
@@ -496,8 +496,8 @@ var data = [{
 			"id": 5,
 			"icon-animation": "",
 			"position": {
-				"top": "400px",
-				"left": "1150px"
+				"top": "100px",
+				"left": "1000px"
 				},
 			"categories": [
 				{
@@ -556,8 +556,8 @@ var data = [{
 			"id": 6,
 			"icon-animation": "",
 			"position": {
-				"top": "935px",
-				"left": "1530px"
+				"top": "600px",
+				"left": "1350px"
 				},
 			"categories": [
 				{
@@ -616,8 +616,8 @@ var data = [{
 			"id": 7,
 			"icon-animation": "",
 			"position": {
-				"top": "680px",
-				"left": "1700px"
+				"top": "350px",
+				"left": "1520px"
 				},
 			"categories": [
 				{
@@ -676,8 +676,8 @@ var data = [{
 			"id": 8,
 			"icon-animation": "",
 			"position": {
-				"top": "700px",
-				"left": "1350px"
+				"top": "400px",
+				"left": "1180px"
 				},
 			"categories": [
 				{

@@ -27,7 +27,7 @@
      <div class="modal modal-content" ng-repeat="cities in cityCtrl.cities" id="#{{'modal' + cities.id}}" >
             <div ng-repeat="categories in cities.categories">
                 <ul>
-                    <li>{{categories.categoryType}}</li>
+                    <li><strong>{{cities.city}} – {{categories.categoryType}}</strong></li>
                     <ul ng-repeat="events in categories.events">
                         <li>{{events.name}}</li>
                         <ul>
@@ -38,7 +38,6 @@
             </div><!-- end of categories repeater -->
 
      <a href="#">Close Link</a>
-     <div class="overlay"></div>
 
      </div><!--end of cities repeater -->
 </div><!-- end modal window -->
@@ -46,7 +45,7 @@
 
 
 <!-- marker layer -->
-        <a ng-click="" marker ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}">
+        <a marker ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}" href="#{{'modal' + cities.id}}">
         	<div>
         		<img class="city-icon" ng-src="{{cities.cityFlag}}" />
         	</div>
