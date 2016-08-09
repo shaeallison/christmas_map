@@ -17,18 +17,22 @@
     </head>
 
     <body ng-app="myApp" ng-controller="BaseController as base">
+    <div class="background">
+    	<img class="background-svg" src="/images/map_background.svg" />
+    
+    
 
     <div ng-controller="CitiesController as cityCtrl">
-        <a marker ng-repeat="cities in cityCtrl.cities" ui-sref="nc_location({id:cities.id})" class="marker ng-scope" data-animationid="{{cities.icon-animation}}" ng-style="{{cities.position}}" href="#modal{{cities.id}}">
+        <a marker ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}" href="#modal{{cities.id}}">
         	<div class="animation-container">
         		<img class="city-icon" ng-src="{{cities.cityFlag}}" />
-
         	</div>
         </a>
             
         </div><!-- end of cities repeater -->
     </div><!-- end of CitiesController -->
-
+    
+    </div><!-- end of background image -->
 
 	<div class="center">
     <ul class="key">

@@ -10,14 +10,20 @@ Mints #354039, #6B7F73, #CCE2D3
 */
 
 
-html { 
-  background: url(/images/map_background.svg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.background{
+	position: absolute;
+	top: -35%;
+	left: -8%;
+	height: 1800px;
+	width: auto;
+	z-index: -1;
 }
 
+.background .background-svg{
+	position: absolute;
+	height: 1800px;
+	width: auto;
+}
 
 *{
 	padding: 0px;
@@ -38,27 +44,6 @@ body{
 @font-face {
   font-family: 'Open Sans';
   src:  url('/fonts/open-sans/OpenSans-Regular.ttf') format('ttf'),
-}
-
-h1{
-	font-family: 'Big John';
-	color: #5DB59C;
-	font-size: 5em;
-	margin: 0px;
-}
-
-.subhead{
-	font-family: 'Big John';
-	font-size: 1.7em;
-	color:#E2614B;
-}
-
-.description{
-	margin-top: 425px;
-	font-family: 'Open Sans';
-	font-size: 10pt;
-	width: 500px;
-	color: #49756A;
 }
 
 ul.key{
@@ -93,7 +78,7 @@ li img{
 
 .center{
 	position: absolute;
-	bottom: 30px;
+	bottom: 0px;
 	width: 100%;
 }
 
@@ -104,7 +89,11 @@ li img{
 /* markers */
 
 .marker{
-	position: fixed;
+	position: absolute;
+}
+
+.marker img{
+	position: relative;
 }
 
 

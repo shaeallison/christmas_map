@@ -14,8 +14,8 @@ var data = [{
 			"id": 1,
 			"icon-animation": "",
 			"position": {
-				"top": "31%",
-				"left": "40%"
+				"top": "650px",
+				"left": "920px"
 				},
 			"categories": [
 				{
@@ -316,8 +316,8 @@ var data = [{
 			"id": 2,
 			"icon-animation": "",
 			"position": {
-				"top": "15%",
-				"left": "62%"
+				"top": "470px",
+				"left": "1350px"
 				},
 			"categories": [
 				{
