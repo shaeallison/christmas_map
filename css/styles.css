@@ -12,17 +12,17 @@ Mints #354039, #6B7F73, #CCE2D3
 
 .background{
 	position: absolute;
-	top: -35%;
-	left: -8%;
 	height: 1800px;
 	width: auto;
-	z-index: -1;
 }
 
 .background .background-svg{
 	position: absolute;
 	height: 1800px;
 	width: auto;
+	top: -18%;
+	left: -40%;
+	z-index: -1;
 }
 
 *{
@@ -97,9 +97,9 @@ li img{
 }
 
 
-/* modal window */
+/* modal window 
 
-#modal {
+.modal {
   opacity: 0;
   visibility: hidden;
   width: 100%;
@@ -107,9 +107,10 @@ li img{
   background: white;
 }
 
-#modal:target {
+
+#modal:active{
   opacity: 1;
   visibility: visible
 }
-
+*/
 

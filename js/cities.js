@@ -316,7 +316,367 @@ var data = [{
 			"id": 2,
 			"icon-animation": "",
 			"position": {
-				"top": "470px",
+				"top": "480px",
+				"left": "1370px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "fileName",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Ballet/Theater",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Durham",
+			"cityFlag": "/graphics/christmas_icons-durham.svg",
+			"id": 3,
+			"icon-animation": "",
+			"position": {
+				"top": "450px",
+				"left": "1310px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "fileName",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Ballet/Theater",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Asheville",
+			"cityFlag": "/graphics/christmas_icons-asheville.svg",
+			"id": 4,
+			"icon-animation": "",
+			"position": {
+				"top": "570px",
+				"left": "600px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "fileName",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Ballet/Theater",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Greensboro",
+			"cityFlag": "/graphics/christmas_icons-greensboro.svg",
+			"id": 5,
+			"icon-animation": "",
+			"position": {
+				"top": "400px",
+				"left": "1150px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "fileName",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Ballet/Theater",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Wilmington",
+			"cityFlag": "/graphics/christmas_icons-wilmington.svg",
+			"id": 6,
+			"icon-animation": "",
+			"position": {
+				"top": "935px",
+				"left": "1530px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "fileName",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Ballet/Theater",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+			]
+	},
+	{"city": "New Bern",
+			"cityFlag": "/graphics/christmas_icons-newbern.svg",
+			"id": 7,
+			"icon-animation": "",
+			"position": {
+				"top": "680px",
+				"left": "1700px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "fileName",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Ballet/Theater",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Fayettville",
+			"cityFlag": "/graphics/christmas_icons-fayettville.svg",
+			"id": 8,
+			"icon-animation": "",
+			"position": {
+				"top": "700px",
 				"left": "1350px"
 				},
 			"categories": [
@@ -370,5 +730,6 @@ var data = [{
 				],
 				},
 			]
-}];
+	},
+];
  

@@ -19,21 +19,48 @@
     <body ng-app="myApp" ng-controller="BaseController as base">
     <div class="background">
     	<img class="background-svg" src="/images/map_background.svg" />
-    
-    
 
     <div ng-controller="CitiesController as cityCtrl">
-        <a marker ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}" href="#modal{{cities.id}}">
-        	<div class="animation-container">
+
+<!-- modal content -->
+	<div class="modal-window">
+     <div class="modal modal-content" ng-repeat="cities in cityCtrl.cities" id="#{{'modal' + cities.id}}" >
+            <div ng-repeat="categories in cities.categories">
+                <ul>
+                    <li>{{categories.categoryType}}</li>
+                    <ul ng-repeat="events in categories.events">
+                        <li>{{events.name}}</li>
+                        <ul>
+                            <li>{{events.address}}</li>
+                        </ul>
+                    </ul>
+                </ul>
+            </div><!-- end of categories repeater -->
+
+     <a href="#">Close Link</a>
+     <div class="overlay"></div>
+
+     </div><!--end of cities repeater -->
+</div><!-- end modal window -->
+<!-- end of modal content -->
+
+
+<!-- marker layer -->
+        <a ng-click="" marker ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}">
+        	<div>
         		<img class="city-icon" ng-src="{{cities.cityFlag}}" />
         	</div>
         </a>
+<!-- end of marker layer -->
+
             
         </div><!-- end of cities repeater -->
     </div><!-- end of CitiesController -->
     
     </div><!-- end of background image -->
 
+
+<!-- category menu -->
 	<div class="center">
     <ul class="key">
     	<li class="event-icon">
@@ -74,33 +101,12 @@
     	</li>
     </ul>
     </div>
+<!-- end of category menu -->
+
     
     </body> <!-- end of BaseController -->
 </html>
 
 
 
- <!-- <a href="#modal">Launch A Modal</a>
-
-      <div id="modal">
-        <div class="modal-content">
-        <div ng-controller="CitiesController as cityCtrl">
-            <div ng-repeat="cities in cityCtrl.cities">
-            <h2>{{cities.city}}</h2>
-            <div ng-repeat="categories in cities.categories">
-                <ul>
-                    <li>{{categories.categoryType}}</li>
-                    <ul ng-repeat="events in categories.events">
-                        <li>{{events.name}}</li>
-                        <ul>
-                            <li>{{events.address}}</li>
-                        </ul>
-                    </ul>
-                </ul>
-            </div> --> <!-- end of categories repeater -->
-           <!-- </div> --><!-- end of cities repeater -->
-       <!-- </div> --><!-- end of CitiesController -->
-
-        <!-- <a href="#">Close Link</a> </div>
-        <div class="overlay"></div>
-       </div> --> <!-- end of modal div -->
+ 
