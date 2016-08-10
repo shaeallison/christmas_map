@@ -1,0 +1,113 @@
+<!-- modal content -->
+     <div id="custom-modal"  class="modal modal-content" ng-repeat="cities in cityCtrl.cities">
+            <div id="overlay" ng-repeat="categories in cities.categories">
+                <ul>
+                    <li><strong>{{cities.city}} – {{categories.categoryType}}</strong></li>
+                    <ul ng-repeat="events in categories.events">
+                        <li>{{events.name}}</li>
+                        <ul>
+                            <li>{{events.address}}</li>
+                        </ul>
+                    </ul>
+                </ul>
+            </div><!-- end of categories repeater -->
+
+     <a href ng-click="close()">Close</a>
+     <div id="fade"></div>
+     </div><!--end of cities repeater -->
+<!-- end of modal content -->
+
+
+<!-- marker layer -->
+    <div ng-repeat="cities in cityCtrl.cities">
+        <a marker href ng-click="details.show=!details.show" id="{{cities.city + cities.id}}" class="marker ng-scope" ng-style="{{cities.position}}">
+            <div>
+                <img class="city-icon" ng-src="{{cities.cityFlag}}" />
+            </div>
+        </a>
+        <div ng-show="details.show"> {{cities.city + cities.id}} </div>
+
+        </div>
+
+<!-- end of marker layer -->
+
+
+<!-- marker layer -->
+        <a marker href ng-click="showCustom()" id="{{cities.id}}" ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}">
+            <div>
+                <img class="city-icon" ng-src="{{cities.cityFlag}}" />
+            </div>
+        </a>
+<!-- end of marker layer -->
+
+  $scope.showCustom = function(eventItem) {
+
+    ModalService.showModal({
+      templateUrl: "custom-modal",
+      controller: "CustomController"
+    }).then(function(modal) {
+      modal.close.then(function(result) {
+        $scope.customResult = "All good!";
+      });
+    });
+
+  };
+
+}]);
+
+
+
+
+ 
+
+
+
+
+
+<!-- app.js attempt at modal window w/i ng-repeat from http://stackoverflow.com/questions/25588368/show-data-bound-bs-modal-window-to-angular-ng-repeat 
+
+var app = angular.module('myApp', ['cities', 'angularModalService']);
+
+app.controller('BaseController', ['$scope', 'ModalService', function($scope, ModalService) {
+
+  $scope.customResult = null;
+
+  $scope.details = {show: false};
+
+  $scope.showCustom = function(modalItem) {
+
+    ModalService.showModal({
+      templateUrl: "custom-modal",
+      controller: "CustomController"
+      resolve: {
+         detailItem: function () {
+            return modalItem;
+         }
+      }
+    });
+
+    modalInstance.result.then(function (modalItem) {
+    // this is returned from the `$scope.ok` function in CustomController
+  }, function () {
+    console.log('dismissed');
+  });
+
+  };
+
+}]);
+
+
+<script type="text/ng-template" id="custom-modal">
+    <div ng-model="modal" class="modal" ng-repeat="cities in cityCtrl.cities" >
+          <div id="overlay">
+              <div>{{cities.city}}</div>
+              <a href ng-click="close()">Close</a>
+              <button ng-click="ok()">OK</button>
+        <button ng-click="cancel()">Cancel</button>
+          </div>
+          <div id="fade"></div>
+        </div>
+</script>
+
+-->
+

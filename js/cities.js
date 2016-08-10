@@ -20,6 +20,7 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
@@ -66,7 +67,8 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Tours",
+				"categoryType": "Tour",
+				"id": 20,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -132,7 +134,8 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Productions",
+				"categoryType": "Production",
+				"id": 30,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -198,7 +201,8 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Community Celebrations",
+				"categoryType": "Celebration",
+				"id": 40,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -265,6 +269,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Activities",
+				"id": 50,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -322,18 +327,45 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
 					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"name": "Lighting of the Tree",
+					"address": "8450 Honeycutt Rd., Raleigh, NC 27615",
 					"mapLocation": "coordinates",
 					"image": "fileName",
 					"categoryIcon": "fileName",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
+					"description": "Head to North Raleigh's Lafayette Village for a spectacular tree lighting ceremony. The event runs from 4-8pm with Good Old St. Nick lighting our tree in the courtyard at 7pm.",
+					"dates": "Nov 19",
+					"webLink": "http://lafayettevillageraleigh.com/category/monthly-events/"
+					},
+					{
+					"name": "Wendell Wonderland",
+					"address": "210 E. Fourth St., Wendell, NC 27591",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "Join us at one of the largest holiday light shows in the State, which will be held in downtown Wendell. Wendell Wonderland is open to the public and will be cancelled if it is raining or snowing.",
+					"dates": "Nov 23 - Dec 31",
+					"webLink": "http://www.townofwendell.com/discover/events"
+					}
+				],
+				},
+				{
+				"categoryType": "Celebration",
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "72 Annual WRAL Raleigh Christmas Parade",
+					"address": "Corner of Hillsborough St. at Saint Mary's St.",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "The WRAL Raleigh Christmas Parade is the largets parade between Washington, DC and Atlanta. The parade will last about 2.5 hours starting at 9:40AM. The parade will air from 10:00AM to 12:00PM on the day of at WRAL-TV and UNC-TV and again on Christmas morning.",
+					"dates": "Nov 19",
+					"webLink": "http://grma.org/christmas-parade/"
 					}
 				],
 				},
@@ -354,18 +386,29 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Ballet/Theater",
+				"categoryType": "Production",
+				"id": 30,
 				"categoryIcon": "fileName",
 				"events": [
 					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"name": "The Day Before Thanksgiving: A Frozen Journey",
+					"address": "2 E. South St., Raleigh, NC 27601",
 					"mapLocation": "coordinates",
 					"image": "fileName",
 					"categoryIcon": "fileName",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
+					"description": "The North Carolina Symphony will host a one-hour performance featuring music from Babes in Toyland, The Polar Express and Frozen.",
+					"dates": "Nov 23",
+					"webLink": "http://www.ncsymphony.org/"
+					},
+					{
+					"name": "Holiday Pops",
+					"address": "2 E. South St., Raleigh, NC 27601",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "",
+					"dates": "Nov 25 - Nov 26",
+					"webLink": "http://www.ncsymphony.org/"
 					}
 				],
 				},
@@ -382,6 +425,7 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
@@ -394,6 +438,16 @@ var data = [{
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "example.com"
+					},
+					{
+					"name": "Star of Bethlehem Show at Morehead Planetarium",
+					"address": "250 E. Franklin. St., Chapel Hill, NC 27514",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "????",
+					"dates": "???? - Jan 1",
+					"webLink": "http://moreheadplanetarium.org/visit/show-schedule?fuseaction=page&filename=show_schedule.html"
 					}
 				],
 				},
@@ -414,7 +468,8 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Ballet/Theater",
+				"categoryType": "Production",
+				"id": 30,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -429,6 +484,23 @@ var data = [{
 					}
 				],
 				},
+				{
+				"categoryType": "Celebration",
+				"id": 30,
+				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Twelve Drummers Drumming",
+					"address": "211 Pittsboro Street., Chapel Hill, NC 27516",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "Dec 4",
+					"webLink": "example.com"
+					}
+				],
+				}
 			]
 	},
 	{"city": "Asheville",
@@ -442,6 +514,7 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
@@ -458,23 +531,24 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Tree Farm",
+				"categoryType": "Tour",
 				"categoryIcon": "fileName",
 				"events": [
 					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"name": "Christmas at Biltmore",
+					"address": "1 Lodge St, Asheville, NC 28803",
 					"mapLocation": "coordinates",
 					"image": "fileName",
 					"categoryIcon": "fileName",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
+					"description": "Immerse yourself in the holiday spirit at the most enchanting place imaginable. The wonders of Biltmore House filled with masterpieces of art and Vanderbilt family treasures are enhanced with more than 70 exquisitely decorated Christmas trees, miles of garlands, hundreds of poinsettias, and more lights than you can count.",
+					"dates": "Nov 4 - Jan 8",
+					"webLink": "http://www.biltmore.com/visit/plan-your-visit/buy-tickets/christmas-at-biltmore"
 					}
 				],
 				},
 				{
-				"categoryType": "Ballet/Theater",
+				"categoryType": "Production",
+				"id": 30,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -502,6 +576,7 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
@@ -518,23 +593,24 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Tree Farm",
+				"categoryType": "Tour",
 				"categoryIcon": "fileName",
 				"events": [
 					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"name": "Christmas by Candlelight Guided Tours",
+					"address": "900 Old Salem Road, Winston-Salem, NC 27101",
 					"mapLocation": "coordinates",
 					"image": "fileName",
 					"categoryIcon": "fileName",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
+					"description": "Take a guided tour by candlelight through the Historic District where the customs and traditions of Christmas in Salem will be brought to life through all of your senses.",
+					"dates": "Nov 18 - Dec 23",
+					"webLink": "http://www.oldsalem.org/events/event/christmas-by-candlelight-tours/"
 					}
 				],
 				},
 				{
-				"categoryType": "Ballet/Theater",
+				"categoryType": "Production",
+				"id": 30,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -562,39 +638,42 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
 					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"name": "Holiday Floatilla",
+					"address": "Wrightsville Beach",
 					"mapLocation": "coordinates",
 					"image": "fileName",
 					"categoryIcon": "fileName",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
+					"description": "It is the Southern coastal version of a holiday parade – on water – at night.",
+					"dates": "Nov 25 - Nov 26",
+					"webLink": "http://ncholidayflotilla.org/"
 					}
 				],
 				},
 				{
-				"categoryType": "Tree Farm",
+				"categoryType": "Tour",
+				"id": 20,
 				"categoryIcon": "fileName",
 				"events": [
 					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"name": "A Christmas Stroll Through the Past",
+					"address": "503 Market St, Wilmington, NC 28401",
 					"mapLocation": "coordinates",
 					"image": "fileName",
 					"categoryIcon": "fileName",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
+					"description": "The Bellamy Mansion Museum and the Burgwin-Wright House and Gardens invite the community on a Christmas Stroll Through the Past in historic downtown Wilmington, NC. Attendees can celebrate the holidays with period decorations, music, costumed interpreters, a petting zoo, refreshments and more.",
+					"dates": "?????",
+					"webLink": "http://www.bellamymansion.org/"
 					}
 				],
 				},
 				{
-				"categoryType": "Ballet/Theater",
+				"categoryType": "Production",
+				"id": 30,
 				"categoryIcon": "fileName",
 				"events": [
 					{
@@ -622,6 +701,7 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
@@ -638,8 +718,54 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Tree Farm",
+				"categoryType": "Tour",
 				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Holiday Tours at Tryon Palace",
+					"address": "529 S Front St, New Bern, NC 28562",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "The Governor’s Palace and historic homes are decked out for the holidays and open for daily tours. Explore the traditions of Christmases past throughout the Tryon Palace grounds.",
+					"dates": "Nov 27 - Jan 3",
+					"webLink": "http://www.tryonpalace.org/events/holiday-tours-tryon-palacetryon"
+					}
+				],
+				},
+				{
+				"categoryType": "Production",
+				"categoryIcon": "fileName",
+				"id": 30,
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Edenton",
+			"cityFlag": "/graphics/christmas_icons-newbern.svg",
+			"id": 8,
+			"icon-animation": "",
+			"position": {
+				"top": "110px",
+				"left": "1650px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"id": 10,
+				"categoryIcon": "fileName",
+				"mapLocation": "coordinates",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -654,8 +780,25 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Ballet/Theater",
+				"categoryType": "Tour",
 				"categoryIcon": "fileName",
+				"events": [
+					{
+					"name": "Dickens Christmas Candlelight Tour",
+					"address": "505 S Broad St., Edenton, NC 27932",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "You won’t want to miss this self-guided walking tour of homes of Edenton’s over-300-years old historic district, beautifully decorated for the holidays.",
+					"dates": "Dec 9 - Dec 10",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
+				"categoryType": "Production",
+				"categoryIcon": "fileName",
+				"id": 30,
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -673,7 +816,7 @@ var data = [{
 	},
 	{"city": "Fayettville",
 			"cityFlag": "/graphics/christmas_icons-fayettville.svg",
-			"id": 8,
+			"id": 9,
 			"icon-animation": "",
 			"position": {
 				"top": "400px",
@@ -682,6 +825,7 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
+				"id": 10,
 				"categoryIcon": "fileName",
 				"mapLocation": "coordinates",
 				"events": [
@@ -714,7 +858,8 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Ballet/Theater",
+				"categoryType": "Production",
+				"id": 30,
 				"categoryIcon": "fileName",
 				"events": [
 					{

@@ -88,6 +88,8 @@ li img{
 
 /* markers */
 
+
+
 .marker{
 	position: absolute;
 }
@@ -95,6 +97,7 @@ li img{
 .marker img{
 	position: relative;
 }
+
 
 
 /* modal window 
