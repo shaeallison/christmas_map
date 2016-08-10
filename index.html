@@ -23,23 +23,33 @@
     <div ng-controller="CitiesController as cityCtrl">
 
 <!-- marker layer -->
-       <a marker href ng-click="showCustom()" id="{{cities.id}}" ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}">
+       <!-- <a marker href ng-click="showCustom()" id="{{cities.id}}" ng-repeat="cities in cityCtrl.cities" class="marker ng-scope" ng-style="{{cities.position}}">
         	<div>
         		<img class="city-icon" ng-src="{{cities.cityFlag}}" />
         	</div>
-        </a>
+        </a> -->
 <!-- end of marker layer -->
 
 <!-- marker layer -->
-    <!-- <div class="marker-layer" ng-repeat="cities in cityCtrl.cities">
+    <div class="marker-layer" ng-repeat="cities in cityCtrl.cities">
         <a marker href ng-click="details.show=!details.show" id="{{cities.city + cities.id}}" class="marker ng-scope" ng-style="{{cities.position}}">
             <div>
                 <img class="city-icon" ng-src="{{cities.cityFlag}}" />
             </div>
         </a>
-        <div ng-show="details.show"> {{cities.city}} </div>
+        <div ng-show="details.show"> 
+        	<div class="modal-header">{{cities.city}}</div>
+        	<div ng-repeat="categories in cities.categories">
+        		<div class="modal-subhead">{{categories.categoryType}}</div>
+        	<div ng-repeat="events in categories.events">
+        		<div class="event-title"></div>
+        		<div class="event-information"></div>
+        	</div> <!-- end of events repeater -->
 
-    </div>-->
+        	</div> <!-- end of categories repeater -->
+        </div> <!-- end of ng-show -->
+
+    </div> <!-- end of cities repeater -->
 
 <!-- end of marker layer -->
             

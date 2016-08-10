@@ -100,8 +100,13 @@ li img{
 
 
 
-/* modal window 
+/* modal window */
 
+.modal-header{
+	color: #6B9186;
+}
+
+/* 
 .modal {
   opacity: 0;
   visibility: hidden;
