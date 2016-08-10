@@ -2,9 +2,9 @@ var app = angular.module('myApp', ['cities', 'angularModalService']);
 
 app.controller('BaseController', ['$scope', 'ModalService', function($scope, ModalService) {
 
-  $scope.customResult = null;
+  $scope.details = {show: false}; /* only piece needed for ng-show */
 
-  $scope.details = {show: false};
+  /* $scope.customResult = null;
 
   $scope.showCustom = function() {
 
@@ -17,7 +17,7 @@ app.controller('BaseController', ['$scope', 'ModalService', function($scope, Mod
       });
     });
 
-  };
+  }; */
 
 }]);
 

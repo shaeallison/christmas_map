@@ -32,18 +32,21 @@
 
 <!-- marker layer -->
     <div class="marker-layer" ng-repeat="cities in cityCtrl.cities">
-        <a marker href ng-click="details.show=!details.show" id="{{cities.city + cities.id}}" class="marker ng-scope" ng-style="{{cities.position}}">
+        <a marker href ng-click="details.show=!details.show" class="marker ng-scope" ng-style="{{cities.position}}">
             <div>
                 <img class="city-icon" ng-src="{{cities.cityFlag}}" />
             </div>
         </a>
-        <div ng-show="details.show"> 
+        <div ng-show="details.show" id="{{cities.city + cities.id}}"> 
         	<div class="modal-header">{{cities.city}}</div>
         	<div ng-repeat="categories in cities.categories">
         		<div class="modal-subhead">{{categories.categoryType}}</div>
         	<div ng-repeat="events in categories.events">
-        		<div class="event-title"></div>
-        		<div class="event-information"></div>
+        		<div class="event-information">
+        			<img class="event-thumb" ng-src="{{events.image}}">
+        			<div class="event-title">{{events.name}}</div>
+        			<div class="event-description">{{events.description}}</div>
+        		</div>
         	</div> <!-- end of events repeater -->
 
         	</div> <!-- end of categories repeater -->

@@ -103,7 +103,32 @@ li img{
 /* modal window */
 
 .modal-header{
-	color: #6B9186;
+	color: #5DB59C;
+	font-family: 'Big John';
+	font-size: 3em;
+}
+
+.modal-subhead{
+	font-size: 2em;
+	color:#E2614B;
+	font-family: 'Big John';
+}
+
+.event-thumb{
+	width: 100px;
+	height:auto;
+}
+
+.event-title{
+	font-family: 'Big John';
+	font-size: 1em;
+	color:#E2614B;
+}
+
+.event-information{
+	font-family: 'Open Sans';
+	color: #49756A;
+	font-weight: 300;
 }
 
 /* 
