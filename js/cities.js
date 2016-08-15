@@ -11,6 +11,7 @@ app.controller('CitiesController', function() {
 var data = [{
 			"city": "Charlotte",
 			"cityFlag": "/graphics/christmas_icons-charlotte.svg",
+			"image": "/images/charlotte.png",
 			"id": 1,
 			"icon-animation": "",
 			"position": {
@@ -21,7 +22,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -69,7 +70,7 @@ var data = [{
 				{
 				"categoryType": "Tour",
 				"id": 20,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
 					"name": "Fourth Ward Holiday Home Tour",
@@ -136,7 +137,7 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
 					"name": "The Nutcracker",
@@ -203,7 +204,7 @@ var data = [{
 				{
 				"categoryType": "Celebration",
 				"id": 40,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
 					"name": "Weihnachtsmarkt",
@@ -268,9 +269,25 @@ var data = [{
 				],
 				},
 				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
+				"events": [
+					{
+					"name": "Charlotte Motor Speedway Light Show",
+					"address": "5555 Concord Pkwy S, Concord, NC 28027",
+					"mapLocation": "coordinates",
+					"image": "fileName",
+					"categoryIcon": "fileName",
+					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"dates": "example",
+					"webLink": "example.com"
+					}
+				],
+				},
+				{
 				"categoryType": "Activities",
 				"id": 50,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-activities.svg",
 				"events": [
 					{
 					"name": "WBT Holiday on Ice",
@@ -328,7 +345,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -355,7 +372,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
 					"name": "72 Annual WRAL Raleigh Christmas Parade",
@@ -371,7 +388,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tree Farm",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -388,7 +405,7 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
 					"name": "The Day Before Thanksgiving: A Frozen Journey",
@@ -426,7 +443,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -453,7 +470,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tree Farm",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -470,7 +487,7 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -487,7 +504,7 @@ var data = [{
 				{
 				"categoryType": "Celebration",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
 					"name": "Twelve Drummers Drumming",
@@ -515,7 +532,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -532,7 +549,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
 					"name": "Christmas at Biltmore",
@@ -549,7 +566,7 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -577,7 +594,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -594,7 +611,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
 					"name": "Christmas by Candlelight Guided Tours",
@@ -611,7 +628,7 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -639,7 +656,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -657,7 +674,7 @@ var data = [{
 				{
 				"categoryType": "Tour",
 				"id": 20,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
 					"name": "A Christmas Stroll Through the Past",
@@ -674,7 +691,7 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -702,7 +719,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -719,7 +736,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
 					"name": "Holiday Tours at Tryon Palace",
@@ -735,7 +752,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"id": 30,
 				"events": [
 					{
@@ -757,14 +774,14 @@ var data = [{
 			"id": 8,
 			"icon-animation": "",
 			"position": {
-				"top": "110px",
-				"left": "1650px"
+				"top": "100px",
+				"left": "1580px"
 				},
 			"categories": [
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -781,7 +798,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
 					"name": "Dickens Christmas Candlelight Tour",
@@ -797,7 +814,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"id": 30,
 				"events": [
 					{
@@ -826,7 +843,7 @@ var data = [{
 				{
 				"categoryType": "Light Show",
 				"id": 10,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
 					{
@@ -843,7 +860,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tree Farm",
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",
@@ -860,7 +877,7 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"id": 30,
-				"categoryIcon": "fileName",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
 					"name": "Charlotte Motor Speedway Light Show",

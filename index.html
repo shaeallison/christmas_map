@@ -17,6 +17,50 @@
     </head>
 
     <body ng-app="myApp" ng-controller="BaseController as base">
+
+    <!-- category menu -->
+	<div class="center">
+    <ul class="key">
+    	<li class="event-icon">
+    		<div class="event-name">
+    		<img src="/graphics/christmas_icons-trees.svg">
+    		Tree Farm
+    		</div>
+    	</li>
+    	<li class="event-icon">
+    		<div class="event-name">
+    		<img src="/graphics/christmas_icons-lightshow.svg">
+    		Light Show
+    		</div>
+    	</li>
+    	<li class="event-icon">
+    		<div class="event-name">
+    		<img src="/graphics/christmas_icons-tours.svg">
+    		Tours
+    		</div>
+    	</li>
+    	<li class="event-icon">
+    		<div class="event-name">
+    		<img src="/graphics/christmas_icons-celebrations.svg">
+    		Celebrations
+    		</div>
+    	</li>
+    	<li class="event-icon">
+    		<div class="event-name">
+    		<img src="/graphics/christmas_icons-activities.svg">
+    		Activities
+    		</div>
+    	</li>
+    	<li class="event-icon">
+    		<a class="event-name" href="#key">
+    		<img src="/graphics/christmas_icons-production.svg">
+    		Production
+    		</a>
+    	</li>
+    </ul>
+    </div>
+<!-- end of category menu -->
+
     <div class="background">
     	<img class="background-svg" src="/images/map_background.svg" />
 
@@ -30,31 +74,46 @@
         </a> -->
 <!-- end of marker layer -->
 
-<!-- marker layer -->
-    <div class="marker-layer" ng-repeat="cities in cityCtrl.cities">
+    <div ng-repeat="cities in cityCtrl.cities">
+
+ <!-- marker layer -->
+        <div class="city-layer">
         <a marker href ng-click="details.show=!details.show"  class="marker ng-scope" ng-style="{{cities.position}}">
             <div>
                 <img class="city-icon" ng-src="{{cities.cityFlag}}" />
             </div>
         </a>
-        <div ng-show="details.show" id="{{cities.city + cities.id}}"> 
-        	<div class="modal-header">{{cities.city}}</div>
-        	<div ng-repeat="categories in cities.categories">
-        		<div class="modal-subhead">{{categories.categoryType}}</div>
-        	<div ng-repeat="events in categories.events">
+        </div>
+<!-- end of marker layer -->
+
+<!--ng-show popup -->
+        <div class="details" ng-show="details.show"  id="{{cities.city + cities.id}}">
+        <div class="close"><a href ng-click="details.show=!details.show"><img class="close-svg" src="/graphics/christmas_icons-close.svg" /></a></div>
+        <br />
+        <div class="show-content">
+        	<div class="show-header">{{cities.city}}</div>
+        	<div class= "left" ng-repeat="categories in cities.categories">
+        	<div class="icon-box">
+        	<a class="event-icons" href ng-click="details2.show=!details2.show">
+        		<div class="category-icon"><img ng-src="{{categories.categoryIcon}}" /></div>
+        		<div class="show-subhead">{{categories.categoryType}}</div>
+        		</a>
+        	</div> 
+        	<div ng-show="details2.show" ng-repeat="events in categories.events">
         		<div class="event-information">
         			<img class="event-thumb" ng-src="{{events.image}}">
         			<div class="event-title">{{events.name}}</div>
         			<div class="event-description">{{events.description}}</div>
         		</div>
-        	</div> <!-- end of events repeater -->
+        	</div><!-- end of events repeater -->
 
         	</div> <!-- end of categories repeater -->
+        </div><!-- end of show content -->
         </div> <!-- end of ng-show -->
 
     </div> <!-- end of cities repeater -->
 
-<!-- end of marker layer -->
+
             
         </div><!-- end of cities repeater -->
     </div><!-- end of CitiesController -->
@@ -62,48 +121,6 @@
     </div><!-- end of background image -->
 
 
-<!-- category menu -->
-	<div class="center">
-    <ul class="key">
-    	<li class="event-icon">
-    		<div class="event-name">
-    		<img src="/graphics/christmas_icons-trees.svg">
-    		Tree Farm
-    		</div>
-    	</li>
-    	<li class="event-icon">
-    		<a class="event-name" href="#">
-    		<img src="/graphics/christmas_icons-lightshow.svg">
-    		Light Show
-    		</a>
-    	</li>
-    	<li class="event-icon">
-    		<a class="event-name" href="#">
-    		<img src="/graphics/christmas_icons-tours.svg">
-    		Tours
-    		</a>
-    	</li>
-    	<li class="event-icon">
-    		<a class="event-name" href="#">
-    		<img src="/graphics/christmas_icons-celebrations.svg">
-    		Celebrations
-    		</a>
-    	</li>
-    	<li class="event-icon">
-    		<a class="event-name" href="#">
-    		<img src="/graphics/christmas_icons-activities.svg">
-    		Activities
-    		</a>
-    	</li>
-    	<li class="event-icon">
-    		<a class="event-name" href="#">
-    		<img src="/graphics/christmas_icons-production.svg">
-    		Production
-    		</a>
-    	</li>
-    </ul>
-    </div>
-<!-- end of category menu -->
 
     
     </body> <!-- end of BaseController -->

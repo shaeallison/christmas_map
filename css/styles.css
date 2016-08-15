@@ -20,9 +20,8 @@ Mints #354039, #6B7F73, #CCE2D3
 	position: absolute;
 	height: 1800px;
 	width: auto;
-	top: -18%;
-	left: -40%;
-	z-index: -1;
+	top: -18%;	
+	z-index: -2;
 }
 
 *{
@@ -87,7 +86,9 @@ li img{
 }
 
 /* markers */
-
+.city-layer{
+	z-index: -1;
+}
 
 
 .marker{
@@ -99,19 +100,26 @@ li img{
 }
 
 
+/* ng-show details */
 
-/* modal window */
+.show-content{
 
-.modal-header{
-	color: #5DB59C;
-	font-family: 'Big John';
-	font-size: 3em;
 }
 
-.modal-subhead{
+.show-header{
+	color: #5DB59C;
+	font-family: 'Big John';
+	font-size: 5em;
+}
+
+.show-subhead{
 	font-size: 2em;
 	color:#E2614B;
 	font-family: 'Big John';
+}
+
+a.event-icons{
+	text-decoration: none;
 }
 
 .event-thumb{
@@ -131,19 +139,41 @@ li img{
 	font-weight: 300;
 }
 
-/* 
-.modal {
-  opacity: 0;
-  visibility: hidden;
-  width: 100%;
-  box-sizing: border-box;
-  background: white;
+
+.details{
+	background: #ffffff;
+	box-sizing: border-box;
+	overflow: hidden;
+	z-index: 1;
+	position: relative;
+	padding: 15px;
 }
 
-
-#modal:active{
-  opacity: 1;
-  visibility: visible
+.close{
+	float:right;
 }
-*/
+
+.close-svg{
+	width: 7em;
+}
+
+.city-img{
+	float: right;
+}
+
+.left{
+	float:left;
+}
+
+.icon-box{
+	width: 310px;
+	text-align: center;
+}
+
+.category-icon{
+	width: 12em;
+	display: block;
+	margin: auto;
+}
+
 
