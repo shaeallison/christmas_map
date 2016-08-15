@@ -76,46 +76,46 @@
 
     <div ng-repeat="cities in cityCtrl.cities">
 
- <!-- marker layer -->
+ <!-- city marker layer -->
         <div class="city-layer">
-        <a marker href ng-click="details.show=!details.show"  class="marker ng-scope" ng-style="{{cities.position}}">
-            <div>
-                <img class="city-icon" ng-src="{{cities.cityFlag}}" />
-            </div>
+        <div marker class="marker ng-scope" ng-style="{{cities.position}}">
+                <img class="cit-marker-icon" ng-src="{{cities.cityFlag}}" />
+        </div>
+        </div>
+<!-- end of city marker layer -->
+
+	<div ng-repeat="categories in cities.categories">
+	<div ng-repeat="events in categories.events">
+
+ <!-- category marker layer -->
+        <div class="events-layer">
+        <a marker href ng-click="details.show=!details.show"  class="marker ng-scope" ng-style="{{categories.position}}">
+                <img class="cat-marker-icon" ng-src="{{categories.categoryIcon}}" />
         </a>
         </div>
-<!-- end of marker layer -->
+<!-- end of category marker layer -->
 
 <!--ng-show popup -->
         <div class="details" ng-show="details.show"  id="{{cities.city + cities.id}}">
         <div class="close"><a href ng-click="details.show=!details.show"><img class="close-svg" src="/graphics/christmas_icons-close.svg" /></a></div>
-        <br />
-        <div class="show-content">
-        	<div class="show-header">{{cities.city}}</div>
-        	<div class= "left" ng-repeat="categories in cities.categories">
-        	<div class="icon-box">
-        	<a class="event-icons" href ng-click="details2.show=!details2.show">
-        		<div class="category-icon"><img ng-src="{{categories.categoryIcon}}" /></div>
-        		<div class="show-subhead">{{categories.categoryType}}</div>
+        	<a class="event-icons">
+        		<div class="show-header">{{categories.categoryType}}</div>
+        		<div class="show-subhead">{{cities.city}}</div>
         		</a>
-        	</div> 
-        	<div ng-show="details2.show" ng-repeat="events in categories.events">
-        		<div class="event-information">
+        	<div ng-repeat="events in categories.events">
+        		<div class="event-information" >
         			<img class="event-thumb" ng-src="{{events.image}}">
         			<div class="event-title">{{events.name}}</div>
         			<div class="event-description">{{events.description}}</div>
         		</div>
-        	</div><!-- end of events repeater -->
-
-        	</div> <!-- end of categories repeater -->
-        </div><!-- end of show content -->
+        	</div><!-- end of nested events repeater -->
         </div> <!-- end of ng-show -->
+        </div> <!-- end of events repeater -->
+        </div> <!-- end of categories repeater -->
+        
 
     </div> <!-- end of cities repeater -->
 
-
-            
-        </div><!-- end of cities repeater -->
     </div><!-- end of CitiesController -->
     
     </div><!-- end of background image -->

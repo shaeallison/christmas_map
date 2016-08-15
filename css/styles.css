@@ -81,12 +81,18 @@ li img{
 	width: 100%;
 }
 
-.city-icon{
+
+/* markers */
+
+.cit-marker-icon{
 	width: 100px;
 }
 
-/* markers */
-.city-layer{
+.cat-marker-icon{
+	width: 55px;
+}
+
+.city-layer, .events-layer{
 	z-index: -1;
 }
 
@@ -102,9 +108,6 @@ li img{
 
 /* ng-show details */
 
-.show-content{
-
-}
 
 .show-header{
 	color: #5DB59C;
@@ -147,6 +150,7 @@ a.event-icons{
 	z-index: 1;
 	position: relative;
 	padding: 15px;
+	width:150%;
 }
 
 .close{
@@ -159,15 +163,6 @@ a.event-icons{
 
 .city-img{
 	float: right;
-}
-
-.left{
-	float:left;
-}
-
-.icon-box{
-	width: 310px;
-	text-align: center;
 }
 
 .category-icon{

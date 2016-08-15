@@ -15,22 +15,24 @@ var data = [{
 			"id": 1,
 			"icon-animation": "",
 			"position": {
-				"top": "330px",
-				"left": "740px"
+				"top": "325px",
+				"left": "720px"
 				},
 			"categories": [
 				{
 				"categoryType": "Light Show",
 				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
+				"position":{
+					"top": "370px",
+					"left": "760px"
+				},
 				"events": [
 					{
 					"name": "Speedway Christmas",
 					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "charlottemotorspeedway.com"
@@ -40,7 +42,7 @@ var data = [{
 					"address": "100 Main Street, McAdenville, NC 28101",
 					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "Dec 1st - Dec 26th",
 					"webLink": "charlottemotorspeedway.com"
@@ -48,9 +50,8 @@ var data = [{
 					{
 					"name": "Panthers Tree-Lighting Celebration",
 					"address": "800 S Mint St, Charlotte, NC 28202",
-					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.panthers.com/schedule/calendar.html"
@@ -60,7 +61,7 @@ var data = [{
 					"address": "700 W C St, Kannapolis, NC 28081",
 					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "https://kannapolischristmas.com/"
@@ -71,13 +72,16 @@ var data = [{
 				"categoryType": "Tour",
 				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
+				"position":{
+					"top": "370px",
+					"left": "680px"
+				},
 				"events": [
 					{
 					"name": "Fourth Ward Holiday Home Tour",
 					"address": "Fourth Ward, Charlotte, NC 29202",
-					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.fofw.org/#!holidayhometour/cc6x"
@@ -85,9 +89,8 @@ var data = [{
 					{
 					"name": "Downtown Christmas Village in Belmont",
 					"address": "Main Street, Belmont, NC 28012",
-					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.cityofbelmont.org/"
@@ -95,9 +98,8 @@ var data = [{
 					{
 					"name": "Christmas in Davidson",
 					"address": "S Main St, Davidson, NC 28036",
-					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.christmasindavidson.com/"
@@ -105,9 +107,8 @@ var data = [{
 					{
 					"name": "Holiday at the Garden at DSBG",
 					"address": "6500 S New Hope Rd, Belmont, NC 28012",
-					"mapLocation": "coordinates",
 					"image": "/images/thumb-example.png",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.dsbg.org/"
@@ -115,9 +116,8 @@ var data = [{
 					{
 					"name": "100 Years of Christmas - Historic Latta Plantation",
 					"address": "5225 Sample Rd, Huntersville, NC 28078",
-					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.lattaplantation.org/"
@@ -125,9 +125,8 @@ var data = [{
 					{
 					"name": "Gingerbread Lane - Ballantyne Hotel",
 					"address": "10000 Ballantyne Commons Pkwy, Charlotte, NC 28277",
-					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.theballantynehotel.com/"
@@ -138,13 +137,17 @@ var data = [{
 				"categoryType": "Production",
 				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"position":{
+					"top": "400px",
+					"left": "725px"
+				},
 				"events": [
 					{
 					"name": "The Nutcracker",
 					"address": "130 N Tryon St, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://charlotteballet.org/"
@@ -154,7 +157,7 @@ var data = [{
 					"address": "130 N Tryon St, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://charlottesymphony.org/"
@@ -164,7 +167,7 @@ var data = [{
 					"address": "430 S Tryon St, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.carolinavoices.org/"
@@ -174,7 +177,7 @@ var data = [{
 					"address": "420 S Tryon St, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.bechtler.org/Programs/Jazz-at-the-bechtler"
@@ -184,7 +187,7 @@ var data = [{
 					"address": "300 E 7th St, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "https://www.ctcharlotte.org/Online/default.asp"
@@ -194,7 +197,7 @@ var data = [{
 					"address": "100 N Tryon St, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.foundershall.com/"
@@ -205,13 +208,17 @@ var data = [{
 				"categoryType": "Celebration",
 				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+				"position":{
+					"top": "400px",
+					"left": "760px"
+				},
 				"events": [
 					{
 					"name": "Weihnachtsmarkt",
 					"address": "4150 Yancey Rd, Charlotte, NC 28217",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.oldemeckbrew.com/"
@@ -221,7 +228,7 @@ var data = [{
 					"address": "820 Hamilton St, Charlotte, North Carolina 28206",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://vintage-charlotte.com/"
@@ -231,7 +238,7 @@ var data = [{
 					"address": "4330 Westmont Dr, Charlotte, NC 28217",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://billygrahamlibrary.org/"
@@ -241,7 +248,7 @@ var data = [{
 					"address": "400 E MLK Jr Blvd, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.nascarhall.com/events/holiday-happenings"
@@ -251,7 +258,7 @@ var data = [{
 					"address": "2500 E Independence Blvd, Charlotte, NC 28205",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "https://southernshows.com/scs"
@@ -261,7 +268,7 @@ var data = [{
 					"address": "139 E Main St, Rock Hill, SC 29730",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "Dec 1st - 4th",
 					"webLink": "http://www.christmasvillerockhill.com/"
@@ -269,32 +276,20 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Tree Farm",
-				"categoryIcon": "/graphics/christmas_icons-trees.svg",
-				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "fileName",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
-				],
-				},
-				{
 				"categoryType": "Activities",
 				"id": 50,
 				"categoryIcon": "/graphics/christmas_icons-activities.svg",
+				"position":{
+					"top": "340px",
+					"left": "700px"
+				},
 				"events": [
 					{
 					"name": "WBT Holiday on Ice",
 					"address": "400 E MLK Jr Blvd, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://wbt.com/shows/holiday-on-ice/"
@@ -304,7 +299,7 @@ var data = [{
 					"address": "Piedmont and Northern Railroad, Charlotte, NC",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.traintochristmastown.com/"
@@ -314,7 +309,7 @@ var data = [{
 					"address": "400 E MLK Jr Blvd, Charlotte, NC 28202",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "example",
 					"webLink": "http://www.nascarhall.com/events/holiday-happenings"
@@ -324,7 +319,7 @@ var data = [{
 					"address": "288 Dairy Barn Ln, Fort Mill, SC 29715",
 					"mapLocation": "coordinates",
 					"image": "fileName",
-					"categoryIcon": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
 					"description": "sdkjfklsajfdkladjflkdjsf.",
 					"dates": "Nov 26th",
 					"webLink": "http://www.ascgreenway.org/events/detail/winter-wonderland-craft-fair-1"
