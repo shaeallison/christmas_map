@@ -89,8 +89,8 @@
 
  <!-- category marker layer -->
         <div class="events-layer">
-        <a marker href ng-click="details.show=!details.show"  class="marker ng-scope" ng-style="{{categories.position}}">
-                <img class="cat-marker-icon" ng-src="{{categories.categoryIcon}}" />
+        <a marker href ng-click="details.show=!details.show"  class="marker ng-scope" ng-style="{{events.position}}">
+                <img class="cat-marker-icon" ng-src="{{events.categoryIcon}}" />
         </a>
         </div>
 <!-- end of category marker layer -->
@@ -102,7 +102,7 @@
         		<div class="show-header">{{categories.categoryType}}</div>
         		<div class="show-subhead">{{cities.city}}</div>
         		</a>
-        	<div ng-repeat="events in categories.events">
+        	<div> <!-- <div ng-repeat="events in categories.events"> use to list all events when clicking on icon -->
         		<div class="event-information" >
         			<img class="event-thumb" ng-src="{{events.image}}">
         			<div class="event-title">{{events.name}}</div>
