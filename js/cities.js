@@ -11,7 +11,7 @@ app.controller('CitiesController', function() {
 var data = [{
 			"city": "Charlotte",
 			"cityFlag": "/graphics/christmas_icons-charlotte.svg",
-			"image": "/images/charlotte.png",
+			"image": "/images/pic-ratio.png",
 			"icon-animation": "",
 			"position": {
 				"top": "325px",
@@ -110,15 +110,15 @@ var data = [{
 					},
 					{
 					"name": "Christmas in Davidson",
-					"address": "S Main St, Davidson, NC 28036",
+					"address": "South Main Street, Davidson, NC 28036",
 					"position":{
 						"top": "315px",
 						"left": "740px"
 					},
 					"image": "/images/thumb-example.png",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
+					"description": "An annual tradition since 1988, Christmas in Davidson kicks off the holiday season offering the young and the young-at-heart three magical nights of holiday family fun! As the largest and most popular Davidson event, Christmas in Davidson will immediately put you into the holiday spirit. With an estimated attendance of 20,000+ each year, Christmas in Davidson offers you and your loved ones the opportunity to make holiday memories. Take a ride on the trolley, stroll down beautiful and picturesque Main Street, start your holiday shopping early at the many wonderful and unique specialty shops, take a journey through the Holiday Village of vendors on the Village Green and enjoy a wide variety of entertainment on the Library Stage.",
+					"dates": "Nov ?? - Dec ??",
 					"webLink": "http://www.christmasindavidson.com/"
 					},
 					{
@@ -553,13 +553,153 @@ var data = [{
 					"address": "450 Groce Road, Ronda, NC 28670",
 					"position": {
 						"top": "135px",
-						"left": "775px"
+						"left": "735px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "Carol along with the Raffaldini chorus, enjoy light refreshments, and a 3pm visit from the Italian Christmas character, La Befana. This mystical woman will read her story fireside for all to enjoy. While visiting, participating in some last minute shopping. This is an event for your entire family!",
 					"dates": "Dec 11",
 					"webLink": "https://www.raffaldini.com/event/an-afternoon-of-holiday-cheer/"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Pilot Mountain",
+			"cityFlag": "",
+			"icon-animation": "",
+			"position": {
+				"top": "",
+				"left":"",
+			},
+		"categories": [
+			{
+				"categoryType": "Light Show",
+				"id": 10,
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+				"events": [
+					{
+					"name": "Pilot Mountain Christmas",
+					"address": "450 Groce Road, Ronda, NC 28670",
+					"position": {
+						"top": "115px",
+						"left": "770px"
+					},
+					"image": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Enjoy a trail walking tour through a decorated four acres of Pilot Mountain. View over 750,000 lights and hundreds of figures in Santa's enchanted forest. See animated windows, Santa's workshop, computer animated displays, a talking christmas tree and much more!",
+					"dates": "Nov 24 - Jan 2",
+					"webLink": "http://pilotmountainchristmas.com/"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Kernersville",
+			"cityFlag": "",
+			"icon-animation": "",
+			"position": {
+				"top": "",
+				"left":"",
+			},
+		"categories": [
+			{
+				"categoryType": "Tour",
+				"id": 20,
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
+				"events": [
+					{
+					"name": "Christmas at Korner's Folly",
+					"address": "413 South Main St. Kernersville, NC 27284",
+					"position": {
+						"top": "150px",
+						"left": "860px"
+					},
+					"image": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Körner’s Folly is transformed in the holidays with floor-to-ceiling garland, lights, live holiday music, and Christmas trees in nearly every room.  Tours and special events promise visitors of all ages holiday cheer and an unforgettable experience!",
+					"dates": "Nov 27 - Jan 2",
+					"webLink": "http://www.kornersfolly.org/visit/seasonal-events/"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Highpoint",
+			"cityFlag": "",
+			"icon-animation": "",
+			"position": {
+				"top": "",
+				"left":"",
+			},
+		"categories": [
+			{
+				"categoryType": "Production",
+				"id": 30,
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"events": [
+					{
+					"name": "The Nutcracker",
+					"address": "220 E Commerce Ave, High Point, NC 27260",
+					"position": {
+						"top": "180px",
+						"left": "860px"
+					},
+					"image": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Choreography is by award-winning Artistic Director, Gary Taylor. Sets are by award-winning designer, Howard Jones, Lighting is by Craig Stelzenmueller.  Original costumes are designed by Executive Director and Founder Rita Taylor.",
+					"dates": "Dec 16 - Dec 23",
+					"webLink": "http://highpointballet.org/html/nutcracker.html"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Winston-Salem",
+			"cityFlag": "",
+			"icon-animation": "",
+			"position": {
+				"top": "",
+				"left":"",
+			},
+		"categories": [
+			{
+				"categoryType": "Tour",
+				"id": 20,
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
+				"events": [
+					{
+					"name": "Christmas by Candlelight Guided Tours",
+					"address": "900 Old Salem Road, Winston-Salem, NC 27101",
+					"position": {
+						"top": "155px",
+						"left": "820px"
+					},
+					"image": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Take a guided tour by candlelight through the Historic District where the customs and traditions of Christmas in Salem will be brought to life through all of your senses.",
+					"dates": "Nov 18 - Dec 23",
+					"webLink": "http://www.oldsalem.org/events/event/christmas-by-candlelight-tours/"
+					}
+				],
+				},
+				{
+				"categoryType": "Light Show",
+				"id": 10,
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+				"events": [
+					{
+					"name": "Tanglewood Festival of Lights",
+					"address": "Tanglewood Park, 4061 Clemmons Rd, Clemmons, NC 27012",
+					"position": {
+						"top": "170px",
+						"left": "805px"
+					},
+					"image": "fileName",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Tanglewood Park's rolling countryside will be transformed into a winter wonderland of giant, twinkling snowflakes and whimsical scenes! Entering our 25th season, Tanglewood's Festival of Lights continues to be one of the largest and most spectacular light shows in the entire Southeast.",
+					"dates": "Nov 18 - Jan 1",
+					"webLink": "http://www.forsyth.cc/Parks/Tanglewood/fol/index.html"
 					}
 				],
 				},
@@ -664,19 +804,7 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"position": {
-						"top": "185px",
-						"left": "1053px"
-					},
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
@@ -684,19 +812,7 @@ var data = [{
 				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"position": {
-						"top": "185px",
-						"left": "1053px"
-					},
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-trees.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
@@ -709,7 +825,7 @@ var data = [{
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
-						"left": "1053px"
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -722,7 +838,7 @@ var data = [{
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
-						"left": "1053px"
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -735,7 +851,7 @@ var data = [{
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
-						"left": "1053px"
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -748,7 +864,7 @@ var data = [{
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
-						"left": "1053px"
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -761,7 +877,7 @@ var data = [{
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
-						"left": "1053px"
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -773,8 +889,8 @@ var data = [{
 					"name": "A Christmas Carol",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "175px",
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -786,8 +902,8 @@ var data = [{
 					"name": "Moscow Ballet's Great Russian Nutcracker",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "175px",
+						"left": "11130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -799,8 +915,8 @@ var data = [{
 					"name": "Holiday Songs: Music Around the World",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "175px",
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -812,8 +928,8 @@ var data = [{
 					"name": "Moscow Ballet's Great Russian Nutcracker",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "175px",
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -825,8 +941,8 @@ var data = [{
 					"name": "Christmas Concert: Britten's Saint Nicolas, plus carols",
 					"address": "401 Chapel Dr, Durham, NC 27708",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "165px",
+						"left": "1115px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -843,10 +959,10 @@ var data = [{
 				"events": [
 					{
 					"name": "Kwanzaa",
-					"address": "Holton Career and Resource Center, 401 N. Driver St. Durham, NC 27703",
+					"address": "401 N. Driver St. Durham, NC 27703",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "170px",
+						"left": "1150px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
@@ -858,8 +974,8 @@ var data = [{
 					"name": "KwanzaaFest",
 					"address": "220 Foster St. Durham, NC 27701",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "155px",
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
@@ -878,8 +994,8 @@ var data = [{
 					"name": "100 Years of Christmas at Stagville",
 					"address": "5828 Old Oxford Hwy. Durham, NC 27712",
 					"position": {
-						"top": "140px",
-						"left": "1195px"
+						"top": "115px",
+						"left": "1175px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
@@ -891,8 +1007,8 @@ var data = [{
 					"name": "Christmas by Candlelight",
 					"address": "2828 Duke Homestead Rd, Durham, NC 27705",
 					"position": {
-						"top": "140px",
-						"left": "1195px"
+						"top": "155px",
+						"left": "1130px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
@@ -905,7 +1021,7 @@ var data = [{
 					"address": "4409 Bennett Memorial Rd. Durham, NC 27705",
 					"position": {
 						"top": "140px",
-						"left": "1195px"
+						"left": "1095px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
@@ -918,7 +1034,7 @@ var data = [{
 					"address": "4409 Bennett Memorial Rd. Durham, NC 27705",
 					"position": {
 						"top": "140px",
-						"left": "1195px"
+						"left": "1095px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
@@ -944,16 +1060,7 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
@@ -963,7 +1070,10 @@ var data = [{
 					{
 					"name": "Christmas at Biltmore",
 					"address": "1 Lodge St, Asheville, NC 28803",
-					"mapLocation": "coordinates",
+					"position": {
+						"top": "340px",
+						"left": "430px"
+					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Immerse yourself in the holiday spirit at the most enchanting place imaginable. The wonders of Biltmore House filled with masterpieces of art and Vanderbilt family treasures are enhanced with more than 70 exquisitely decorated Christmas trees, miles of garlands, hundreds of poinsettias, and more lights than you can count.",
@@ -977,16 +1087,7 @@ var data = [{
 				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 			]
@@ -1005,19 +1106,7 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"position": {
-						"top": "185px",
-						"left": "1053px"
-					},
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
@@ -1029,8 +1118,8 @@ var data = [{
 					"name": "Made 4 the Holidays Arts, Crafts & Pottery Show",
 					"address": "501 Yanceyville Street, Greensboro, NC 27405",
 					"position": {
-						"top": "185px",
-						"left": "1053px"
+						"top": "155px",
+						"left": "923px"
 					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
@@ -1044,19 +1133,7 @@ var data = [{
 				"categoryType": "Tour",
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
-					{
-					"name": "Christmas by Candlelight Guided Tours",
-					"address": "900 Old Salem Road, Winston-Salem, NC 27101",
-					"position": {
-						"top": "185px",
-						"left": "1053px"
-					},
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-tours.svg",
-					"description": "Take a guided tour by candlelight through the Historic District where the customs and traditions of Christmas in Salem will be brought to life through all of your senses.",
-					"dates": "Nov 18 - Dec 23",
-					"webLink": "http://www.oldsalem.org/events/event/christmas-by-candlelight-tours/"
-					}
+					
 				],
 				},
 				{
@@ -1064,16 +1141,7 @@ var data = [{
 				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 			]
@@ -1095,7 +1163,10 @@ var data = [{
 					{
 					"name": "Holiday Floatilla",
 					"address": "Wrightsville Beach",
-					"mapLocation": "coordinates",
+					"position": {
+						"top": "670px",
+						"left": "1390px"
+					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "It is the Southern coastal version of a holiday parade – on water – at night.",
@@ -1112,7 +1183,10 @@ var data = [{
 					{
 					"name": "A Christmas Stroll Through the Past",
 					"address": "503 Market St, Wilmington, NC 28401",
-					"mapLocation": "coordinates",
+					"position": {
+						"top": "670px",
+						"left": "1350px"
+					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "The Bellamy Mansion Museum and the Burgwin-Wright House and Gardens invite the community on a Christmas Stroll Through the Past in historic downtown Wilmington, NC. Attendees can celebrate the holidays with period decorations, music, costumed interpreters, a petting zoo, refreshments and more.",
@@ -1126,16 +1200,7 @@ var data = [{
 				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 			]
@@ -1154,16 +1219,7 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
@@ -1173,7 +1229,10 @@ var data = [{
 					{
 					"name": "Holiday Tours at Tryon Palace",
 					"address": "529 S Front St, New Bern, NC 28562",
-					"mapLocation": "coordinates",
+					"position":{
+						"top": "420px",
+						"left": "1530px",
+					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "The Governor’s Palace and historic homes are decked out for the holidays and open for daily tours. Explore the traditions of Christmases past throughout the Tryon Palace grounds.",
@@ -1187,16 +1246,7 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"id": 30,
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 			]
@@ -1215,16 +1265,7 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
@@ -1234,7 +1275,10 @@ var data = [{
 					{
 					"name": "Dickens Christmas Candlelight Tour",
 					"address": "505 S Broad St., Edenton, NC 27932",
-					"mapLocation": "coordinates",
+					"position":{
+						"top": "157px",
+						"left": "1600px",
+					},
 					"image": "fileName",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "You won’t want to miss this self-guided walking tour of homes of Edenton’s over-300-years old historic district, beautifully decorated for the holidays.",
@@ -1248,16 +1292,7 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"id": 30,
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 			]
@@ -1276,32 +1311,14 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
 				"categoryType": "Tree Farm",
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-trees.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 				{
@@ -1309,16 +1326,7 @@ var data = [{
 				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
-					{
-					"name": "Charlotte Motor Speedway Light Show",
-					"address": "5555 Concord Pkwy S, Concord, NC 28027",
-					"mapLocation": "coordinates",
-					"image": "fileName",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
-					"webLink": "example.com"
-					}
+					
 				],
 				},
 			]
