@@ -45,7 +45,7 @@ var data = [{
 					},
 					"image": "/images/thumb-example.png",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
+					"description": "The quiet little town of McAdenville, which lies along the South Fork River in Gaston County  N.C., comes alive in spectacular fashion each year as Christmas draws near.  Almost overnight, the small textile town is transformed into Christmas Town, USA. While much emphasis has been placed on the lighting of trees, this represents only a portion of the effort that goes into the preparation for Christmas.   The town residents play a big part as they decorate their doors in original styles according to their own personal feelings.  This gives a special expression of “Best Wishes for a Merry Christmas” from the townspeople to their visitors. ",
 					"dates": "Dec 1st - Dec 26th",
 					"webLink": "charlottemotorspeedway.com"
 					},
@@ -115,7 +115,7 @@ var data = [{
 						"top": "315px",
 						"left": "740px"
 					},
-					"image": "/images/thumb-example.png",
+					"image": "/images/davidson-downtown.jpg",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "An annual tradition since 1988, Christmas in Davidson kicks off the holiday season offering the young and the young-at-heart three magical nights of holiday family fun! As the largest and most popular Davidson event, Christmas in Davidson will immediately put you into the holiday spirit. With an estimated attendance of 20,000+ each year, Christmas in Davidson offers you and your loved ones the opportunity to make holiday memories. Take a ride on the trolley, stroll down beautiful and picturesque Main Street, start your holiday shopping early at the many wonderful and unique specialty shops, take a journey through the Holiday Village of vendors on the Village Green and enjoy a wide variety of entertainment on the Library Stage.",
 					"dates": "Nov ?? - Dec ??",
@@ -555,7 +555,7 @@ var data = [{
 						"top": "135px",
 						"left": "735px"
 					},
-					"image": "fileName",
+					"image": "/images/raffaldini-vineyards.jpg",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "Carol along with the Raffaldini chorus, enjoy light refreshments, and a 3pm visit from the Italian Christmas character, La Befana. This mystical woman will read her story fireside for all to enjoy. While visiting, participating in some last minute shopping. This is an event for your entire family!",
 					"dates": "Dec 11",
@@ -1074,7 +1074,7 @@ var data = [{
 						"top": "340px",
 						"left": "430px"
 					},
-					"image": "fileName",
+					"image": "/images/biltmore.jpg",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Immerse yourself in the holiday spirit at the most enchanting place imaginable. The wonders of Biltmore House filled with masterpieces of art and Vanderbilt family treasures are enhanced with more than 70 exquisitely decorated Christmas trees, miles of garlands, hundreds of poinsettias, and more lights than you can count.",
 					"dates": "Nov 4 - Jan 8",

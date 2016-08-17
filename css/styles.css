@@ -134,9 +134,10 @@ a.event-icons{
 	height:auto;
 	float: right;
 	padding-left: 20px;
-	margin-right: -95px;
+	margin-right: -75px;;
     z-index: 10;
     position: relative;
+    margin-top: -25px;
 }
 
 
@@ -154,25 +155,22 @@ a.event-icons{
 	margin-top:10px;
 }
 
-.top, .bottom{
+.top{
 	display: inline-block;
     width: 100%;
-}
-
-.bottom{
-	margin-top: 35px;
+    height: 100%;
 }
 
 
 .details{
-	background: #ffffff;
+	background: #E1EAE4;
 	box-sizing: border-box;
 	overflow: hidden;
 	z-index: 1;
 	position: relative;
 	padding: 15px;
-	max-width: 1900px;
-	max-height: 945px;
+	width:100vw;
+	height: 100vh;
 }
 
 .close{
@@ -182,7 +180,7 @@ a.event-icons{
 }
 
 .close-svg{
-	width: 6em;
+	width: 4em;
 }
 
 .city-img{

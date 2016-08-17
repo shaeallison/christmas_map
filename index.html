@@ -99,9 +99,8 @@
         <div class="details" ng-show="details.show"  id="{{cities.city + cities.id}}">
         <div class="wrapper">
         <div class="top">
-        <div class="close"><a href ng-click="details.show=!details.show"><img class="close-svg" src="/graphics/christmas_icons-close.svg" /></a></div>
+        <div class="close"><a href ng-click="details.show=!details.show"><img class="close-svg" src="/graphics/christmas_icons-circle-close-white.svg" /></a></div>
         	<img class="event-thumb" ng-src="{{events.image}}" />
-
         	<div class="show-header">{{events.name}}</div>
         	<div class="show-subhead">{{cities.city}}</div>
         <div> <!-- <div ng-repeat="events in categories.events"> use to list all events when clicking on icon -->
@@ -113,7 +112,6 @@
         			<div class="info-icon">
         				<div class="img"><img src="/graphics/christmas_icons-map.svg" /></div>
         				<div class="info-title">Address</div>
-        				<br/>
         				<div class="address-info">{{events.address}}<br/><div class="directions-link"><a href ng-src="{{events.webLink}}">Get Directions <img class="arrow" src="graphics/arrow.svg" /></a></div></div>
         			</div>
         		</div>
@@ -126,7 +124,7 @@
         			</div>
         		</div>
         	</div>
-        	<img class="cat-icon" ng-src="{{events.categoryIcon}}" />
+        	<!-- <img class="cat-icon" ng-src="{{events.categoryIcon}}" /> -->
         	</div><!-- end of top -->
         </div><!-- end of nested events repeater -->
         </div><!-- end of wrapper -->
