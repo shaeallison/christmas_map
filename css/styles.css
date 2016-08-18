@@ -140,11 +140,42 @@ a.event-icons{
     margin-top: -25px;
 }
 
+.event-thumb img{
+	width: 100%;
+}
+
+img.cat-icon{
+	width: 50%;
+    float: right;
+    margin-top: -30%;
+    margin-right: -10%;
+    z-index: 12;
+    position: relative;
+}
+
+.image-credit{
+    margin-left: 5px;
+    margin-top: -20px;
+    z-index: 12;
+    position: relative;
+    font-size: 10px;
+	color:#E1EAE4;
+	font-family: 'Open Sans';
+}
+
 
 .event-title{
 	font-family: 'Big John';
 	font-size: 1em;
 	color:#E2614B;
+}
+
+.left-side{
+	width: 100%;
+}
+
+.lower-right{
+	width: 100%;
 }
 
 .event-information{
@@ -153,6 +184,11 @@ a.event-icons{
 	font-weight: 300;
 	font-size: 1.3em;
 	margin-top:10px;
+}
+
+.web-link a{
+	text-decoration: none;
+	color: #E2614B;
 }
 
 .top{
@@ -197,9 +233,15 @@ a.event-icons{
 	margin-top: 15px;
 	font-family: 'Big John';
 	color:#49756A;
-	width: 300px;
-    margin-right: 150px;
+    margin-right: 8%;
     float: left;
+    min-width: 280px;
+    max-width: 300px;
+    width: 38%;
+}
+
+.info-icon.d{
+	margin-right:0px;
 }
 
 .info-icon img{
@@ -216,7 +258,7 @@ a.event-icons{
 .info-title{
 	padding-top: 22px;
     font-size: 2em;
-    height: 67px;
+    height: 70px;
     width: 100%;
 }
 
@@ -244,6 +286,7 @@ ul.key.inner{
 .directions-link a{
 	text-decoration: none;
 	color: #E2614B;
+	min-width: 280px;
 }
 
 .directions-link img.arrow{
