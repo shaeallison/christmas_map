@@ -1,6 +1,6 @@
-var app = angular.module('myApp', ['cities', 'angularModalService']);
+var app = angular.module('myApp', ['cities']);
 
-app.controller('BaseController', ['$scope', 'ModalService', function($scope, ModalService) {
+app.controller('BaseController', [function() {
 
  /*  $scope.details = {show: true}; */ /* only piece needed for ng-show */
 

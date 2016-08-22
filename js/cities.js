@@ -452,7 +452,7 @@ var data = [{
 				"events": [
 					{
 					"name": "WRAL Raleigh Christmas Parade",
-					"address": "Corner of Hillsborough St. at Saint Mary's St.",
+					"address": "Hillsborough St. at Saint Mary's St.",
 					"position": {
 						"top": "230px",
 						"left": "1200px"
@@ -555,19 +555,19 @@ var data = [{
 					"webLink": "http://www.ncsymphony.org/"
 					},
 					{
-					"name": "Holiday Pops",
+					"name": "A Pink Martini Christmas",
 					"address": "2 E. South St., Raleigh, NC 27601",
 					"position": {
 						"top": "245px",
 						"left": "1210px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/pops.png",
+					"imageCredit": "© North Carolina Symphony",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "",
-					"dates": "Nov 25 - Nov 26",
+					"description": "China Forbes returns! One of the world’s favorite cocktail, jazz, and world pop ensembles returns to Meymandi Concert Hall. Pink Martini delivers a festive holiday concert featuring beloved songs from around the globe. Led by bandleader Thomas Lauderdale, the “little orchestra” draws inspiration from music all over the world, crossing genres of classical, jazz and old-fashioned pop.",
+					"dates": "Dec 10",
 					"googleMaps": "",
-					"webLink": "http://www.ncsymphony.org/"
+					"webLink": "http://www.ncsymphony.org/events/index.cfm?view=details&viewref=calendar&detailid=3235&eid=4216"
 					}
 				],
 				},
@@ -625,8 +625,8 @@ var data = [{
 						"top": "115px",
 						"left": "770px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/pilot-mountain.jpg",
+					"imageCredit": "© Larry & Rachel Charpiat ",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "Enjoy a trail walking tour through a decorated four acres of Pilot Mountain. View over 750,000 lights and hundreds of figures in Santa's enchanted forest. See animated windows, Santa's workshop, computer animated displays, a talking christmas tree and much more!",
 					"dates": "Nov 24 - Jan 2",
@@ -657,13 +657,13 @@ var data = [{
 						"top": "150px",
 						"left": "860px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/korners-folly.jpg",
+					"imageCredit": "© Körner’s Folly",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Körner’s Folly is transformed in the holidays with floor-to-ceiling garland, lights, live holiday music, and Christmas trees in nearly every room.  Tours and special events promise visitors of all ages holiday cheer and an unforgettable experience!",
-					"dates": "Nov 27 - Jan 2",
+					"dates": "Nov 25 - Dec 31",
 					"googleMaps": "",
-					"webLink": "http://www.kornersfolly.org/visit/seasonal-events/"
+					"webLink": "https://www.kornersfolly.org/event/christmas/"
 					}
 				],
 				},
@@ -689,8 +689,8 @@ var data = [{
 						"top": "180px",
 						"left": "860px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/hp-ballet.jpg",
+					"imageCredit": "© High Point News",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "Choreography is by award-winning Artistic Director, Gary Taylor. Sets are by award-winning designer, Howard Jones, Lighting is by Craig Stelzenmueller.  Original costumes are designed by Executive Director and Founder Rita Taylor.",
 					"dates": "Dec 16 - Dec 23",
@@ -721,8 +721,8 @@ var data = [{
 						"top": "155px",
 						"left": "820px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/old-salem.jpg",
+					"imageCredit": "© Old Salem",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Take a guided tour by candlelight through the Historic District where the customs and traditions of Christmas in Salem will be brought to life through all of your senses.",
 					"dates": "Nov 18 - Dec 23",
@@ -743,8 +743,8 @@ var data = [{
 						"top": "170px",
 						"left": "805px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/tanglewood.jpg",
+					"imageCredit": "© J. Sinclair",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "Tanglewood Park's rolling countryside will be transformed into a winter wonderland of giant, twinkling snowflakes and whimsical scenes! Entering our 25th season, Tanglewood's Festival of Lights continues to be one of the largest and most spectacular light shows in the entire Southeast.",
 					"dates": "Nov 18 - Jan 1",
@@ -769,21 +769,6 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					{
-					"name": "Star of Bethlehem Show at Morehead Planetarium",
-					"address": "250 E. Franklin. St., Chapel Hill, NC 27514",
-					"position": {
-						"top": "185px",
-						"left": "1085px"
-					},
-					"image": "fileName",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "????",
-					"dates": "???? - Jan 1",
-					"googleMaps": "",
-					"webLink": "http://moreheadplanetarium.org/visit/show-schedule?fuseaction=page&filename=show_schedule.html"
-					}
 				],
 				},
 				{
@@ -799,8 +784,8 @@ var data = [{
 						"top": "180px",
 						"left": "1090px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/new-world.jpg",
+					"imageCredit": "© Visit Chapel Hill",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "El Fuego presents: A selection of fun Villancicos and Ensaladas (quod Libet) by Mateo Flecha and composers from Colonial Latin-America time.",
 					"dates": "Dec 18",
@@ -815,16 +800,17 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
-					"name": "Twelve Drummers Drumming",
+					"name": "Twelve Days of Christmas",
 					"address": "211 Pittsboro Street., Chapel Hill, NC 27516",
 					"position": {
 						"top": "190px",
 						"left": "1073px"
 					},
-					"image": "fileName",
+					"image": "/images/carolina-inn.jpg",
+					"imageCredit": "© Emily March",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "Dec 4",
+					"description": "The Carolina Inn, A Destination Hotel, will once again celebrate the Christmas season with enchanting decorations inspired by the traditional holiday song, The Twelve Days of Christmas. A vision of seasonal wonder will be displayed throughout the Inn including amazing gingerbread houses, magnificently decorated trees, beautifully appointed holiday décor, and events to keep children and adults of all ages entertained.",
+					"dates": "Dec 1 - Dec 31",
 					"googleMaps": "",
 					"webLink": "http://www.carolinainn.com/about/chapel-hill-event-calendar?year=2016&month=12"
 					},
@@ -835,8 +821,8 @@ var data = [{
 						"top": "185px",
 						"left": "1053px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/chapel-parade.jpg",
+					"imageCredit": "© Downtownchapelhill.com",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "A favorite Chapel Hill tradition, the annual holiday parade highlights the rich diversity of the community. From marching bands to business leaders, youth groups, and creatively decorated floats, this event puts everyone in a festive mood. At 10 a.m., the parade begins in front of the Post Office on Franklin Street and progresses through Chapel Hill, ending around noon at the Carrboro Town Hall.",
 					"dates": "Dec 10",

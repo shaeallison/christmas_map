@@ -45,6 +45,13 @@ body{
   src:  url('/fonts/open-sans/OpenSans-Regular.ttf') format('ttf'),
 }
 
+.legend{
+	text-align: center;
+    font-size: 3em;
+    font-family: 'Big John';
+    color: #49756A;
+}
+
 ul.key{
 	list-style-type: none;
 	text-align: center;
@@ -62,23 +69,26 @@ ul.key{
 	text-decoration: none;
 	font-family: 'Big John';
 	color: #E2614B;
+	font-size: .7em;
 }
 
 li{
 	display: inline-block;
-	padding: 10px;
+	padding: 15px;
 }
 
 li img{
-	width: 150px;
+	width: 75px;
 	display: block;
 	margin: auto;
+	padding-bottom: 10px;
 }
 
 .center{
 	position: absolute;
 	bottom: 0px;
-	width: 100%;
+	margin-left: 40px;
+	margin-bottom: 30px;
 }
 
 
@@ -145,10 +155,9 @@ a.event-icons{
 }
 
 img.cat-icon{
-	width: 50%;
+	width: 35%;
     float: right;
-    margin-top: -30%;
-    margin-right: -10%;
+    margin-top: -25%;
     z-index: 12;
     position: relative;
 }
