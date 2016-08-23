@@ -870,8 +870,8 @@ var data = [{
 						"top": "185px",
 						"left": "1130px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/carolina-ballet.jpg",
+					"imageCredit": "© Chris Walt",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "Join Carolina Ballet as they celebrate the 15th anniversary of Carolina Ballet’s family favorite, The Nutcracker. A holiday tradition that’s perfect for the whole family, Carolina Ballet’s is the only performance of The Nutcracker in the country with illusions created by world-renowned magician, Rick Thomas. Marvel as beloved characters levitate, disappear, and reappear before your very eyes.",
 					"dates": "Dec 9 - Dec 11",
@@ -879,14 +879,14 @@ var data = [{
 					"webLink": "http://www.dpacnc.com/events/detail/carolina-ballet-presents-the-nutcracker-1"
 					},
 					{
-					"name": "Dr. Seuss' How the Grinch Stole Christmas the Musical",
+					"name": "How the Grinch Stole Christmas the Musical",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
-						"top": "185px",
+						"top": "195px",
 						"left": "1130px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/dpac-grinch.jpg",
+					"imageCredit": "© DPAC",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "Discover the magic of Dr. Seuss’ classic holiday tale as it comes to life on stage. Featuring the hit songs “You’re A Mean One, Mr. Grinch” and “Welcome Christmas,” The Grinch discovers there’s more to Christmas than he bargained for in this heart-warming holiday classic.",
 					"dates": "Nov 29 - Dec 4",
@@ -894,14 +894,14 @@ var data = [{
 					"webLink": "http://www.dpacnc.com/events/detail/the-grinch"
 					},
 					{
-					"name": "Ira David Wood III's A Christmas Carol",
+					"name": "A Christmas Carol",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
-						"left": "1130px"
+						"left": "1140px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/dpac-carol.jpg",
+					"imageCredit": "© DPAC",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "Theatre In The Park's original musical comedy adaptation of A Christmas Carol, based on the book by Charles Dickens and adapted for the stage by Ira David Wood III, now in its 42nd year, has been cited as “one of the most successful shows in North Carolina theatre history” and voted one of “the top 20 events in the Southeast” by the Southeast Tourism Society.",
 					"dates": "Dec 15 - Dec 18",
@@ -909,14 +909,14 @@ var data = [{
 					"webLink": "http://www.dpacnc.com/events/detail/ira-david-wood-iiis-a-christmas-carol"
 					},
 					{
-					"name": "Mannheim Steamroller Christmas by Chip Davis",
+					"name": "Mannheim Steamroller Christmas",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
-						"left": "1130px"
+						"left": "1150px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/dpac-steamroller.jpg",
+					"imageCredit": "© DPAC",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "This year marks the 32nd Anniversary of the Christmas Tour and release of Mannheim Steamroller Christmas, an album that revolutionized the Holiday Season music category.",
 					"dates": "Dec 20",

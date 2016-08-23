@@ -1,5 +1,4 @@
 /* Colors 
-
 Teals #28403A, #49756A, #5DB59C, #6B9186
 Neutrals #51493F, #DDD0B3, #F9F3ED, #FFFFFF
 Reds #7F372A, #994233, #E2614B
@@ -302,5 +301,27 @@ ul.key.inner{
 	width:50px;
 	float: none;
 	height: auto;
+}
+
+.bottom{
+	width:100%;
+	text-align: center;
+	position:absolute;
+	bottom: 50px;
+}
+
+.back{
+	display: block;
+	margin: auto;
+	font-family: 'Big John';
+    font-size: 3em;
+    color: #E2614B;
+}
+
+.back a{
+	text-decoration:none;
+	color:#E2614B;
+	padding: .5em 2em .2em 2em;
+	border: 5px solid white;
 }
 
