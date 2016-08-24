@@ -25,6 +25,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Speedway Christmas",
+					"location": "Charlotte Motor Speedway",
 					"address": "5555 Concord Pkwy S, Concord, NC 28027",
 					"position":{
 						"top": "370px",
@@ -40,6 +41,7 @@ var data = [{
 					},
 					{
 					"name": "McAdenville",
+					"location": "McAdenville",
 					"address": "100 Main Street, McAdenville, NC 28101",
 					"position":{
 						"top": "350px",
@@ -55,6 +57,7 @@ var data = [{
 					},
 					{
 					"name": "Panthers Tree-Lighting",
+					"location": "Bank of America Stadium",
 					"address": "800 S Mint St, Charlotte, NC 28202",
 					"position":{
 						"top": "410px",
@@ -70,6 +73,7 @@ var data = [{
 					},
 					{
 					"name": "A Kannapolis Christmas",
+					"location": "Kannapolis",
 					"address": "700 W C St, Kannapolis, NC 28081",
 					"position":{
 						"top": "315px",
@@ -92,6 +96,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Fourth Ward Holiday Home Tour",
+					"location": "Charlotte",
 					"address": "Fourth Ward, Charlotte, NC 29202",
 					"position":{
 						"top": "385px",
@@ -107,6 +112,7 @@ var data = [{
 					},
 					{
 					"name": "Downtown Christmas Village",
+					"location": "Belmont",
 					"address": "Main Street, Belmont, NC 28012",
 					"position":{
 						"top": "350px",
@@ -121,7 +127,8 @@ var data = [{
 					"webLink": "http://www.cityofbelmont.org/"
 					},
 					{
-					"name": "Christmas in Davidson",
+					"name": "Christmas in...",
+					"location": "Davidson",
 					"address": "South Main Street, Davidson, NC 28036",
 					"position":{
 						"top": "315px",
@@ -136,7 +143,8 @@ var data = [{
 					"webLink": "http://www.christmasindavidson.com/"
 					},
 					{
-					"name": "Holiday at the Garden at DSBG",
+					"name": "Holiday at the Garden",
+					"location": "Daniel Stowe Botanical Gardens",
 					"address": "6500 S New Hope Rd, Belmont, NC 28012",
 					"position":{
 						"top": "400px",
@@ -152,6 +160,7 @@ var data = [{
 					},
 					{
 					"name": "100 Years of Christmas",
+					"location": "Historic Latta Plantation",
 					"address": "5225 Sample Rd, Huntersville, NC 28078",
 					"position":{
 						"top": "355px",
@@ -167,6 +176,7 @@ var data = [{
 					},
 					{
 					"name": "Gingerbread Lane",
+					"location": "Ballantyne Hotel",
 					"address": "10000 Ballantyne Commons Pkwy, Charlotte, NC 28277",
 					"position":{
 						"top": "430px",
@@ -189,6 +199,7 @@ var data = [{
 				"events": [
 					{
 					"name": "The Nutcracker",
+					"location": "Belk Theater",
 					"address": "130 N Tryon St, Charlotte, NC 28202",
 					"position":{
 						"top": "400px",
@@ -204,6 +215,7 @@ var data = [{
 					},
 					{
 					"name": "Charlotte Symphony: Magic of Christmas",
+					"location": "Belk Theater",
 					"address": "130 N Tryon St, Charlotte, NC 28202",
 					"position":{
 						"top": "400px",
@@ -219,6 +231,7 @@ var data = [{
 					},
 					{
 					"name": "The 62nd Annual Singing Christmas Tree",
+					"location": "Knight Theater",
 					"address": "430 S Tryon St, Charlotte, NC 28202",
 					"position":{
 						"top": "400px",
@@ -233,7 +246,8 @@ var data = [{
 					"webLink": "http://www.carolinavoices.org/"
 					},
 					{
-					"name": "Holiday Jazz at the Bechtler",
+					"name": "Holiday Jazz",
+					"location": "Bechtler Museum of Modern Art",
 					"address": "420 S Tryon St, Charlotte, NC 28202",
 					"position":{
 						"top": "400px",
@@ -249,6 +263,7 @@ var data = [{
 					},
 					{
 					"name": "The Best Christmas Pageant Ever",
+					"location": "ImaginOn",
 					"address": "300 E 7th St, Charlotte, NC 28202",
 					"position":{
 						"top": "400px",
@@ -271,6 +286,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Weihnachtsmarkt",
+					"location": "Olde Mecklenburg Brewery",
 					"address": "4150 Yancey Rd, Charlotte, NC 28217",
 					"position":{
 						"top": "390px",
@@ -286,6 +302,7 @@ var data = [{
 					},
 					{
 					"name": "Winter Market",
+					"location": "The Fillmore Charlotte",
 					"address": "820 Hamilton St, Charlotte, North Carolina 28206",
 					"position":{
 						"top": "370px",
@@ -301,6 +318,7 @@ var data = [{
 					},
 					{
 					"name": "Christmas at the Library",
+					"location": "Billy Graham Library",
 					"address": "4330 Westmont Dr, Charlotte, NC 28217",
 					"position":{
 						"top": "405px",
@@ -316,6 +334,7 @@ var data = [{
 					},
 					{
 					"name": "Southern Christmas Show",
+					"location": "The Park Expo and Conference Center",
 					"address": "2500 E Independence Blvd, Charlotte, NC 28205",
 					"position":{
 						"top": "400px",
@@ -331,6 +350,7 @@ var data = [{
 					},
 					{
 					"name": "ChristmasVille",
+					"location": "Rock Hill",
 					"address": "139 E Main St, Rock Hill, SC 29730",
 					"position":{
 						"top": "450px",
@@ -346,6 +366,7 @@ var data = [{
 					},
 					{
 					"name": "Winter Wonderland Craft Fair",
+					"location": "Anne Springs Close Greenway",
 					"address": "288 Dairy Barn Ln, Fort Mill, SC 29715",
 					"position":{
 						"top": "430px",
@@ -368,6 +389,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Holiday on Ice",
+					"location": "NASCAR Hall of Fame",
 					"address": "400 E MLK Jr Blvd, Charlotte, NC 28202",
 					"position":{
 						"top": "380px",
@@ -383,6 +405,7 @@ var data = [{
 					},
 					{
 					"name": "The Train to Christmas Town",
+					"location": "Piedmont and Northern Railroad",
 					"address": "Piedmont and Northern Railroad, Charlotte, NC",
 					"position":{
 						"top": "370px",
@@ -415,6 +438,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Lighting of the Tree",
+					"location": "Lafayette Village",
 					"address": "8450 Honeycutt Rd., Raleigh, NC 27615",
 					"position": {
 						"top": "185px",
@@ -430,6 +454,7 @@ var data = [{
 					},
 					{
 					"name": "Wendell Wonderland",
+					"location": "Wendell",
 					"address": "210 E. Fourth St., Wendell, NC 27591",
 					"position": {
 						"top": "240px",
@@ -452,6 +477,7 @@ var data = [{
 				"events": [
 					{
 					"name": "WRAL Raleigh Christmas Parade",
+					"location": "Raleigh",
 					"address": "Hillsborough St. at Saint Mary's St.",
 					"position": {
 						"top": "230px",
@@ -467,6 +493,7 @@ var data = [{
 					},
 					{
 					"name": "Lights on the Neuse",
+					"location": "Clayton",
 					"address": "1620 Loop Rd, Clayton, NC 27527",
 					"position": {
 						"top": "270px",
@@ -489,6 +516,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Back Archers",
+					"location": "Raleigh",
 					"address": "4533 Inwood Road, Raleigh, NC  27603",
 					"position": {
 						"top": "260px",
@@ -504,6 +532,7 @@ var data = [{
 					},
 					{
 					"name": "Boyce Farms",
+					"location": "Raleigh",
 					"address": "2813 Mount Vernon Church Road Raleigh, NC 27613",
 					"position": {
 						"top": "180px",
@@ -519,6 +548,7 @@ var data = [{
 					},
 					{
 					"name": "Jordan Lake Tree Farm",
+					"location": "Jordan Lake",
 					"address": "2170 Marthas Chapel Rd Apex NC 27523",
 					"position": {
 						"top": "250px",
@@ -540,7 +570,8 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
-					"name": "A Kids' Christmas",
+					"name": "A Kids Christmas",
+					"location": "Duke Energy Center for the Performing Arts",
 					"address": "2 E. South St., Raleigh, NC 27601",
 					"position": {
 						"top": "255px",
@@ -556,6 +587,7 @@ var data = [{
 					},
 					{
 					"name": "A Pink Martini Christmas",
+					"location": "Duke Energy Center for the Performing Arts",
 					"address": "2 E. South St., Raleigh, NC 27601",
 					"position": {
 						"top": "245px",
@@ -588,13 +620,14 @@ var data = [{
 				"events": [
 					{
 					"name": "An Afternoon of Holiday Cheer",
+					"location": "Ronda",
 					"address": "450 Groce Road, Ronda, NC 28670",
 					"position": {
 						"top": "135px",
 						"left": "735px"
 					},
 					"image": "/images/raffaldini-vineyards.jpg",
-					"imageCredit": "",
+					"imageCredit": "© Raffaldini Vineyards",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "Carol along with the Raffaldini chorus, enjoy light refreshments, and a 3pm visit from the Italian Christmas character, La Befana. This mystical woman will read her story fireside for all to enjoy. While visiting, participating in some last minute shopping. This is an event for your entire family!",
 					"dates": "Dec 11",
@@ -619,7 +652,8 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"events": [
 					{
-					"name": "Pilot Mountain Christmas",
+					"name": "Christmas Lights",
+					"location": "Pilot Mountain",
 					"address": "450 Groce Road, Ronda, NC 28670",
 					"position": {
 						"top": "115px",
@@ -652,6 +686,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Christmas at Korner's Folly",
+					"location": "Kernersville",
 					"address": "413 South Main St. Kernersville, NC 27284",
 					"position": {
 						"top": "150px",
@@ -684,6 +719,7 @@ var data = [{
 				"events": [
 					{
 					"name": "The Nutcracker",
+					"location": "High Point Theater",
 					"address": "220 E Commerce Ave, High Point, NC 27260",
 					"position": {
 						"top": "180px",
@@ -716,6 +752,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Christmas by Candlelight Guided Tours",
+					"location": "Old Salem Museum and Gardens",
 					"address": "900 Old Salem Road, Winston-Salem, NC 27101",
 					"position": {
 						"top": "155px",
@@ -738,6 +775,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Tanglewood Festival of Lights",
+					"location": "Clemmons",
 					"address": "Tanglewood Park, 4061 Clemmons Rd, Clemmons, NC 27012",
 					"position": {
 						"top": "170px",
@@ -779,7 +817,8 @@ var data = [{
 				"events": [
 					{
 					"name": "A New World Christmas",
-					"address": "Chapel of the Cross 304 E Franklin St. Chapel Hill, NC 27517",
+					"location": "Chapel of the Cross",
+					"address": "304 E Franklin St. Chapel Hill, NC 27517",
 					"position": {
 						"top": "180px",
 						"left": "1090px"
@@ -801,6 +840,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Twelve Days of Christmas",
+					"location": "Carolina Inn",
 					"address": "211 Pittsboro Street., Chapel Hill, NC 27516",
 					"position": {
 						"top": "190px",
@@ -816,7 +856,8 @@ var data = [{
 					},
 					{
 					"name": "Chapel Hill - Carrboro Holiday Parade",
-					"address": "211 Pittsboro Street., Chapel Hill, NC 27516",
+					"location": "Chapel Hill",
+					"address": "Franklin St, Chapel Hill, NC 27516",
 					"position": {
 						"top": "185px",
 						"left": "1053px"
@@ -865,6 +906,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Carolina Ballet Presents the Nutcracker",
+					"location": "Durham Performing Arts Center",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
@@ -880,6 +922,7 @@ var data = [{
 					},
 					{
 					"name": "How the Grinch Stole Christmas the Musical",
+					"location": "Durham Performing Arts Center",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "195px",
@@ -895,6 +938,7 @@ var data = [{
 					},
 					{
 					"name": "A Christmas Carol",
+					"location": "Durham Performing Arts Center",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
@@ -910,6 +954,7 @@ var data = [{
 					},
 					{
 					"name": "Mannheim Steamroller Christmas",
+					"location": "Durham Performing Arts Center",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
@@ -925,6 +970,7 @@ var data = [{
 					},
 					{
 					"name": "Hip Hop Nutchracker",
+					"location": "Durham Performing Arts Center",
 					"address": "123 Vivian Street, Durham, NC 27701",
 					"position": {
 						"top": "185px",
@@ -940,6 +986,7 @@ var data = [{
 					},
 					{
 					"name": "Moscow Ballet Nutcracker",
+					"location": "The Carolina Theater",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
 						"top": "175px",
@@ -955,6 +1002,7 @@ var data = [{
 					},
 					{
 					"name": "Music Around the World",
+					"location": "The Carolina Theater",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
 						"top": "175px",
@@ -970,6 +1018,7 @@ var data = [{
 					},
 					{
 					"name": "Christmas Concert",
+					"location": "Duke Chapel",
 					"address": "401 Chapel Dr, Durham, NC 27708",
 					"position": {
 						"top": "145px",
@@ -992,6 +1041,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Kwanzaa",
+					"location": "Holton Career and Resource Center",
 					"address": "401 N. Driver St. Durham, NC 27703",
 					"position": {
 						"top": "170px",
@@ -1007,6 +1057,7 @@ var data = [{
 					},
 					{
 					"name": "KwanzaaFest",
+					"location": "Durham Armory",
 					"address": "220 Foster St. Durham, NC 27701",
 					"position": {
 						"top": "155px",
@@ -1028,7 +1079,8 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
-					"name": "100 Years of Christmas at Stagville",
+					"name": "100 Years of Christmas",
+					"location": "Stagville State Historic Site",
 					"address": "5828 Old Oxford Hwy. Durham, NC 27712",
 					"position": {
 						"top": "115px",
@@ -1044,6 +1096,7 @@ var data = [{
 					},
 					{
 					"name": "Christmas by Candlelight",
+					"location": "Duke Homestead",
 					"address": "2828 Duke Homestead Rd, Durham, NC 27705",
 					"position": {
 						"top": "155px",
@@ -1059,6 +1112,7 @@ var data = [{
 					},
 					{
 					"name": "Civil War Christmas Tour",
+					"location": "Bennett Place",
 					"address": "4409 Bennett Memorial Rd. Durham, NC 27705",
 					"position": {
 						"top": "140px",
@@ -1074,6 +1128,7 @@ var data = [{
 					},
 					{
 					"name": "Annual Christmas in the Piedmont",
+					"location": "Bennett Place",
 					"address": "4409 Bennett Memorial Rd. Durham, NC 27705",
 					"position": {
 						"top": "140px",
@@ -1114,6 +1169,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Christmas at Biltmore",
+					"location": "Biltmore Estate",
 					"address": "1 Lodge St, Asheville, NC 28803",
 					"position": {
 						"top": "340px",
@@ -1163,6 +1219,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Made 4 the Holidays Craft Fair",
+					"location": "Farmers Curb Market",
 					"address": "501 Yanceyville Street, Greensboro, NC 27405",
 					"position": {
 						"top": "155px",
@@ -1211,6 +1268,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Holiday Floatilla",
+					"location": "Wrightsville Beach",
 					"address": "Wrightsville Beach",
 					"position": {
 						"top": "670px",
@@ -1233,6 +1291,7 @@ var data = [{
 				"events": [
 					{
 					"name": "A Christmas Stroll Through the Past",
+					"location": "Wilmington",
 					"address": "503 Market St, Wilmington, NC 28401",
 					"position": {
 						"top": "670px",
@@ -1280,7 +1339,8 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
-					"name": "Holiday Tours at Tryon Palace",
+					"name": "Holiday Tours",
+					"location": "Tryon Place",
 					"address": "529 S Front St, New Bern, NC 28562",
 					"position":{
 						"top": "420px",
@@ -1307,7 +1367,7 @@ var data = [{
 			]
 	},
 	{"city": "Edenton",
-			"cityFlag": "/graphics/christmas_icons-newbern.svg",
+			"cityFlag": "",
 			"icon-animation": "",
 			"position": {
 				"top": "100px",
@@ -1329,6 +1389,7 @@ var data = [{
 				"events": [
 					{
 					"name": "Dickens Christmas Candlelight Tour",
+					"location": "Edenton",
 					"address": "505 S Broad St., Edenton, NC 27932",
 					"position":{
 						"top": "157px",
