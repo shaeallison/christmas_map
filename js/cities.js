@@ -404,7 +404,7 @@ var data = [{
 					"webLink": "http://wbt.com/shows/holiday-on-ice/"
 					},
 					{
-					"name": "The Train to Christmas Town",
+					"name": "Train to Christmas Town",
 					"location": "Piedmont and Northern Railroad",
 					"address": "Piedmont and Northern Railroad, Charlotte, NC",
 					"position":{
@@ -506,6 +506,22 @@ var data = [{
 					"dates": "Nov 27 - Dec 24 (varying dates)",
 					"googleMaps": "",
 					"webLink": "http://lightsontheneuse.com/"
+					},
+					{
+					"name": "Christmas Carousel Holiday Gift Market",
+					"location": "NC State Fair Grounds",
+					"address": "1025 Blue Ridge Road Raleigh, NC 27607",
+					"position":{
+						"top": "157px",
+						"left": "1600px",
+					},
+					"image": "/images/",
+					"imageCredit": "",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "",
+					"dates": "Nov 25 - Nov 27",
+					"googleMaps": "",
+					"webLink": "http://raleigh.eventful.com/events/christmas-carousel-holiday-gift-market-/E0-001-084065601-3"
 					}
 				],
 				},
@@ -1308,11 +1324,26 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Production",
+				"categoryType": "Celebration",
 				"id": 30,
-				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
-					
+					{
+					"name": "Meet Santa By The Sea",
+					"location": "N.C. Aquarium at Fort Fisher",
+					"address": "900 Loggerhead Rd, Kure Beach, NC 28449",
+					"position": {
+						"top": "700px",
+						"left": "1350px"
+					},
+					"image": "/images/santa-sea.jpg",
+					"imageCredit": "© NCDCR",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Tis' almost the season to be jolly, so purchase your tickets today and save $3 per ticket! Admission is $15 for children and adults. NC Aquarium members receive a 10% discount. Children 2 and under are free. Tickets at the door are $18 for adults and children.",
+					"dates": "?????",
+					"googleMaps": "",
+					"webLink": "https://reservations.ncaquariums.com/fortfisher/Info.aspx?EventID=17"
+					}
 				],
 				},
 			]
@@ -1440,11 +1471,11 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Production",
+				"categoryType": "Celebration",
 				"id": 30,
-				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
-					
+			
 				],
 				},
 			]
