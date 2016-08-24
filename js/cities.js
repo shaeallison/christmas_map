@@ -930,8 +930,8 @@ var data = [{
 						"top": "185px",
 						"left": "1130px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/dpac-hiphop.jpg",
+					"imageCredit": "© Blumenthal Arts",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "A holiday mash-up for the entire family, The Hip Hop Nutcracker, a contemporary re-imagination of Tchaikovsky’s timeless music, sets out on its second national tour following the success of last year's sold-out inaugural tour across the United States and Russia.",
 					"dates": "Nov 26",
@@ -939,29 +939,14 @@ var data = [{
 					"webLink": "http://www.dpacnc.com/events/detail/hip-hop-nutcracker"
 					},
 					{
-					"name": "A Christmas Carol",
+					"name": "Moscow Ballet Nutcracker",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
 						"top": "175px",
-						"left": "1130px"
+						"left": "1100px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "Perhaps the best loved holiday story of all time, our adaptation of Dicken’s classic is particularly suited for children, and features a magnificent score by Paul Deiss. Watch Mr. Scrooge have a change of heart from stone to gold as he is visited by the ghosts of Christmas. All the joy, sentiment and meaning are here, without being too scary for young audiences.",
-					"dates": "Nov 29",
-					"googleMaps": "",
-					"webLink": "http://www.carolinatheatre.org/events/christmas-carol-5"
-					},
-					{
-					"name": "Moscow Ballet's Great Russian Nutcracker",
-					"address": "309 West Morgan St. Street, Durham, NC 27701",
-					"position": {
-						"top": "175px",
-						"left": "11130px"
-					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/moscow-ballet.jpg",
+					"imageCredit": "© Carolina Theater",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "The biggest Christmas experience of the year! The original, direct from Russia, Moscow Ballet’s Great Russian Nutcracker! “Knock Out..and... Hot Ticket!” raves the New York Times. Enchant the whole family with larger than life magical props, a 60 foot growing Christmas tree and spectacular Russian-made costumes and sets. A must-see event, witness the world’s best dancers on stage in your city!",
 					"dates": "Dec 14 - Dec 15",
@@ -969,14 +954,14 @@ var data = [{
 					"webLink": "http://www.carolinatheatre.org/events/moscow-ballets-great-russian-nutcracker"
 					},
 					{
-					"name": "Holiday Songs: Music Around the World",
+					"name": "Music Around the World",
 					"address": "309 West Morgan St. Street, Durham, NC 27701",
 					"position": {
 						"top": "175px",
-						"left": "1130px"
+						"left": "1030px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/world-music.jpg",
+					"imageCredit": "© Carolina Theater",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "Travel the globe and explore some of the world’s many winter holidays in this musical revue. Songs and stories come together for a truly magical wintertime show. We will travel from Africa to Mexico and everywhere in between. You will hear a range of songs from “I Have A Little Dreidel” and “Auld Lang Syne” to “Away in a Manger,” “Sankta Lucia” and so much more. Similar in style to out hit Holidays Around the World, this show is packed with music from many of the celebrations that happen this time of year around the globe.",
 					"dates": "Dec 6",
@@ -984,31 +969,16 @@ var data = [{
 					"webLink": "http://www.carolinatheatre.org/events/holiday-songs-music-around-world"
 					},
 					{
-					"name": "Moscow Ballet's Great Russian Nutcracker",
-					"address": "309 West Morgan St. Street, Durham, NC 27701",
-					"position": {
-						"top": "175px",
-						"left": "1130px"
-					},
-					"image": "fileName",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "",
-					"dates": "Dec 16",
-					"googleMaps": "",
-					"webLink": "http://www.carolinatheatre.org/films/nutcracker"
-					},
-					{
-					"name": "Christmas Concert: Britten's Saint Nicolas, plus carols",
+					"name": "Christmas Concert",
 					"address": "401 Chapel Dr, Durham, NC 27708",
 					"position": {
-						"top": "165px",
+						"top": "145px",
 						"left": "1115px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/choral-society.jpg",
+					"imageCredit": "© Choral Society",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "",
+					"description": "Celebrate the season by joining the Choral Society of Durham for Christmas Concert: Britten's Saint Nicolas, plus carols with Durham Children's Choir and Conductor Dena Byers at Duke University Chapel.",
 					"dates": "Dec 10 - Dec 11",
 					"googleMaps": "",
 					"webLink": "http://choral-society.org/concerts/current-season/"
@@ -1027,8 +997,8 @@ var data = [{
 						"top": "170px",
 						"left": "1150px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/kwanzaa-durham.jpg",
+					"imageCredit": "© Al Drago | News & Observer",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "Kwanzaa is a celebration of family, community and culture centered on seven basic values as building blocks for peace and progress within neighborhoods. This family friendly event will include entertainment by local and/or regional artists. The celebration will be held on the fifth day of Kwanzaa and will celebrate the principle of Nia (purpose).",
 					"dates": "Dec 30",
@@ -1040,10 +1010,10 @@ var data = [{
 					"address": "220 Foster St. Durham, NC 27701",
 					"position": {
 						"top": "155px",
-						"left": "1130px"
+						"left": "1145px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/dance-ensemble.jpg",
+					"imageCredit": "© AADE",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "For over 30 years the African American Dance Ensemble has sponsored KwanzaaFest in Durham, North Carolina. Kwanzaa is a celebration of family, community and culture centered on seven basic values as building blocks for peace and progress within neighborhoods. This family friendly event will include entertainment by local and/or regional artists.",
 					"dates": "Jan 1",
@@ -1064,8 +1034,8 @@ var data = [{
 						"top": "115px",
 						"left": "1175px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/stagville.jpg",
+					"imageCredit": "© Durham Herald-Sun",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "During the day, visit the historic homes of slaves, sharecroppers, and slaveholders, and learn about the Christmas traditions of enslaved and free people in North Carolina. After dark, purchase a ticket to see some of these buildings lit by lanterns, while your guide shares stories of holidays during slavery.",
 					"dates": "Dec 3",
@@ -1079,8 +1049,8 @@ var data = [{
 						"top": "155px",
 						"left": "1130px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/duke-homestead.jpg",
+					"imageCredit": "© Duke Homestead",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Experience a historical North Carolina holiday season with Duke Homestead! Take an evening and join us as we celebrate Christmas by Candlelight. Costumed interpreters will lead you on a candlelit tour through the Historic Area festooned with period decorations as we celebrate Christmas in the 1870s.",
 					"dates": "Dec 3",
@@ -1088,14 +1058,14 @@ var data = [{
 					"webLink": "http://dukehomestead.org/events.php"
 					},
 					{
-					"name": "2nd Annual Civil War Christmas by Candlelight Tour",
+					"name": "Civil War Christmas Tour",
 					"address": "4409 Bennett Memorial Rd. Durham, NC 27705",
 					"position": {
 						"top": "140px",
-						"left": "1095px"
+						"left": "1195px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/bennett-civil.jpg",
+					"imageCredit": "© NCDCR",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Take a tour by candlelight around the farm to watch as both soldiers and civilians attempted to celebrate the holidays during the Civil War. Complimentary hot apple cider and cookies will be available at the visitor center. Tours will take place every 15 minutes.",
 					"dates": "Dec 9",
@@ -1107,10 +1077,10 @@ var data = [{
 					"address": "4409 Bennett Memorial Rd. Durham, NC 27705",
 					"position": {
 						"top": "140px",
-						"left": "1095px"
+						"left": "1085px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/bennett-place.jpg",
+					"imageCredit": "© NCDCR",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Visit Bennett Place during the Christmas season and witness how this occasion was celebrated in the Piedmont Carolinas during the American Civil War. Living historians will decorate the farm in a typical modest fashion of the time. There will be cooking demonstrations in the kitchen house, games for kids, Christmas decorations and examples of presents in the main house. Soldiers will also be on site in their camp and no program would be complete without a visit from Santa. Complimentary hot apple cider and cookies will be available at the visitor center.",
 					"dates": "Dec 10",
@@ -1192,14 +1162,14 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
-					"name": "Made 4 the Holidays Arts, Crafts & Pottery Show",
+					"name": "Made 4 the Holidays Craft Fair",
 					"address": "501 Yanceyville Street, Greensboro, NC 27405",
 					"position": {
 						"top": "155px",
 						"left": "923px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/made4.jpg",
+					"imageCredit": "© GoFarmersMarket.org",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "There will be a variety of handcrafted jewelry, pottery, fiber art, fine art, packaged artisan foods at this historic farmers market that houses over 170 vendors and artist.",
 					"dates": "Nov 13 & Dec 4",
@@ -1246,8 +1216,8 @@ var data = [{
 						"top": "670px",
 						"left": "1390px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/floatilla.jpg",
+					"imageCredit": "© Joshua McClure",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "It is the Southern coastal version of a holiday parade – on water – at night.",
 					"dates": "Nov 25 - Nov 26",
@@ -1268,8 +1238,8 @@ var data = [{
 						"top": "670px",
 						"left": "1350px"
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/bellamy.jpg",
+					"imageCredit": "© Bellamy Mansion",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "The Bellamy Mansion Museum and the Burgwin-Wright House and Gardens invite the community on a Christmas Stroll Through the Past in historic downtown Wilmington, NC. Attendees can celebrate the holidays with period decorations, music, costumed interpreters, a petting zoo, refreshments and more.",
 					"dates": "?????",
@@ -1316,8 +1286,8 @@ var data = [{
 						"top": "420px",
 						"left": "1530px",
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/tryon.jpg",
+					"imageCredit": "© Tryon Palace",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "The Governor’s Palace and historic homes are decked out for the holidays and open for daily tours. Explore the traditions of Christmases past throughout the Tryon Palace grounds.",
 					"dates": "Nov 27 - Jan 3",
@@ -1364,13 +1334,13 @@ var data = [{
 						"top": "157px",
 						"left": "1600px",
 					},
-					"image": "fileName",
-					"imageCredit": "",
+					"image": "/images/edenton-tour.jpg",
+					"imageCredit": "© Visit Edenton",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "You won’t want to miss this self-guided walking tour of homes of Edenton’s over-300-years old historic district, beautifully decorated for the holidays.",
 					"dates": "Dec 9 - Dec 10",
 					"googleMaps": "",
-					"webLink": "example.com"
+					"webLink": "http://visitedenton.com/christmas-candlelight-tour"
 					}
 				],
 				},
