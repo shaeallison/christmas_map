@@ -98,7 +98,7 @@
         <div class="right-side">
         <div class="close"><a href ng-click="details.show=!details.show"><img class="close-svg" src="/graphics/christmas_icons-circle-close-white.svg" /></a></div>
         	<div class="event-thumb">
-        		<img ng-src="{{events.image}}" />
+        		<img class="feat" ng-src="{{events.image}}" />
         		<div class="image-credit">{{events.imageCredit}}</div>
         		<img class="cat-icon" ng-src="{{events.categoryIcon}}" />
         	</div>
@@ -113,26 +113,22 @@
         		<div class="web-link">For exact dates and times check <a href="{{events.webLink}}" target="_blank">here</a>!</div>
         	</div>
         	</div><!-- end of left-side div -->
-        	<div class="lower-right">
+        	<div class="lower-left">
         	<div class="location-date">
-        		<div class="address">
         			<div class="info-icon a">
         				<div class="img"><img src="/graphics/christmas_icons-map.svg" /></div>
         				<div class="info-title">Address</div>
         				<div class="address-info">{{events.address}}<br/><div class="directions-link"><a href="{{events.googleMaps}}" target="_blank">Get Directions <img class="arrow" src="graphics/arrow.svg" /></a></div></div>
         			</div>
-        		</div>
-        		<div class="dates">
         			<div class="info-icon d">
         				<img src="/graphics/christmas_icons-calendar.svg" />
         				<div class="info-title">Dates</div>
         				<div class="address-info">{{events.dates}}</div>
         			</div>
-        		</div>
         	</div>
-        	</div><!-- end of lower right -->
+        	</div><!-- end of lower left -->
         	<div class="bottom">
-        	<div class="back"><a href ng-click="details.show=!details.show">Back to Map</a></div>
+        		<div class="back"><a href ng-click="details.show=!details.show">Back to Map</a></div>
         	</div>
         </div><!-- end of nested events repeater -->
         </div><!-- end of wrapper -->
