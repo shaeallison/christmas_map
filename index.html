@@ -92,7 +92,7 @@
         </div>
 <!-- end of category marker layer -->
 
-<!--ng-show popup -->
+<!--ng-show 1 popup -->
         <div class="details" ng-show="details.show"  id="{{cities.city + cities.id}}">
         <div class="wrapper">
         <div class="right-side">
@@ -132,7 +132,55 @@
         	</div>
         </div><!-- end of nested events repeater -->
         </div><!-- end of wrapper -->
-        </div> <!-- end of ng-show -->
+        </div> <!-- end of ng-show 1 -->
+
+
+<a marker href ng-click="details2.show=!details2.show"  class="marker ng-scope"">
+                <img class="cat-marker-icon" src="/graphics/christmas_icons-multi.svg" />
+</a>
+
+<!--ng-show 2 popup -->
+        <div class="details" ng-show="details2.show"  id="{{cities.city + cities.id}}">
+        <div class="wrapper">
+        <div class="right-side multi">
+        <div class="close"><a href ng-click="details2.show=!details2.show"><img class="close-svg" src="/graphics/christmas_icons-circle-close-white.svg" /></a></div>
+            <div class="event-thumb">
+                <img class="cat-feat" ng-src="/graphics/christmas_icons-production.svg" />
+            </div>
+        </div><!-- end of right-side -->
+        <div class="left-side">
+            <div class="show-header">Productions</div>
+            <div class="show-subhead">Belk Theater</div>
+         <!-- <div ng-repeat="events in categories.events"> use to list all events when clicking on icon -->
+            </div>
+            </div><!-- end of left-side div -->
+            <div class="lower-left">
+                <div class="list">
+                    <div class="list-item1">
+                        <img class="multi-feat" src="/images/nutcracker-belk2.jpg" />
+                        <a href ng-click="details.show=!details.show" class="event-name">The Nutcracker</a>
+                        <div class="list-description">The story of The Nutcracker was originally written by E.T.A. Hoffmann however the beautiful score which accompanies this world-famous ballet was created...</div>
+                    </div>
+                    <div class="list-item">
+                        <img class="multi-feat" src="/images/nutcracker-belk2.jpg" />
+                        <a href ng-click="details.show=!details.show" class="event-name">The Nutcracker</a>
+                        <div class="list-description">The story of The Nutcracker was originally written by E.T.A. Hoffmann however the beautiful score which accompanies this world-famous ballet was created...</div>
+                    </div>
+                    <div class="list-item">
+                        <img class="multi-feat" src="/images/nutcracker-belk2.jpg" />
+                        <a href ng-click="details.show=!details.show" class="event-name">The Nutcracker</a>
+                        <div class="list-description">The story of The Nutcracker was originally written by E.T.A. Hoffmann however the beautiful score which accompanies this world-famous ballet was created...</div>
+                    </div>
+                </div>
+            </div><!-- end of lower left -->
+            <div class="bottom">
+                <div class="back"><a href ng-click="details2.show=!details2.show">Back to Map</a></div>
+            </div>
+        </div><!-- end of nested events repeater -->
+        </div><!-- end of wrapper -->
+        </div> <!-- end of ng-show 2 -->
+
+
         </div> <!-- end of events repeater -->
         </div> <!-- end of categories repeater -->
         

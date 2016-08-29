@@ -470,6 +470,84 @@ ul.key.inner{
 }
 
 
+/* ng-show 2 */
+.event-thumb img.cat-feat{
+	width: 65%;
+	padding: 100px 100px 100px 100px;
+    float: right;
+}
+
+.list{
+	padding-top: 30px;
+}
+
+.multi-feat{
+	padding-right: 15px;
+}
+
+.list .event-name{
+	font-family: 'Big John';
+	font-size: 1.5em;
+    color: #E2614B;
+}
+
+a.event-name{
+	text-decoration: none;
+}
+
+.list-description{
+	font-family: 'Open Sans';
+	font-size: 1.2em;
+	font-weight: 300;
+	color: #49756A;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.multi-feat{
+	width:12%;
+	float:left;
+	min-width: 100px;
+	max-width: 220px;
+}
+
+.list-item{
+	padding-top: 40px;
+}
+
+/* change to first child once ng-repeat is added*/
+.list-item1{
+	padding-top:0px;
+}
+
+@media (max-width: 1710px){
+	.list-description{
+		font-size: 1em;
+		transition: 1s;
+		}
+}
+
+@media (max-width: 1250px){
+	.right-side.multi{
+		display: none;
+	}
+	.list .event-name{
+		font-size: 1.2em;
+	}
+}
+
+@media (max-width: 1465px){
+	.list-description{
+		font-size: .8em;
+		transition: 1s;
+	}
+}
+
+@media (max-width: 550px){
+	.list-item{
+		padding-top: 15px;
+	}
+}
 
 
 
