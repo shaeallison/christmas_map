@@ -1143,7 +1143,7 @@ var data = [{
 					"webLink": "http://nchistoricsites.org/bennett/event.htm#!/81396-2nd-annual-civil-war-christmas-by-candlelight-tour-program"
 					},
 					{
-					"name": "Annual Christmas in the Piedmont",
+					"name": "Christmas in the Piedmont",
 					"location": "Bennett Place",
 					"address": "4409 Bennett Memorial Rd. Durham, NC 27705",
 					"position": {

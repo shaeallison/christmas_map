@@ -29,7 +29,7 @@ Mints #354039, #6B7F73, #CCE2D3
 }
 
 html{
-	font-size: 20px;
+	font-size: 16px;
 }
 
 body{
@@ -487,7 +487,7 @@ ul.key.inner{
 
 .list .event-name{
 	font-family: 'Big John';
-	font-size: 1.5em;
+	font-size: 2em;
     color: #E2614B;
 }
 
@@ -497,7 +497,7 @@ a.event-name{
 
 .list-description{
 	font-family: 'Open Sans';
-	font-size: 1.2em;
+	font-size: 1.5em;
 	font-weight: 300;
 	color: #49756A;
 	overflow: hidden;
@@ -548,7 +548,6 @@ a.event-name{
 		padding-top: 15px;
 	}
 }
-
 
 
 
