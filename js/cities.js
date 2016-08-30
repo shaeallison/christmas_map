@@ -1171,15 +1171,6 @@ var data = [{
 				},
 			"categories": [
 				{
-				"categoryType": "Light Show",
-				"id": 10,
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
-				"events": [
-					
-				],
-				},
-				{
 				"categoryType": "Tour",
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
@@ -1188,7 +1179,7 @@ var data = [{
 					"location": "Biltmore Estate",
 					"address": "1 Lodge St, Asheville, NC 28803",
 					"position": {
-						"top": "340px",
+						"top": "320px",
 						"left": "430px"
 					},
 					"image": "/images/biltmore.jpg",
@@ -1198,6 +1189,61 @@ var data = [{
 					"dates": "Nov 4 - Jan 8",
 					"googleMaps": "https://www.google.com/maps/place/1+Lodge+St,+Asheville,+NC+28803/@35.5670324,-82.5464409,17z/data=!3m1!4b1!4m5!3m4!1s0x8859f33c9a80434d:0x6339bea763fbb558!8m2!3d35.5670324!4d-82.5442522?sa=X&ved=0ahUKEwiB_7bgiN3OAhVHHB4KHdLCDAYQ8gEIJDAB",
 					"webLink": "http://www.biltmore.com/visit/plan-your-visit/buy-tickets/christmas-at-biltmore"
+					},
+					{
+					"name": "Aluminum Ornament & Tree Museum",
+					"location": "Brevard",
+					"address": "189 W Main St, Brevard, NC 28712",
+					"position": {
+						"top": "340px",
+						"left": "440px"
+					},
+					"image": "/images/aluminum-tree.jpg",
+					"imageCredit": "© Romantic Asheville",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "This blast from the past will take you back to the 1950s when these trees were all the rage. This is a fun, quirky holiday outing that will make you smile and it's free to visit! The Aluminum Tree & Ornament Museum (ATOM) is the world's only museum dedicated to vintage aluminum Christmas trees.",
+					"dates": "Nov 12 - Dec 22",
+					"googleMaps": "https://www.google.com/maps/place/Transylvania+Heritage+Museum/@35.2347667,-82.7397206,17z/data=!3m1!4b1!4m5!3m4!1s0x8859a4cb089ad0c1:0xf6cc50fe9c231682!8m2!3d35.2347623!4d-82.7375319",
+					"webLink": "https://www.romanticasheville.com/aluminum_tree_museum.htm"
+					}
+				],
+				},
+				{
+				"categoryType": "Activities",
+				"id": 50,
+				"categoryIcon": "/graphics/christmas_icons-activities.svg",
+				"events": [
+					{
+					"name": "Western NC Pottery Festival",
+					"location": "Dillsboro",
+					"address": "Front Street Sylva, NC 28779",
+					"position":{
+						"top": "340px",
+						"left": "400px"
+					},
+					"image": "/images/wnc-pottery.jpg",
+					"imageCredit": "© WNC Potter Festival",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "Join us for our 11th annual festival! This juried event showcases more than 40 master potters, with many demonstrations in a variety of techniques. Come see why it's become a top arts event in the mountains, attended annually by several thousand aficionados of pottery. * Event will go on rain or shine * ",
+					"dates": "Nov 5",
+					"googleMaps": "https://www.google.com/maps/place/Front+St,+Sylva,+NC+28779/@35.3691707,-83.2509934,19z/data=!3m1!4b1!4m5!3m4!1s0x88591557d4ba1c93:0x212c7af62a901821!8m2!3d35.3691707!4d-83.2504386",
+					"webLink": "http://www.wncpotteryfestival.com/"
+					},
+					{
+					"name": "Polar Express Train",
+					"location": "Great Smoky Mountains Railroad",
+					"address": "226 Everett St, Bryson City, NC 28713",
+					"position":{
+						"top": "330px",
+						"left": "380px"
+					},
+					"image": "/images/polar-express.jpg",
+					"imageCredit": "© Great Smoky Mountains Railroad",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "A favorite area holiday tradition for kids of all ages – including the adults! More than 70,000 passengers rode last year! This year, there will be a few special excursions on their newly restored steam engine.",
+					"dates": "Nov 11 - Jan 8",
+					"googleMaps": "https://www.google.com/maps/place/Great+Smoky+Mountains+Railroad/@35.2945379,-83.8769264,9.5z/data=!4m5!3m4!1s0x0:0x4e298943f73c7e25!8m2!3d35.4305206!4d-83.4467965",
+					"webLink": "http://www.gsmr.com/events/polar-express#.V8XG-pMrJTY"
 					}
 				],
 				},
@@ -1206,9 +1252,182 @@ var data = [{
 				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
-					
+					{
+					"name": "A Christmas Carol",
+					"location": "Flat Rock Playhouse",
+					"address": "2661 Greenville Hwy, Flat Rock, NC 28731",
+					"position":{
+						"top": "370px",
+						"left": "440px"
+					},
+					"image": "/images/flat-rock.jpg",
+					"imageCredit": "© James Johnson",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Charles Dickens’ classic tale adapted by Richard Hellesen and David De Berry, returns to the Flat Rock Playhouse stage in 2016. The State Theatre of North Carolina will be presenting the hit 2014 production bi-annually. Flat Rock Playhouse Mainstage.",
+					"dates": "Nov 17 - Dec 17",
+					"googleMaps": "https://www.google.com/maps/place/Flat+Rock+Playhouse/@35.3499017,-82.6184101,9.91z/data=!4m5!3m4!1s0x0:0x308ba8dcfd1a61a4!8m2!3d35.2739804!4d-82.4432249",
+					"webLink": "https://www.flatrockplayhouse.org/2015/08/flat-rock-playhouse-announces-2016-season/"
+					},
+					{
+					"name": "A Celtic Christmas",
+					"location": "Flat Rock Playhouse",
+					"address": "2661 Greenville Hwy, Flat Rock, NC 28731",
+					"position":{
+						"top": "360px",
+						"left": "440px"
+					},
+					"image": "/images/playhouse.jpg",
+					"imageCredit": "© Flat Rock Playhouse",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "TBD - Check back soon!",
+					"dates": "Dec 1 - Dec 18",
+					"googleMaps": "https://www.google.com/maps/place/Flat+Rock+Playhouse/@35.3499017,-82.6184101,9.91z/data=!4m5!3m4!1s0x0:0x308ba8dcfd1a61a4!8m2!3d35.2739804!4d-82.4432249",
+					"webLink": "https://www.flatrockplayhouse.org/2015/08/flat-rock-playhouse-announces-2016-season/"
+					},
+					{
+					"name": "Snowbound",
+					"location": "ACT Theater",
+					"address": "35 E Walnut St, Asheville, NC 28801",
+					"position":{
+						"top": "300px",
+						"left": "470px"
+					},
+					"image": "/images/ACT.jpg",
+					"imageCredit": "© Jeff Pittman",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "A mountain play with mountain music! It’s Christmas Eve in 1955 at a small town train depot where the snowy weather has caused some delays. Over the course of the evening, strangers become friends, friends become family, and the warmth of human connection is deepened through stories and songs. Though the weather outside is frightful, inside the depot it’s delightful as memories of Christmases past are shared. A World Premiere play with original bluegrass music played live onstage by members of Buncombe Turnpike and Sons of Ralph.",
+					"dates": "Dec 2 - Dec 18",
+					"googleMaps": "https://www.google.com/maps/place/Asheville+Community+Theatre/@35.597075,-82.550704,15z/data=!4m5!3m4!1s0x0:0xef9b017e4a5e1bbf!8m2!3d35.597075!4d-82.550704",
+					"webLink": "http://www.ashevilletheatre.org/shows-events/mainstage-2016-17/"
+					},
+					{
+					"name": "",
+					"location": "",
+					"address": "",
+					"position":{
+						"top": "300px",
+						"left": "440px"
+					},
+					"image": "/images/.jpg",
+					"imageCredit": "© ",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "",
+					"dates": "",
+					"googleMaps": "",
+					"webLink": ""
+					}
 				],
 				},
+				{
+				"categoryType": "Light Show",
+				"id": 10,
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+				"events": [
+					{
+					"name": "Winter Lights",
+					"location": "NC Arboretum",
+					"address": "100 Frederick Law Olmsted Way, Asheville, NC 28806",
+					"position":{
+						"top": "350px",
+						"left": "410px"
+					},
+					"image": "/images/nc-winter-lights.jpg",
+					"imageCredit": "© Creston ",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Don't miss The North Carolina Arboretum's elaborate Winter Lights show, transforming the gardens into a nighttime wonderland. Stroll through spectacular lighted displays and see the gardens in a completely new way. Designed with an artistic aesthetic, The Winter Lights show enhances the natural beauty of the gardens as you celebrate the holidays.",
+					"dates": "Nov 18 - Jan 1",
+					"googleMaps": "https://www.google.com/maps/place/The+North+Carolina+Arboretum/@35.5369178,-82.6097923,12.12z/data=!4m5!3m4!1s0x0:0x4585c3a152c29f6b!8m2!3d35.497852!4d-82.60824",
+					"webLink": "http://www.ncarboretum.org/exhibits-events/winter-lights/"
+					},
+					{
+					"name": "Christmas Lights",
+					"location": "Forest City",
+					"address": "Forest City, NC 28043",
+					"position":{
+						"top": "380px",
+						"left": "500px"
+					},
+					"image": "/images/forest-city.jpg",
+					"imageCredit": "© Romantic Asheville",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "For the ultimate festive small town experience to get you in the holiday spirit, drive and stroll down Main Street decked out with a million lights for Hometown Holidays in our top Christmas Town Forest City in Rutherford County. Wrapped around the live oak trees and hanging overhead, the displays center around the town fountain. The tradition dates back to 1930 when the town hung its first set of lights on two trees. Bundle up with a cup of hot chocolate and hop on a carriage or hayride (offered on weekends) through the magical display of holiday lights.",
+					"dates": "Nov 24 - Jan 6",
+					"googleMaps": "https://www.google.com/maps/place/Forest+City,+NC+28043/@35.4188588,-82.3079683,9.92z/data=!4m5!3m4!1s0x88574079b6b8f88b:0xd1dcd1c51ee70f1c!8m2!3d35.3340108!4d-81.8651028",
+					"webLink": "https://www.romanticasheville.com/forest-city-lights"
+					},
+					{
+					"name": "Festival of Lights",
+					"location": "Lake Julian",
+					"address": "406 Overlook Rd Ext, Arden, NC 28704",
+					"position":{
+						"top": "330px",
+						"left": "440px"
+					},
+					"image": "/images/lake-julian.jpg",
+					"imageCredit": "© Romantic Asheville",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Drive through a festive holiday light display along Lake Julian in south Asheville (near Biltmore Park). Their Festival of Lights is lit with thousands of colored lights and 50 animated and stationary light displays. The road circling this Buncombe County park becomes a magical journey. The light show is open 6-9 PM and admission is $5/car. ",
+					"dates": "Dec 1 - Dec 23",
+					"googleMaps": "https://www.google.com/maps/place/Buncombe+County+Lake+Julian+Park/@35.3699838,-83.1476442,8.56z/data=!4m5!3m4!1s0x0:0x6adf584848feb8c0!8m2!3d35.480289!4d-82.539448",
+					"webLink": "https://www.romanticasheville.com/lake_julian.htm"
+					},
+					{
+					"name": "Festival of Lights",
+					"location": "Dillsboro",
+					"address": "Dillsboro, North Carolina 28779",
+					"position":{
+						"top": "340px",
+						"left": "320px"
+					},
+					"image": "/images/dillsboro-lights.jpg",
+					"imageCredit": "© Romantic Asheville ",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "The Dillsboro Festival of Lights & Luminaries illuminates this mountain village the first two weekends in December. In an era of electronic gadgetry and LED lights, Dillsboro’s celebration is a throwback. Adapted from a Scandinavian custom of lighting the way for the Christ child, more than 2,500 candles in white bags line the streets with more than a dozen shops to explore.",
+					"dates": "Dec 2-3 & Dec 9-10",
+					"googleMaps": "https://www.google.com/maps/place/Dillsboro,+NC+28779/@35.3690007,-83.2726026,14z/data=!3m1!4b1!4m5!3m4!1s0x88593ffc91620839:0xcb3c67c532afb4ea!8m2!3d35.3692665!4d-83.2523705?sa=X&ved=0ahUKEwiqp5CjiurOAhXIRSYKHSJMB8kQ8gEIkQEwCw",
+					"webLink": "https://www.romanticasheville.com/dillsboro_festival_luminaries.htm"
+					}
+				],
+				},
+				{
+				"categoryType": "Celebration",
+				"id": 40,
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+				"events": [
+					{
+					"name": "Holiday Parade",
+					"location": "Asheville",
+					"address": "S Charlotte St Asheville, NC 28801",
+					"position": {
+						"top": "310px",
+						"left": "470px"
+					},
+					"image": "/images/holiday-asheville.jpg",
+					"imageCredit": "© Pat Barcas",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Kick off the festive season with the annual Asheville Holiday Parade, presented by Bojangles, that starts at 11 AM (so several downtown streets will be closed). The Parade will line up along South Charlotte Street which will be closed to traffic beginning at 7 AM. The parade travels up Biltmore Avenue towards Pack Square.",
+					"dates": "Nov 19",
+					"googleMaps": "https://www.google.com/maps/place/S+Charlotte+St,+Asheville,+NC+28801/@35.5924,-82.5508171,17z/data=!3m1!4b1!4m5!3m4!1s0x8859f3599b0af441:0x10180de3cffa5ad3!8m2!3d35.5924!4d-82.5486284?sa=X&ved=0ahUKEwj5i4_D9enOAhUGZCYKHbAbCsYQ8gEIGzAA",
+					"webLink": "https://www.romanticasheville.com/holiday_parade.htm"
+					},
+					{
+					"name": "Old Fashioned Dickens of a Christmas Festival",
+					"location": "Biltmore Village",
+					"address": "10 Brook St, Asheville, NC 28803",
+					"position":{
+						"top": "300px",
+						"left": "490px"
+					},
+					"image": "/images/biltmore-dickens.jpg",
+					"imageCredit": "© Romantic Asheville ",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Enjoy many festivities including horse-drawn carriages, carolers, tree lighting, storytellers and instrumentalists in historic Biltmore Village. And chestnuts roasting on an open fire!",
+					"dates": "Dec 2 - Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/Historic+Biltmore+Village/@35.5668837,-82.5430212,17z/data=!3m1!4b1!4m5!3m4!1s0x8859f33c9edf2521:0x7a076ecf1eac536!8m2!3d35.5668837!4d-82.5408325",
+					"webLink": "historicbiltmorevillage.com"
+					}
+				],
+				}
 			]
 	},
 	{"city": "Greensboro",
