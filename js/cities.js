@@ -1205,6 +1205,38 @@ var data = [{
 					"dates": "Nov 12 - Dec 22",
 					"googleMaps": "https://www.google.com/maps/place/Transylvania+Heritage+Museum/@35.2347667,-82.7397206,17z/data=!3m1!4b1!4m5!3m4!1s0x8859a4cb089ad0c1:0xf6cc50fe9c231682!8m2!3d35.2347623!4d-82.7375319",
 					"webLink": "https://www.romanticasheville.com/aluminum_tree_museum.htm"
+					},
+					{
+					"name": "Candlelight Tour at Vance Birthplace",
+					"location": "Weaverville",
+					"address": "911 Reems Creek Rd, Weaverville, NC 28787",
+					"position":{
+						"top": "280px",
+						"left": "450px"
+					},
+					"image": "/images/vance.jpg",
+					"imageCredit": "© Romantic Asheville",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Be transported to an 1830s era Christmas celebrated in the mountains of North Carolina, just 15 minutes north of Asheville. The two-story reconstructed log house, will be decorated and costumed guides will relate the symbolism of each of the decorations. Live music. $5/person. 4-8:30 PM",
+					"dates": "Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/Vance+Birthplace/@35.700979,-82.4962641,15z/data=!4m5!3m4!1s0x0:0xe61d534a50a6a063!8m2!3d35.700979!4d-82.4962641?sa=X&ved=0ahUKEwjG8frAl_vOAhXGMyYKHWo7CGAQ_BIIdTAK",
+					"webLink": "https://www.romanticasheville.com/vance.htm"
+					},
+					{
+					"name": "Holiday Homecoming",
+					"location": "Oconaluftee Visitor Center",
+					"address": "1194 Newfound Gap Rd, Cherokee, NC 28719",
+					"position":{
+						"top": "300px",
+						"left": "300px"
+					},
+					"image": "/images/oconaluftee.jpg",
+					"imageCredit": "© theonefeather.com",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Located near Cherokee at the Great Smoky Mountains entrance, see old time crafts being demonstrated at the Mountain Farm Museum. Learn by observing the practical arts of quilting, weaving, and basket and doll making, apple cider and apple butter. 10 AM-2 PM. Free",
+					"dates": "Dec 17",
+					"googleMaps": "https://www.google.com/maps/place/Oconaluftee+Visitor+Center/@35.5130675,-83.3083143,17z/data=!3m1!4b1!4m5!3m4!1s0x885943084a5a0cc1:0x2cb5dc8a86dd8004!8m2!3d35.5130675!4d-83.3061256",
+					"webLink": "https://www.romanticasheville.com/listing/events/holiday-homecoming-oconaluftee-visitor-center.htm"
 					}
 				],
 				},
@@ -1244,6 +1276,38 @@ var data = [{
 					"dates": "Nov 11 - Jan 8",
 					"googleMaps": "https://www.google.com/maps/place/Great+Smoky+Mountains+Railroad/@35.2945379,-83.8769264,9.5z/data=!4m5!3m4!1s0x0:0x4e298943f73c7e25!8m2!3d35.4305206!4d-83.4467965",
 					"webLink": "http://www.gsmr.com/events/polar-express#.V8XG-pMrJTY"
+					},
+					{
+					"name": "Gallery Art Walk",
+					"location": "Asheville",
+					"address": "Downtown Asheville, NC 28801",
+					"position":{
+						"top": "300px",
+						"left": "440px"
+					},
+					"image": "/images/art-walk.jpg",
+					"imageCredit": "© Visit NC",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "Galleries stay open late with special exhibits and atists mingling.",
+					"dates": "Dec 2",
+					"googleMaps": "https://www.google.com/maps/place/Downtown,+Asheville,+NC+28801/@35.5941223,-82.5571812,16z/data=!3m1!4b1!4m5!3m4!1s0x8859f357a9e8cd9f:0xb17e815d911c971d!8m2!3d35.5945768!4d-82.5530753",
+					"webLink": "https://www.romanticasheville.com/downtown.htm"
+					},
+					{
+					"name": "Santa on the Rock",
+					"location": "Chimney Rock",
+					"address": "431 Main St, Chimney Rock, NC 28720",
+					"position":{
+						"top": "350px",
+						"left": "480px"
+					},
+					"image": "/images/chimney-rock.jpg",
+					"imageCredit": "© Explore Asheville",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "Watch Sana practicing for his world-wide chimney-dropping tour on his practice chimney, the 312 foot tall Chimney Rock monolith. Repeats every week until Saturday December 10th.",
+					"dates": "Dec 3 - Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/Chimney+Rock/@35.2706102,-82.4382464,9.04z/data=!4m5!3m4!1s0x0:0xf0c5185c44bc28f!8m2!3d35.4327351!4d-82.2502854",
+					"webLink": "https://www.romanticasheville.com/chimney_rock_santa.htm"
 					}
 				],
 				},
@@ -1299,6 +1363,22 @@ var data = [{
 					"dates": "Dec 2 - Dec 18",
 					"googleMaps": "https://www.google.com/maps/place/Asheville+Community+Theatre/@35.597075,-82.550704,15z/data=!4m5!3m4!1s0x0:0xef9b017e4a5e1bbf!8m2!3d35.597075!4d-82.550704",
 					"webLink": "http://www.ashevilletheatre.org/shows-events/mainstage-2016-17/"
+					},
+					{
+					"name": "All is Calm: The Christmas Truce 1914",
+					"location": "North Carolina Stage Company",
+					"address": "15 Stage Lane, Asheville, NC 28801",
+					"position":{
+						"top": "300px",
+						"left": "420px"
+					},
+					"image": "/images/stage-company.jpg",
+					"imageCredit": "© Ask Asheville",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "NC Stage Theatre in downtown Asheville presents a poignant moment in history when Allied and German soldiers laid down their arms to celebrate the holiday together with holiday songs. Back by popular demand!",
+					"dates": "Dec 7 - Dec 23",
+					"googleMaps": "https://www.google.com/maps/place/North+Carolina+Stage+Company/@35.595963,-82.554177,15z/data=!4m5!3m4!1s0x0:0x1ad6653af52793df!8m2!3d35.595963!4d-82.554177",
+					"webLink": "http://www.ncstage.org/productions/calm-christmas-truce-1914-reprises/"
 					},
 					{
 					"name": "",
@@ -1425,7 +1505,88 @@ var data = [{
 					"dates": "Dec 2 - Dec 3",
 					"googleMaps": "https://www.google.com/maps/place/Historic+Biltmore+Village/@35.5668837,-82.5430212,17z/data=!3m1!4b1!4m5!3m4!1s0x8859f33c9edf2521:0x7a076ecf1eac536!8m2!3d35.5668837!4d-82.5408325",
 					"webLink": "historicbiltmorevillage.com"
+					},
+					{
+					"name": "Old Fashioned Christmas",
+					"location": "Hendersonville",
+					"address": "Main St Hendersonville, NC 28792",
+					"position":{
+						"top": "330px",
+						"left": "450px"
+					},
+					"image": "/images/hendersonville.jpg",
+					"imageCredit": "© Visit NC",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Walk down Main Street in beautiful downtown Hendersonville, filled with shopping, hot cider, cookies, carolers and food. Return Saturday morning for the 10AM parade.",
+					"dates": "Dec 2 - Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/N+Main+St,+Hendersonville,+NC/@35.3250048,-82.4645339,17z/data=!3m1!4b1!4m5!3m4!1s0x8859c208e01265c9:0x67d547f4ca23581d!8m2!3d35.3250004!4d-82.4623452",
+					"webLink": "http://downtownhendersonville.org/news/calendar-of-events/"
+					},
+					{
+					"name": "Holiday Twilight Tour",
+					"location": "Brevard",
+					"address": "E Main St Brevard, NC 28712",
+					"position":{
+						"top": "380px",
+						"left": "410px"
+					},
+					"image": "/images/brevard-tour.jpg",
+					"imageCredit": "© Romantic Asheville",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Join the locals in a longtime favorite in downtown Brevard tradition. After the Christmas parade at 3PM, Main Street will be closed to traffic so you can enjoy live music, horse-drawn carriages, bonfires, shopping, vendors and more.",
+					"dates": "Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/Brevard,+NC/@35.2012563,-82.8780957,10.68z/data=!4m5!3m4!1s0x8859a4cb5640a41d:0x8f85466844a544b3!8m2!3d35.2334472!4d-82.7342919",
+					"webLink": "https://www.google.com/maps/place/E+Main+St+%26+S+Broad+St,+Brevard,+NC+28712/@35.2337585,-82.7365,17z/data=!3m1!4b1!4m5!3m4!1s0x8859bb34b10bab05:0x14f55de419742b6!8m2!3d35.2337541!4d-82.734306"
+					},
+					{
+					"name": "Candlelight Christmas Stroll",
+					"location": "Weaverville",
+					"address": "N Main St Weaverville, NC 28787",
+					"position":{
+						"top": "300px",
+						"left": "440px"
+					},
+					"image": "/images/weaver-stroll.jpg",
+					"imageCredit": "© Romantic Asheville",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Downtown Weaverville has luminaries along the streets, local choirs and bands will provide music, and horse and buggy rides will be available through town. 6-9 PM. Local businesses will be open late and the official tree lighting at 7:30 PM.",
+					"dates": "Dec 9",
+					"googleMaps": "https://www.google.com/maps/place/Weaverville,+NC+28787/@35.6977972,-82.5608568,18.16z/data=!4m5!3m4!1s0x885a1f22e2043b5d:0x3708d1cce5eb1f76!8m2!3d35.6970547!4d-82.5606851",
+					"webLink": "https://www.romanticasheville.com/weaverville.htm"
+					},
+					{
+					"name": "Chanukah Live!",
+					"location": "Asheville",
+					"address": "TBD - Check back soon!",
+					"position":{
+						"top": "300px",
+						"left": "440px"
+					},
+					"image": "/images/chanukah-live.jpg",
+					"imageCredit": "© Citizen-Times",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Asheville’s largest Hanukkah party with fun for all ages. Features music, attractions for teens and adults, Sushi Bar and Kosher food stations, shopping and more. 3-6 PM. Free",
+					"dates": "Dec 18",
+					"googleMaps": "",
+					"webLink": "http://www.chabadasheville.org/templates/articlecco_cdo/aid/442789/jewish/Holiday-Events.htm"
+					},
+					{
+					"name": "Hanukkah Shuk",
+					"location": "Asheville",
+					"address": "Nov 21 - Dec 30",
+					"position":{
+						"top": "300px",
+						"left": "400px"
+					},
+					"image": "/images/shuk.jpg",
+					"imageCredit": "© Asheville JCC",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Dreidels, wrapping paper, Hanukkah toys, disposable menorahs, candles, gelt (chocolate coins), tzedakah boxes, games, puzzles and more! We’ll have a lot of new items available this year! Come and get your supplies while they last. If you have requests, please get them in to rochelle@jcc-asheville.org by October first and she’ll happily add them to the order!",
+					"dates": "Dec 18",
+					"googleMaps": "",
+					"webLink": "http://www.chabadasheville.org/templates/articlecco_cdo/aid/442789/jewish/Holiday-Events.htm"
 					}
+
 				],
 				}
 			]
