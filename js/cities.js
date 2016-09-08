@@ -1747,6 +1747,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
+				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -1796,6 +1797,7 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
+				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -1826,8 +1828,8 @@ var data = [{
 				},
 			]
 	},
-	{"city": "Fayettville",
-			"cityFlag": "/graphics/christmas_icons-fayettville.svg",
+	{"city": "Fayetteville",
+			"cityFlag": "/graphics/christmas_icons-fayetteville.svg",
 			"icon-animation": "",
 			"position": {
 				"top": "400px",
@@ -1840,6 +1842,63 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
+					{
+					"name": "Christmas Tree Lighting",
+					"location": "Fort Bragg",
+					"address": "11-, 25 Capron St, Fort Bragg, NC 28307",
+					"position":{
+						"top": "380px",
+						"left": "1120px"
+					},
+					"image": "/images/fort-christmas.jpg",
+					"imageCredit": "© Sgt. Jessica M. Kuhn",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Enjoy this family-friendly holiday ceremony and watch as Fort Bragg's Christmas tree lights are turned on for the season. Attendees will have the opportunity to visit with Santa and Mrs. Claus, enjoy light refreshments and holiday entertainment, and play in the Kidz Corner. Open to the public.",
+					"dates": "Dec 1",
+					"googleMaps": "https://www.google.com/maps/place/Main+Post+Parade+Field/@35.1473251,-78.9967978,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab6a21bcaf9395:0x73b4aea733e18225!8m2!3d35.1473251!4d-78.9946091",
+					"webLink": "http://bragg.armymwr.com/us/bragg/ft-bragg-events/christmas-tree-lighting?query=christmas"
+					},
+					{
+					"name": "",
+					"location": "",
+					"address": "",
+					"position":{
+						"top": "400px",
+						"left": "1180px"
+					},
+					"image": "/images/.jpg",
+					"imageCredit": "",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "",
+					"dates": "",
+					"googleMaps": "",
+					"webLink": ""
+					}
+					
+				],
+				},
+				{
+				"categoryType": "Tour",
+				"id": 20,
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Christmas at the 1897 Poe House",
+					"location": "Museum of the Cape Fear Historical Complex",
+					"address": "801 Arsenal Ave, Fayetteville, NC 28305",
+					"position":{
+						"top": "420px",
+						"left": "1140px"
+					},
+					"image": "/images/poe-house.jpg",
+					"imageCredit": "© Visit Fayetteville NC",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Decorated with a big tree in the parlor, long hallways and tall windows decked wFront of house decorated for Christmasith greenery, and the splash of red berries from holly sprigs will give your Christmas spirit a boost. You’ll also come to know and appreciate how people from the 1900s celebrated the traditions that so many hold dear today.",
+					"dates": "Nov 22 - ???",
+					"googleMaps": "https://www.google.com/maps/place/Museum+of+the+Cape+Fear+Historical+Complex/@35.0545048,-78.8926655,15z/data=!4m5!3m4!1s0x0:0x6b557b7baed97dd!8m2!3d35.0545048!4d-78.8926655",
+					"webLink": "http://www.visitfayettevillenc.com/events/search"
+					}
 					
 				],
 				},
@@ -1851,11 +1910,64 @@ var data = [{
 				],
 				},
 				{
+				"categoryType": "Production",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"events": [
+					{
+					"name": "The Best Christmas Pageant Ever",
+					"location": "Cape Fear Regional Theatre",
+					"address": "1209 Hay St, Fayetteville, NC 28305",
+					"position":{
+						"top": "420px",
+						"left": "1130px"
+					},
+					"image": "/images/faye-christmas.jpg",
+					"imageCredit": "© Fayetteville Observer",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "In this hilarious Christmas classic, a couple struggling to put on a church Christmas pageant is faced with casting the Herdman kids, probably the most inventively awful kids in history. You will not believe the mayhem, and the fun, when the Herdmans collide with the Christmas story head on! This play continues to be a highlight of Fayetteville’s holiday season for more than 25 years.",
+					"dates": "Dec 1 - ???",
+					"googleMaps": "https://www.google.com/maps/place/Cape+Fear+Regional+Theatre/@35.0566206,-78.9015723,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab6cccb924fb5d:0x1fac029688342153!8m2!3d35.0566206!4d-78.8993836",
+					"webLink": "http://www.visitfayettevillenc.com/event/2016/12/01/the-best-christmas-pageant-ever"
+					},
+					{
+					"name": "",
+					"location": "",
+					"address": "",
+					"position":{
+						"top": "400px",
+						"left": "1180px"
+					},
+					"image": "/images/.jpg",
+					"imageCredit": "",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "",
+					"dates": "",
+					"googleMaps": "",
+					"webLink": ""
+					}
+				],
+				},
+				{
 				"categoryType": "Celebration",
 				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
-			
+					{
+					"name": "A Dickens Holiday",
+					"location": "Downtown Fayetteville",
+					"address": "433 Hay St, Fayetteville, NC 28301",
+					"position":{
+						"top": "420px",
+						"left": "1180px"
+					},
+					"image": "/images/dickens-fayetteville.jpg",
+					"imageCredit": "© Visit Downtown Fayetteville",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Historic Downtown Fayetteville will again be transformed into a unique and wonderful experience. So roll back the clock with us for A Dickens Holiday from 1 to 9p.m. Horse-drawn carriages roll down Hay Street carrying shoppers the old-fashioned way, past merchants’ windows adorned with beautiful Victorian holiday decorations, past artisans and vendors of all sorts of delightful treats. Joyful children pose with Father Christmas for memory-laden pictures.The smells of cider and gingerbread permeate the chilly air. And there is Ebenezer Scrooge himself, pursued by the ghost of Jacob Marley. As darkness approaches and the clock reaches 5 p.m., townspeople gather in front of the Arts Council for the candlelight procession to the Market House, followed by fireworks. After the fireworks, the festivities continue until 9 p.m.",
+					"dates": "Nov 25",
+					"googleMaps": "https://www.google.com/maps/place/Downtown+Fayetteville/@35.0538203,-78.8836384,15z/data=!4m5!3m4!1s0x0:0x6b82a0ecd2e115fe!8m2!3d35.0538203!4d-78.8836384?sa=X&ved=0ahUKEwjRsOelhoDPAhXDMyYKHZSwAKYQ_BIIhQEwDg",
+					"webLink": "http://www.theartscouncil.com/dickensmain/"
+					}
 				],
 				},
 			]
