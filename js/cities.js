@@ -1573,7 +1573,7 @@ var data = [{
 					{
 					"name": "Hanukkah Shuk",
 					"location": "Asheville",
-					"address": "Nov 21 - Dec 30",
+					"address": "???",
 					"position":{
 						"top": "300px",
 						"left": "400px"
@@ -1586,9 +1586,31 @@ var data = [{
 					"googleMaps": "",
 					"webLink": "http://www.chabadasheville.org/templates/articlecco_cdo/aid/442789/jewish/Holiday-Events.htm"
 					}
-
 				],
-				}
+				},
+				{
+				"categoryType": "Tree Farm",
+				"id": 20,
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
+				"events": [
+					{
+					"name": "Buck Knob Farm",
+					"location": "Cullowhee",
+					"address": "1051 Wolf Knob Rd, Cullowhee, NC 28723",
+					"position":{
+						"top": "400px",
+						"left": "290px"
+					},
+					"image": "/images/buck-knob.jpg",
+					"imageCredit": "© Buck Knob Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Buck Knob Farm offers chose and cut fraser fir christmas trees and wreaths.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/1051+Wolf+Knob+Rd,+Cullowhee,+NC+28723/@35.4533063,-83.3890305,10.46z/data=!4m5!3m4!1s0x8859177eb34266dd:0x511da3244ae91442!8m2!3d35.2037456!4d-83.2041838",
+					"webLink": "http://www.buckknobfarm.com/home.html"
+					}
+				],
+				},
 			]
 	},
 	{"city": "Greensboro",
@@ -1778,6 +1800,56 @@ var data = [{
 				},
 			]
 	},
+	{"city": "Boone",
+			"cityFlag": "",
+			"icon-animation": "",
+			"position": {
+				"top": "350px",
+				"left": "1520px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"id": 10,
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+				"mapLocation": "coordinates",
+				"events": [
+					
+				],
+				},
+				{
+				"categoryType": "Tour",
+				"id": 20,
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
+				"events": [
+
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
+				"id": 20,
+				"events": [
+					{
+					"name": "Appalachian Evergreens",
+					"location": "Boone",
+					"address": "1371 NC-194, Boone, NC 28607",
+					"position":{
+						"top": "140px",
+						"left": "560px"
+					},
+					"image": "/images/app-evergreens.jpg",
+					"imageCredit": "© Lauren Carroll",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Appalachian Evergreens was founded in 1933 by Charles Cole Wilcox. In the heart of the Blue Ridge Mountains in Western North Carolina. Our real Fraser Fir Christmas wreaths, fireplace mantle garlands and other greenery are handmade with fresh cut evergreens from our local farms. If you're looking for a great Holiday experience with the family, visit our Choose and Cut Christmas Tree Farm. Here you'll find the perfect tree and memories that will last a lifetime.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/Applachian+Evergreens/@36.2357385,-81.6608286,17.38z/data=!4m5!3m4!1s0x0:0xb2c83aa791c6412!8m2!3d36.2358355!4d-81.658176",
+					"webLink": "https://www.appevergreens.com/about-us/"
+					}
+				],
+				},
+			]
+	},
 	{"city": "Edenton",
 			"cityFlag": "",
 			"icon-animation": "",
@@ -1819,6 +1891,14 @@ var data = [{
 				],
 				},
 				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
+				"id": 20,
+				"events": [
+
+				],
+				},
+				{
 				"categoryType": "Production",
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"id": 30,
@@ -1857,24 +1937,7 @@ var data = [{
 					"dates": "Dec 1",
 					"googleMaps": "https://www.google.com/maps/place/Main+Post+Parade+Field/@35.1473251,-78.9967978,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab6a21bcaf9395:0x73b4aea733e18225!8m2!3d35.1473251!4d-78.9946091",
 					"webLink": "http://bragg.armymwr.com/us/bragg/ft-bragg-events/christmas-tree-lighting?query=christmas"
-					},
-					{
-					"name": "",
-					"location": "",
-					"address": "",
-					"position":{
-						"top": "400px",
-						"left": "1180px"
-					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
 					}
-					
 				],
 				},
 				{
@@ -1895,7 +1958,7 @@ var data = [{
 					"imageCredit": "© Visit Fayetteville NC",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
 					"description": "Decorated with a big tree in the parlor, long hallways and tall windows decked wFront of house decorated for Christmasith greenery, and the splash of red berries from holly sprigs will give your Christmas spirit a boost. You’ll also come to know and appreciate how people from the 1900s celebrated the traditions that so many hold dear today.",
-					"dates": "Nov 22 - ???",
+					"dates": "Nov 22 - Jan 1",
 					"googleMaps": "https://www.google.com/maps/place/Museum+of+the+Cape+Fear+Historical+Complex/@35.0545048,-78.8926655,15z/data=!4m5!3m4!1s0x0:0x6b557b7baed97dd!8m2!3d35.0545048!4d-78.8926655",
 					"webLink": "http://www.visitfayettevillenc.com/events/search"
 					}
@@ -1905,8 +1968,24 @@ var data = [{
 				{
 				"categoryType": "Tree Farm",
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
+				"id": 20,
 				"events": [
-					
+					{
+					"name": "B&D Christmas Tree Farm",
+					"location": "Fayetteville",
+					"address": "1206 Elliot Farm Rd, Fayetteville, NC 28311",
+					"position":{
+						"top": "320px",
+						"left": "1180px"
+					},
+					"image": "/images/BD-farm.jpg",
+					"imageCredit": "© Hardis Barnes",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "B&D offers a range of Choose & Cut Christmas Trees, Christmas Tree Live, Christmas Trees, Tours, Wreaths.",
+					"dates": "Nov 24 - Dec 24",
+					"googleMaps": "https://www.google.com/maps/place/B+%26+D+Christmas+Tree+Farm/@35.2081471,-78.8870555,15z/data=!4m5!3m4!1s0x0:0xbe1b170de0aeec8b!8m2!3d35.2081471!4d-78.8870555",
+					"webLink": "https://www.facebook.com/pages/B-D-Christmas-Tree-Farm/147270341982340"
+					}
 				],
 				},
 				{
@@ -1925,25 +2004,89 @@ var data = [{
 					"imageCredit": "© Fayetteville Observer",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "In this hilarious Christmas classic, a couple struggling to put on a church Christmas pageant is faced with casting the Herdman kids, probably the most inventively awful kids in history. You will not believe the mayhem, and the fun, when the Herdmans collide with the Christmas story head on! This play continues to be a highlight of Fayetteville’s holiday season for more than 25 years.",
-					"dates": "Dec 1 - ???",
+					"dates": "Dec 1 - Dec 18",
 					"googleMaps": "https://www.google.com/maps/place/Cape+Fear+Regional+Theatre/@35.0566206,-78.9015723,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab6cccb924fb5d:0x1fac029688342153!8m2!3d35.0566206!4d-78.8993836",
 					"webLink": "http://www.visitfayettevillenc.com/event/2016/12/01/the-best-christmas-pageant-ever"
 					},
 					{
-					"name": "",
-					"location": "",
-					"address": "",
+					"name": "Its a Wonderful Life",
+					"location": "Gilbert Theater",
+					"address": "116 Green St, Fayetteville, NC 28301",
 					"position":{
-						"top": "400px",
+						"top": "420px",
 						"left": "1180px"
 					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
+					"image": "/images/wonderful-gilbert.jpg",
+					"imageCredit": "© Fayetteville Observer",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
+					"description": "The Gilbert Theater's second show of the 2016-2017 season is this ageless holiday classic, by James Rodgers. This is the story of George Bailey, the every-man from the small town of Bedford Falls whose dreams of escape and adventure have been quashed by family obligation and civic duty. His guardian angel has to descend on Christmas Eve to save him from despair and to show him what the world would have been like had he never been born--that his life has been, after all, a wonderful life. Shows typically run Friday through Sunday.",
+					"dates": "Nov 26 - Dec 18",
+					"googleMaps": "https://www.google.com/maps/place/Gilbert+Theater/@35.0587334,-78.9047038,13.5z/data=!4m5!3m4!1s0x0:0xb9e056aa180038c7!8m2!3d35.0530939!4d-78.8778146",
+					"webLink": "http://www.gilberttheater.com/2015-2016-season/"
+					},
+					{
+					"name": "A Folk Christmas Cantata",
+					"location": "Holy Trinity Episcopal Church",
+					"address": "1601 Raeford Rd, Fayetteville, NC 28305",
+					"position":{
+						"top": "420px",
+						"left": "1120px"
+					},
+					"image": "/images/cantata.jpg",
+					"imageCredit": "© Sweet Tea Shakespeare",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Join Sweet Tea Shakespeare (STS) for the story of Advent and Christmas, told in song and story. Featuring Andrew Peterson’s Behold the Lamb of God and music and readings by the STS artists, this special event is an ideal way to center oneself in the hustle and bustle of the Advent and Christmas seasons. Join STS for warm and warming beverages and a night of music and fellowship.",
+					"dates": "Dec 8 - Dec 9",
+					"googleMaps": "https://www.google.com/maps/place/Holy+Trinity+Episcopal+Church/@35.0539326,-78.9095308,14.81z/data=!4m5!3m4!1s0x89ab134a925ceb79:0x81a1075585c1d067!8m2!3d35.053497!4d-78.90743",
 					"webLink": ""
+					},
+					{
+					"name": "Waltzing in a Winter Wonderland",
+					"location": "Huff Concert Hall",
+					"address": "5400 Ramsey Street Fayetteville, NC 28311",
+					"position":{
+						"top": "370px",
+						"left": "1180px"
+					},
+					"image": "/images/huff-wonderland.jpg",
+					"imageCredit": "© David Bickley",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Bring your family and celebrate the holiday season with the Fayetteville Symphony and Guest Conductor Aram Demirjian, Music Director of the Knoxville Symphony, for an evening of traditional holiday music that will have you feeling like you’re waltzing in a winter wonderland!",
+					"dates": "Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/5400+Ramsey+St,+Fayetteville,+NC+28311/@35.1334615,-78.8739977,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab6dd91d8a3a3b:0x990c1934995abe80!8m2!3d35.1334615!4d-78.8726749",
+					"webLink": "http://www.fayettevillesymphony.org/2016-2017-concerts/"
+					},
+					{
+					"name": "FYSO Winter Concert",
+					"location": "Huff Concert Hall",
+					"address": "5400 Ramsey Street Fayetteville, NC 28311",
+					"position":{
+						"top": "370px",
+						"left": "1170px"
+					},
+					"image": "/images/fsyo.jpg",
+					"imageCredit": "© Fayetteville Symphony",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Students of the Fayetteville Symphony Youth Orchestra perform for their winter concert.",
+					"dates": "Dec 11",
+					"googleMaps": "https://www.google.com/maps/place/5400+Ramsey+St,+Fayetteville,+NC+28311/@35.1334615,-78.8739977,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab6dd91d8a3a3b:0x990c1934995abe80!8m2!3d35.1334615!4d-78.8726749",
+					"webLink": "http://www.fayettevillesymphony.org/youth-orchestra/"
+					},
+					{
+					"name": "Disney on Ice: Follow Your Heart",
+					"location": "Crown Coliseum",
+					"address": "1960 Coliseum Dr, Fayetteville, NC 28306",
+					"position":{
+						"top": "450px",
+						"left": "1170px"
+					},
+					"image": "/images/disney-ice.jpg",
+					"imageCredit": "© Disney",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Follow your heart to Disney On Ice! Swim with Dory and new pal Hank, from Finding Dory. Cheer with the Emotions from Inside Out. Join Olaf as he helps reunite Anna and Elsa. See the Disney Princesses achieve their dreams. And celebrate true friendship with the Toy Story gang. Make unforgettable memories with your whole family!",
+					"dates": "Dec 15 - Dec 18",
+					"googleMaps": "https://www.google.com/maps/place/Crown+Complex/@35.0151782,-78.8939641,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab13042592521d:0x3ddbb894ba36349f!8m2!3d35.0151782!4d-78.8917701",
+					"webLink": "http://www.crowncomplexnc.com/events/detail/disney-on-ice"
 					}
 				],
 				},
@@ -1967,6 +2110,22 @@ var data = [{
 					"dates": "Nov 25",
 					"googleMaps": "https://www.google.com/maps/place/Downtown+Fayetteville/@35.0538203,-78.8836384,15z/data=!4m5!3m4!1s0x0:0x6b82a0ecd2e115fe!8m2!3d35.0538203!4d-78.8836384?sa=X&ved=0ahUKEwjRsOelhoDPAhXDMyYKHZSwAKYQ_BIIhQEwDg",
 					"webLink": "http://www.theartscouncil.com/dickensmain/"
+					},
+					{
+					"name": "Kwanzaa Celebration",
+					"location": "Smith Recreation Center",
+					"address": "1520 Slater Ave, Fayetteville, NC 28301",
+					"position":{
+						"top": "370px",
+						"left": "1150px"
+					},
+					"image": "/images/faye-kwanzaa.jpg",
+					"imageCredit": "© Umoja Group Inc.",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "The Umoja Group, Inc., presents a longstanding Fayetteville tradition: Kwanzaa Celebration. Various activities at this special event include a drum call, welcome song, tribute to elders, libation, parade of African kings and queens, college scholarship award, feast, children’s candlelight ceremony, and traditional dance performance. Attendees are asked to bring a dish to share at the feast and donation(s) of winter clothing or nonperishable food items.",
+					"dates": "Dec 31",
+					"googleMaps": "https://www.google.com/maps/place/Smith+Recreation+Center/@35.0781276,-78.8997242,17z/data=!3m1!4b1!4m5!3m4!1s0x89ab6ce9cc072585:0x2a6dc355371e4d28!8m2!3d35.0781276!4d-78.8975355",
+					"webLink": ""
 					}
 				],
 				},
