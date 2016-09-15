@@ -160,7 +160,7 @@ var data = [{
 					},
 					{
 					"name": "100 Years of Christmas",
-					"location": "Historic Latta Plantation",
+					"location": "Latta Plantation",
 					"address": "5225 Sample Rd, Huntersville, NC 28078",
 					"position":{
 						"top": "355px",
@@ -1379,22 +1379,6 @@ var data = [{
 					"dates": "Dec 7 - Dec 23",
 					"googleMaps": "https://www.google.com/maps/place/North+Carolina+Stage+Company/@35.595963,-82.554177,15z/data=!4m5!3m4!1s0x0:0x1ad6653af52793df!8m2!3d35.595963!4d-82.554177",
 					"webLink": "http://www.ncstage.org/productions/calm-christmas-truce-1914-reprises/"
-					},
-					{
-					"name": "",
-					"location": "",
-					"address": "",
-					"position":{
-						"top": "300px",
-						"left": "440px"
-					},
-					"image": "/images/.jpg",
-					"imageCredit": "© ",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
 					}
 				],
 				},
@@ -1610,7 +1594,7 @@ var data = [{
 					"webLink": "http://www.buckknobfarm.com/home.html"
 					},
 					{
-					"name": "Pressley Tree Farm LLC",
+					"name": "Pressley Tree Farm",
 					"location": "Glenville",
 					"address": "770 Shirley Pressley Rd. Glenville, NC 28736",
 					"position":{
@@ -1832,22 +1816,6 @@ var data = [{
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/Helms+Christmas+Tree+Farm/@35.5132482,-81.4199831,17z/data=!4m13!1m7!3m6!1s0x8856d1500cab1fa3:0xa697e18aa80723fe!2s6345+Christmas+Tree+Ln,+Vale,+NC+28168!3b1!8m2!3d35.5132482!4d-81.4177944!3m4!1s0x8856d1500cab1fa3:0xfe54af9dfa651f23!8m2!3d35.5133838!4d-81.4179551",
 					"webLink": "http://www.helmschristmastreefarm.com/"
-					},
-					{
-					"name": "",
-					"location": "",
-					"address": "",
-					"position":{
-						"top": "210px",
-						"left": "520px"
-					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-trees.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
 					}
 				],
 				},
@@ -2167,36 +2135,164 @@ var data = [{
 					"webLink": "https://www.facebook.com/stonewallchristmastrees/info?fref=ps_result&tab=overview"
 					},
 					{
-					"name": "",
-					"location": "",
-					"address": "",
+					"name": "Fir Heaven Sake Christmas Tree Farm",
+					"location": "Topton",
+					"address": "40 Fir Heaven Sake Lane Topton, NC 28781",
 					"position":{
-						"top": "210px",
-						"left": "520px"
+						"top": "405px",
+						"left": "210px"
 					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
+					"image": "/images/fir-heaven.jpg",
+					"imageCredit": "© Fir Heaven Sake Christmas Tree Farm",
 					"categoryIcon": "/graphics/christmas_icons-trees.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
+					"description": "Fir Heaven Sake Christmas Tree Farm is the place where your family can come and renew or start an old tradition by looking through a field of Christmas trees to choose and cut the one you would like. Or if you prefer, we can cut it for you. We also offer live or dug trees, It is better to dig a tree that is 5' or smaller for it to live. In addition to the trees, we offer sleigh rides with Santa! Your whole family will enjoy the ride through the field, where we have several hand painted wooden scenes. There will be several opportunities for pictures as well.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/Forest+Service+Rd+711,+Topton,+NC+28781/@35.2025426,-83.6159238,15.77z/data=!4m5!3m4!1s0x885ed338bc54d915:0x617f842a4bd69b8!8m2!3d35.1954888!4d-83.5999282",
+					"webLink": "http://www.firheavensakechristmastrees.com/"
 					},
 					{
-					"name": "",
-					"location": "",
-					"address": "",
+					"name": "Dutch Cove Christmas Tree Farm",
+					"location": "Canton",
+					"address": "280 Setzer Dr, Canton, NC 28716",
 					"position":{
-						"top": "210px",
-						"left": "520px"
+						"top": "305px",
+						"left": "400px"
 					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
+					"image": "/images/dutch-cove.jpg",
+					"imageCredit": "© Christopher Vengala",
 					"categoryIcon": "/graphics/christmas_icons-trees.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
+					"description": "Choose and cut Frasier Fir Christmas tree farm, owned and operated by Mike & Judy Medford. Open all day Saturdays and Monday - Friday by afternoons by appointment.",
+					"dates": "Nov - Dec",
+					"googleMaps": "https://www.google.com/maps/place/280+Setzer+Dr,+Canton,+NC+28716/@35.484062,-82.8092705,14.48z/data=!4m5!3m4!1s0x88599b74ba3523b7:0xb89a51f175ebf838!8m2!3d35.486851!4d-82.800257",
+					"webLink": "http://www.ncchristmastrees.com/member-directory/1044-dutch-cove-christmas-tree-farm"
+					},
+					{
+					"name": "Clark's Evergreens and Landscaping",
+					"location": "Fleetwood",
+					"address": "2930 Liberty Grove Church Rd. Fleetwood, NC 28626",
+					"position":{
+						"top": "135px",
+						"left": "600px"
+					},
+					"image": "/images/clarks-trees.jpg",
+					"imageCredit": "© Clark’s Evergreen and Landscaping",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "We are open for business! Come on up and pick out a beautiful Christmas tree and wreath for your family. We have all sizes of trees and wreaths. We also have specialty wreaths like squares, crosses, candy canes and mailbox swags. It's one stop shopping here--you can get a tree stand, wreath hangers and bows too!",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/2930+Liberty+Grove+Church+Rd,+Fleetwood,+NC+28626/@36.2869823,-81.542435,17z/data=!3m1!4b1!4m5!3m4!1s0x8850ffbfca64dfe7:0x90482ab1aa2c4733!8m2!3d36.286978!4d-81.540241",
+					"webLink": "https://www.facebook.com/Clarks-Evergreen-Choose-Cut-123875251003348/"
+					},
+					{
+					"name": "RRR Tree Farm",
+					"location": "Boone",
+					"address": "1029 Rainbow Trail Boone, NC 28607",
+					"position":{
+						"top": "125px",
+						"left": "570px"
+					},
+					"image": "/images/rrr-trees.jpg",
+					"imageCredit": "© RRR Tree Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "There is nothing like visiting a Choose and Cut Christmas Tree Farm and picking and cutting your own live Christmas tree. You know it's what you want, and you know it's fresh. Your biggest decision is choosing your “perfect tree” from among the thousands.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/1029+Rainbow+Trail,+Boone,+NC+28607/@36.2376193,-81.675752,17z/data=!3m1!4b1!4m5!3m4!1s0x8850f9f41250c039:0xd57d7a347b63cc7a!8m2!3d36.237615!4d-81.673558",
+					"webLink": "http://www.rrrtreefarm.com/choose-and-cut-christmas-tree-farms.html"
+					},
+					{
+					"name": "Mistletoe Meadows",
+					"location": "Laurel Springs",
+					"address": "583 Burnt Hill Road Laurel Springs, NC 28644",
+					"position":{
+						"top": " 95px",
+						"left": "630px"
+					},
+					"image": "/images/mistletoe-trees.jpg",
+					"imageCredit": "© Mistletoe Meadows",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Make new holiday memories – breathe the fresh mountain air and choose and cut your tree right on the Mistletoe Meadows Farm. Come and have a cup of cocoa or hot cider with us in the barn during our special holiday farm weekends. Just a short day trip from the triangle, the triad, or Charlotte, you and your family can make a new tradition when you visit us.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/583+Burnt+Hill+Rd,+Laurel+Springs,+NC+28644/@36.4117839,-81.5666645,9.78z/data=!4m5!3m4!1s0x8851a5b16acf98e3:0x7c7e845f809d33fd!8m2!3d36.407077!4d-81.302766",
+					"webLink": "http://mistletoemeadows.com/laurel-springs/"
+					},
+					{
+					"name": "Circle C Tree Farms",
+					"location": "Boone",
+					"address": "372 Will Cook Road Boone, NC 28607",
+					"position":{
+						"top": "145px",
+						"left": "600px"
+					},
+					"image": "/images/circle-trees.jpg",
+					"imageCredit": "© Circle C Tree Farms",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Circle C Tree Famrs is a full-service Choose and Cut Christmas Tree Farm located in Boone, N.C. The farm offers thousands of beautiful trees to choose from in a convenient and scenic location.",
+					"dates": "Nov 24 - Dec 25",
+					"googleMaps": "https://www.google.com/maps/place/372+Will+Cook+Rd,+Boone,+NC+28607/@36.2099963,-81.627894,17z/data=!3m1!4b1!4m5!3m4!1s0x8850fbc02661a129:0xcde4c7071d75e0e6!8m2!3d36.209992!4d-81.6257",
+					"webLink": "https://www.facebook.com/Circle-C-Tree-Farms-Choose-Cut-Christmas-Trees-131292440217215/"
+					},
+					{
+					"name": "Cornett-Deal Christmas Tree Farm",
+					"location": "Vilas",
+					"address": "142 Tannenbaum Lane Vilas, NC 28692",
+					"position":{
+						"top": "125px",
+						"left": "510px"
+					},
+					"image": "/images/cornett-trees.jpg",
+					"imageCredit": "© Cornett-Deal Christmas Tree Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Our Cornett family began operations in 1979 when Clint Cornett planted his first field of Fraser Fir Christmas trees in the beautiful Mountain Dale Community in the Northwest Mountains of North Carolina. Dale Cornett, Clint’s son, now manages the wholesale Christmas tree operation while his sister, Diane Cornett Deal, owns and operates her choose and cut farm and craft shop.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/142+Tannenbaum+Ln,+Vilas,+NC+28692/@36.3015855,-81.779799,10.9z/data=!4m5!3m4!1s0x8850f55fa9fd8611:0x36db71cf8b6a417e!8m2!3d36.328854!4d-81.847024",
+					"webLink": "https://www.facebook.com/Cornett-Deal-Christmas-Tree-Farm-147850505255460/"
+					},
+					{
+					"name": "Roberts Tree Farm",
+					"location": "Ennice",
+					"address": "223 Wilson Rd Ennice, NC 28623",
+					"position":{
+						"top": "55px",
+						"left": "750px"
+					},
+					"image": "/images/roberts-trees.jpg",
+					"imageCredit": "© Alleghany NC",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Roberts Tree Farm planted their first trees in 1979, and has been growing and selling Christmas Trees for thirty-one years! Our first Choose and Cut operation began in 1987, in November and December we had numerous customers from Charlotte, Raleigh and the Winston area. This was an outing for the family. The Christmas Tree was purchased, many pictures were made, and the memories are never forgotten. The children that were brought by their parents are now bringing their children. Make choosing a Christmas Tree from or farm a family tradition that will always be in your heart and a fond memory with your family. ",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/223+Wilson+Rd,+Ennice,+NC+28623/@36.446829,-81.1314759,10.4z/data=!4m5!3m4!1s0x88518df875460ea3:0xee27514d879bd93e!8m2!3d36.53634!4d-80.987041",
+					"webLink": "http://www.alleghanync.com/1alleghanytrees.html"
+					},
+					{
+					"name": "Ewing's Fraser Fir Farm",
+					"location": "Vilas",
+					"address": "175 Navidad Lane Vilas, NC 28692",
+					"position":{
+						"top": "125px",
+						"left": "540px"
+					},
+					"image": "/images/ewings- trees.jpg",
+					"imageCredit": "© Ewing’s Fraser Fir Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "We have been growing fraser firs for 26 years.  For over 20 years families have been making it an annual tradition to head to our farm to choose their Christmas tree.  Our customers enjoy walking through the thousands of trees and enjoying the view, while deciding on the perfect Christmas tree for their home.  Once you choose your tree we will cut, bale, and load your tree.  You may cut your own if you like.  We have a variety of wreaths and roping available for purchase.",
+					"dates": "Nov 19 - Dec 25",
+					"googleMaps": "https://www.google.com/maps/place/175+Navidad+Ln,+Vilas,+NC+28692/@36.0571738,-82.3154488,9.04z/data=!4m5!3m4!1s0x8850f6eb627b7501:0xf2733591a2fc19f!8m2!3d36.26559!4d-81.754971",
+					"webLink": "http://www.ewingsfraserfirfarm.com/"
+					},
+					{
+					"name": "Sweetwater Christmas Tree Farm",
+					"location": "Franklin",
+					"address": "51 Sweet Water Drive Franklin, NC 28734",
+					"position":{
+						"top": "395px",
+						"left": "260px"
+					},
+					"image": "/images/sweetwater-trees.jpg",
+					"imageCredit": "© Winter Blue Music",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Sweetwater Christmas Tree Farm is located in Franklin, North Carolina. The farm offers choose and cut Fraser Fir trees, bough and tree bailing.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/51+Sweet+Water+Dr,+Franklin,+NC+28734/@35.2801122,-83.6336511,8.84z/data=!4m5!3m4!1s0x885923a24bb5a73b:0x3b9753e83b9a1695!8m2!3d35.155218!4d-83.312372",
+					"webLink": "http://www.ncchristmastrees.com/member-directory/1085-sweetwater-christmas-tree-farm"
 					}
 				],
 				},
