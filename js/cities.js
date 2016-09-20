@@ -1816,6 +1816,22 @@ var data = [{
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/Helms+Christmas+Tree+Farm/@35.5132482,-81.4199831,17z/data=!4m13!1m7!3m6!1s0x8856d1500cab1fa3:0xa697e18aa80723fe!2s6345+Christmas+Tree+Ln,+Vale,+NC+28168!3b1!8m2!3d35.5132482!4d-81.4177944!3m4!1s0x8856d1500cab1fa3:0xfe54af9dfa651f23!8m2!3d35.5133838!4d-81.4179551",
 					"webLink": "http://www.helmschristmastreefarm.com/"
+					},
+					{
+					"name": "Snowy Mountain Christmas Tree Farm",
+					"location": "Newland",
+					"address": "4699 Linville Falls Hwy Newland, NC 28657",
+					"position":{
+						"top": "170px",
+						"left": "510px"
+					},
+					"image": "/images/snowy-trees.jpg",
+					"imageCredit": "© Snowy Mountain Christmas Tree Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Our Choose & Cut farm features the Fraser Fir Christmas Tree. Fraser Fir is the very best choice because of its perfect shape, rich dark green color, clean pine scent, and ability to hold its needles for a long time after being cut. Choose and cut sizes range from table top 3ft ft. to 16 ft. tall. The farm offers easy access and breathtaking views of the surrounding countryside. Be sure to check-in at our Christmas shop during your choose and cut excursion. You are also welcome to pre-tag your Christmas tree at any time during the year.",
+					"dates": "May - Dec",
+					"googleMaps": "https://www.google.com/maps/place/4699+Linville+Falls+Hwy,+Newland,+NC+28657/@35.8097969,-82.4421419,8.92z/data=!4m5!3m4!1s0x8850951fab42e427:0x7878fbcaadc7eded!8m2!3d36.025031!4d-81.9169753",
+					"webLink": "http://www.snowymountainchristmastreefarm.com/choose-and-cut"
 					}
 				],
 				},
@@ -1869,11 +1885,26 @@ var data = [{
 				],
 				},
 				{
-				"categoryType": "Production",
-				"id": 30,
-				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"categoryType": "Tree Farm",
+				"id": 20,
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
-					
+					{
+					"name": "Spillman's Christmas Tree Farm",
+					"location": "Sophia",
+					"address": "1576 Will Coltrane Rd, Sophia, NC 27350",
+					"position":{
+						"top": "170px",
+						"left": "890px"
+					},
+					"image": "/images/spillman-trees.jpg",
+					"imageCredit": "© Spillman’s Christmas Tree Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Here at the Spillman’s Tree farm you can create family traditions and start your Christmas season with a beautiful pre-cut Fraser Fir or White Pine; and we have Choose & Cut trees ready this year:  Leyland Cypress, Red Cedar, Carolina Sapphire and White Pine.  We also have decorated wreaths, garlands and tree stands for you to choose from. You will have a wonderful experience riding our wagon out to the Randleman Lake, scenic overlook to build beautiful memories for your children, families, and friends choosing your Christmas tree.",
+					"dates": "Nov 25 - Dec 25",
+					"googleMaps": "https://www.google.com/maps/place/Spillman's+Christmas+Tree+Farm/@35.83258,-80.1399568,10.11z/data=!4m13!1m7!3m6!1s0x885313418403dc3f:0xe42ae827ca9d4047!2s1576+Will+Coltrane+Rd,+Sophia,+NC+27350!3b1!8m2!3d35.852061!4d-79.846846!3m4!1s0x885313418403dc3f:0xfa11a35fab15f32b!8m2!3d35.852061!4d-79.846846",
+					"webLink": "https://www.facebook.com/Spillmans-Christmas-Tree-Farm-126267813644/"
+					},
 				],
 				},
 			]
@@ -2003,7 +2034,38 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"id": 30,
 				"events": [
-					
+					{
+					"name": "",
+					"location": "",
+					"address": "",
+					"position":{
+						"top": "420px",
+						"left": "1530px",
+					},
+					"image": "/images/.jpg",
+					"imageCredit": "",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "",
+					"dates": "",
+					"googleMaps": "",
+					"webLink": ""
+					},
+					{
+					"name": "",
+					"location": "",
+					"address": "",
+					"position":{
+						"top": "420px",
+						"left": "1530px",
+					},
+					"image": "/images/.jpg",
+					"imageCredit": "",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "",
+					"dates": "",
+					"googleMaps": "",
+					"webLink": ""
+					}
 				],
 				},
 			]
@@ -2293,6 +2355,102 @@ var data = [{
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/51+Sweet+Water+Dr,+Franklin,+NC+28734/@35.2801122,-83.6336511,8.84z/data=!4m5!3m4!1s0x885923a24bb5a73b:0x3b9753e83b9a1695!8m2!3d35.155218!4d-83.312372",
 					"webLink": "http://www.ncchristmastrees.com/member-directory/1085-sweetwater-christmas-tree-farm"
+					},
+					{
+					"name": "Shady Rest Tree Farm",
+					"location": "Glendale Springs",
+					"address": "287 Trading Post Rd, Glendale Springs, NC 28629",
+					"position":{
+						"top": "95px",
+						"left": "610px"
+					},
+					"image": "/images/shady-trees.jpg",
+					"imageCredit": "© Shady Rest Tree Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Come visit Shady Rest Tree Farm prior to or during the Christmas season and experience the magic of walking amidst snow covered NC Christmas Tree Farms, choosing your favorite tree and taking it home to herald the Christmas season. Shady Rest is among the premier NC Choose and Cut Christmas Tree Farms, offering you a captivating and memorable choose and cut experience.",
+					"dates": "Nov 19 - Dec 24",
+					"googleMaps": "https://www.google.com/maps/place/Shady+Rest+Tree+Farm+LLC/@36.3129055,-81.5530061,10.5z/data=!4m13!1m7!3m6!1s0x8851a8f9290ed9df:0xf2051d0d0b5ee8!2s287+Trading+Post+Rd,+Glendale+Springs,+NC+28629!3b1!8m2!3d36.344067!4d-81.3782643!3m4!1s0x8851a8fbd09888f5:0x5ac4dc372f531265!8m2!3d36.3442709!4d-81.3765915",
+					"webLink": "http://www.shadyresttreefarm.com/choose.htm"
+					},
+					{
+					"name": "Papa Goats Tree Farm",
+					"location": "Sparta",
+					"address": "687 Three Creeks Lane Sparta, NC 28675",
+					"position":{
+						"top": "55px",
+						"left": "660px"
+					},
+					"image": "/images/goats-trees.jpg",
+					"imageCredit": "© Papa Goats Tree Farm",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Papa Goats Tree Farm is a family owned and operated choose and cut Christmas tree farm located in the Blue Ridge Mountains of North Carolina near the town of Sparta. We strive to make every family’s visit to our farm a lasting holiday memory. We offer Fraser fir trees from table top to 12 ft. tall also white pine trees up to 9 ft. tall, blue spruce, wreaths, roping, bows, and tree stands. Our staff will cut, bale, tree drilling and secure your tree to your vehicle for a safe ride home. For those that would like to cut their own tree, we provide hand saws.",
+					"dates": "Nov 19 - Dec 24",
+					"googleMaps": "https://www.google.com/maps/place/Papa+Goats+Tree+Farm/@36.1194079,-81.8159442,8.74z/data=!4m13!1m7!3m6!1s0x885196a831f6995d:0xd7ebbb9d4efec734!2s687+3+Creeks+Ln,+Sparta,+NC+28675!3b1!8m2!3d36.533597!4d-81.084104!3m4!1s0x885196a831f6995d:0x2e0040ec75af2ea0!8m2!3d36.5337477!4d-81.0841467",
+					"webLink": "https://www.facebook.com/PapaGoatsTreeFarm"
+					},
+					{
+					"name": "Frosty's Choose and Cut",
+					"location": "West Jefferson",
+					"address": "2152 Beaver Creek School Rd West Jefferson, NC 28694",
+					"position":{
+						"top": "95px",
+						"left": "580px"
+					},
+					"image": "/images/frosty-trees.jpg",
+					"imageCredit": "© Frosty’s Choose and Cut",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Frosty's Choose and Cut is the childhood dream of three brothers. Founded when Andrew, Matthew, and Thomas were all still in school, the business gives the brothers a sense of purpose and accomplishment. The love of Christmas Trees is instilled in the blood of the brothers. They have taken the fourth generation of Sexton's Christmas Tree Farms and the beautiful Fraser Fir into the 21st Century. The Sexton brothers have created a local business that provides premium Christmas Trees and an unforgettable experience for the whole family. Selecting,and cutting “The Tree”, along with making your own Wreath or Garland generates the highest level of pleasure and satisfaction for their customers.",
+					"dates": "Year Round",
+					"googleMaps": "https://www.google.com/maps/place/Frosty's+Choose+and+Cut/@36.3855085,-81.5825036,12.02z/data=!4m13!1m7!3m6!1s0x885054ceafd49c2d:0x30435a2afa990466!2s2152+Beaver+Creek+School+Rd,+West+Jefferson,+NC+28694!3b1!8m2!3d36.3695122!4d-81.5194082!3m4!1s0x885054cbb09d7ffb:0xdcf9d164019f0119!8m2!3d36.3695122!4d-81.5194082",
+					"webLink": "http://www.gofrostys.com/"
+					},
+					{
+					"name": "C & J Christmas Trees",
+					"location": "Boone",
+					"address": "1011 NC-194, Boone, NC 28607",
+					"position":{
+						"top": "115px",
+						"left": "550px"
+					},
+					"image": "/images/cj-trees.jpg",
+					"imageCredit": "© C and J Christmas Trees",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Come and browse our winter wonderland to find your perfect family Christmas tree.  You pick it, we cut, bale and tie it onto whatever you are driving. Four wheel drive trucks are ideal, but we've tied them to the top of almost anything. We have fraser firs from Charlie Brown size to 10 feet tall.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/1011+NC-194,+Boone,+NC+28607/@36.2128352,-81.7263023,12.35z/data=!4m5!3m4!1s0x8850fa2784825fcb:0xddc94739fe87ea43!8m2!3d36.231603!4d-81.6607152",
+					"webLink": "https://www.facebook.com/C-and-J-Christmas-Trees-170744909619460/?hc_ref=PAGES_TIMELINE"
+					},
+					{
+					"name": "Yeater's Christmas Trees",
+					"location": "Burnsville",
+					"address": "489 River Walk Dr Burnsville, NC 28714",
+					"position":{
+						"top": "205px",
+						"left": "430px"
+					},
+					"image": "/images/yeaters-trees.jpg",
+					"imageCredit": "© Yeater's Christmas Trees",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Yeater's Choose n Cut Christmas Tree Farm offers premium Fraser Fir trees and fresh wreaths. Yeater's has been in the Christmas Trees business since 1982.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/489+River+Walk+Dr,+Burnsville,+NC+28714/@35.5509765,-82.7458144,9.07z/data=!4m5!3m4!1s0x8850a744000d01bf:0x5f632f5511884566!8m2!3d35.906564!4d-82.198627",
+					"webLink": "https://www.facebook.com/Yeaters-Christmas-Tree-Farm-1720025014898967/"
+					},
+					{
+					"name": "Wishon Evergreens",
+					"location": "Sparta",
+					"address": "200 Presnell Road Sparta, NC 28675",
+					"position":{
+						"top": "65px",
+						"left": "670px"
+					},
+					"image": "/images/wishon-trees.jpg",
+					"imageCredit": "© Johnny Wishon",
+					"categoryIcon": "/graphics/christmas_icons-trees.svg",
+					"description": "Quality Fraser Fir Christmas trees are what we are all about! We have table top to 16’ Christmas trees available. Several different grades are available to customize an order for your particular sales market while achieving your desired price point. We use strict grading standards so you get what you pay for!",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/200+Presnell+Rd,+Sparta,+NC+28675/@36.4982989,-81.0180856,17z/data=!3m1!4b1!4m5!3m4!1s0x885191ba3bd75381:0xc4a927a4f9234df5!8m2!3d36.4982989!4d-81.0158969",
+					"webLink": "http://wishonevergreens.com/christmas_trees.php"
 					}
 				],
 				},
