@@ -20,7 +20,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"events": [
 					{
@@ -91,7 +90,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -194,7 +192,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
@@ -281,7 +278,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
@@ -384,7 +380,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Activities",
-				"id": 50,
 				"categoryIcon": "/graphics/christmas_icons-activities.svg",
 				"events": [
 					{
@@ -433,7 +428,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"events": [
 					{
@@ -472,7 +466,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
@@ -527,7 +520,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tree Farm",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
 					{
@@ -582,7 +574,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
@@ -631,7 +622,6 @@ var data = [{
 		"categories": [
 			{
 				"categoryType": "Celebration",
-				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebration.svg",
 				"events": [
 					{
@@ -664,7 +654,6 @@ var data = [{
 		"categories": [
 			{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"events": [
 					{
@@ -697,7 +686,6 @@ var data = [{
 		"categories": [
 			{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -730,7 +718,6 @@ var data = [{
 		"categories": [
 			{
 				"categoryType": "Production",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
@@ -763,7 +750,6 @@ var data = [{
 		"categories": [
 			{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -786,7 +772,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"events": [
 					{
@@ -819,7 +804,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -827,7 +811,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -851,7 +834,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
@@ -900,7 +882,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -909,7 +890,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tree Farm",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
 					
@@ -917,7 +897,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
@@ -1052,7 +1031,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
@@ -1091,7 +1069,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -1242,7 +1219,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Activities",
-				"id": 50,
 				"categoryIcon": "/graphics/christmas_icons-activities.svg",
 				"events": [
 					{
@@ -1313,7 +1289,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
@@ -1384,7 +1359,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"events": [
 					{
@@ -1455,7 +1429,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
@@ -1574,7 +1547,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tree Farm",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
 					{
@@ -1847,7 +1819,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -1856,7 +1827,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 40,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
@@ -1886,7 +1856,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tree Farm",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
 				"events": [
 					{
@@ -1918,10 +1887,69 @@ var data = [{
 				},
 			"categories": [
 				{
+				"categoryType": "Activities",
+				"categoryIcon": "/graphics/christmas_icons-activities.svg",
+				"events": [
+					{
+					"name": "Christmas by the Sea",
+					"location": "Carolina Beach Boardwalk",
+					"address": "Carolina Beach Ave S, Carolina Beach, NC 28428",
+					"position": {
+						"top": "650px",
+						"left": "1360px"
+					},
+					"image": "/images/christmas-sea.jpg",
+					"imageCredit": "© Southern Digital Art",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "The Boardwalk area will be decorated and lit up each and every night during the holiday season starting with the lighting ceremony on November 25 . On noted days, the following activities will be available for the enjoyment of the whole family: Santa at the Welcome Center, fire pit with storytelling, hot chocolate at the Welcome Center, live Nativity scene, caroling, holiday themed movies at the Gazebo, puppet shows and an arts & crafts area with ornament making activities for kids. Celebrate the holidays with Christmas by the Sea!",
+					"dates": "Nov 25 - Dec 17",
+					"googleMaps": "https://www.google.com/maps/place/Carolina+Beach+Boardwalk/@34.0328788,-77.8942144,17z/data=!3m1!4b1!4m5!3m4!1s0x89a9f8fa58c0f57b:0x7be551d6001bb1f3!8m2!3d34.0328788!4d-77.8920257",
+					"webLink": "http://www.facebook.com/Xmasbythesea/timeline"
+					},
+					{
+					"name": "Holiday Market",
+					"location": "Kure Beach",
+					"address": "105 Atlantic Avenue Kure Beach NC 28449",
+					"position": {
+						"top": "670px",
+						"left": "1350px"
+					},
+					"image": "/images/beach-market.jpg",
+					"imageCredit": "© Visit Carolina Beach NC",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "Come enjoy the closest holiday market to the Atlantic Ocean! Get a jumpstart on your holiday shopping while supporting local artisans at the Kure Beach Holiday Market. You can enjoy the beautiful ocean view as you browse through items handcrafted by talented artists and crafters as well as a DJ and plenty of food trucks to choose from.  Who wouldn't want to shop oceanfront!?",
+					"dates": "Nov 19 - Nov 26",
+					"googleMaps": "https://www.google.com/maps/place/105+Atlantic+Ave,+Kure+Beach,+NC+28449/@33.9966476,-77.9074884,2187m/data=!3m1!1e3!4m5!3m4!1s0x89a9f8b552f38f9b:0x976127ab1bac3fd6!8m2!3d33.998639!4d-77.905929",
+					"webLink": "http://www.townofkurebeach.org/OFPP-activities-events.aspx"
+					}
+				],
+				},
+				{
+				"categoryType": "Production",
+				"id":"",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"events": [
+					{
+					"name": "Fantasy Christmas Show",
+					"location": "Kure Beach",
+					"address": "101 K Avenue Kure Beach NC 28449",
+					"position": {
+						"top": "680px",
+						"left": "1350px"
+					},
+					"image": "/images/fantasy-show.jpg",
+					"imageCredit": "© Town of Kure Beach",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Come and see this Kure Beach tradition! Enjoy Frosty and his penguin friend, Harriet Hippo, The Grinch, Cookie Monster, the dancing bears and more, along with Santa Claus and crazy elves, as they entertain you with song, dance and their zany antics. Dress warm because it always snows at the show!!",
+					"dates": "Dec 9 - Dec 11",
+					"googleMaps": "https://www.google.com/maps/place/101+K+Avenue,+Kure+Beach,+NC+28449/@33.9979048,-77.9082549,17z/data=!3m1!4b1!4m5!3m4!1s0x89a9ff4aafe0e089:0xd05062e034ebff67!8m2!3d33.9979048!4d-77.9060609",
+					"webLink": "http://www.townofkurebeach.org/fantasy-christmas-show.aspx"
+					},
+				],
+				},
+				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
 				"events": [
 					{
 					"name": "Holiday Floatilla",
@@ -1938,12 +1966,43 @@ var data = [{
 					"dates": "Nov 25 - Nov 26",
 					"googleMaps": "https://www.google.com/maps/place/Wrightsville+Beach,+NC/@34.1942825,-77.8516697,12.5z/data=!4m5!3m4!1s0x89a9f301471f0185:0x81d3f3190d749c7a!8m2!3d34.2085036!4d-77.7963709",
 					"webLink": "http://ncholidayflotilla.org/"
+					},
+					{
+					"name": "Island of Lights",
+					"location": "Carolina Lake",
+					"address": "400 S Lake Park Blvd Carolina Beach, NC 28428",
+					"position": {
+						"top": "660px",
+						"left": "1360px"
+					},
+					"image": "/images/island-lights.jpg",
+					"imageCredit": "© CVB",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "The brief opening ceremony, prior to the actual lighting, will feature the President of The Island of Lights Committee, Pleasure Island elected officials, and musical entertainment. Local Cub Scouts provide the Honor Guard and display the Flag for the singing of the National Anthem. Families can walk one mile around the lake to view the beautiful lighted displays and this year's tree which will remain up until after New Year's Eve. Santa will visit the celebration and free refreshments will be served prior to Light Up so come and enjoy!",
+					"dates": "Nov 25",
+					"googleMaps": "https://www.google.com/maps/place/400+S+Lake+Park+Blvd,+Carolina+Beach,+NC+28428/@34.0299763,-77.8958991,285m/data=!3m1!1e3!4m5!3m4!1s0x89a9f8efe748f4ed:0x6fad4e43748b2e2e!8m2!3d34.029983!4d-77.895241",
+					"webLink": "http://www.pleasureislandoflights.com/lighting-at-the-lake.html"
+					},
+					{
+					"name": "Christmas Flotilla",
+					"location": "Carolina Beach",
+					"address": "Snow's Cut Federal Point, NC",
+					"position": {
+						"top": "640px",
+						"left": "1375px"
+					},
+					"image": "/images/carolina-floatilla.jpg",
+					"imageCredit": "© Pleasure Island of Lights",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Fishing boats and pleasure craft decorated with thousands of lights present a spectacular display on the Intracoastal Waterway at the annual Island of Lights Christmas Flotilla. Water crafts will cruise from Snows Cut to the Carolina Beach Boat Basin and back, competing for prizes and adding to the wonderful holiday spirit! A panel of judges will be on hand to choose the winners. Bring the family and enjoy a colorful evening!",
+					"dates": "Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/Snow's+Cut/@34.0524091,-77.9076337,15z/data=!4m22!1m16!4m15!1m6!1m2!1s0x89a9f8429dbdf201:0xb5ee9b3ce62cf30!2sSnow's+Cut!2m2!1d-77.9052261!2d34.0551316!1m6!1m2!1s0x89a9f857e904d685:0xdcba226a1e03ed36!2sFederal+Point+Yacht+Club,+910+Basin+Road,+Carolina+Beach,+NC+28428!2m2!1d-77.8924967!2d34.0412965!3e0!3m4!1s0x89a9f8429dbdf201:0xb5ee9b3ce62cf30!8m2!3d34.0551316!4d-77.9052261",
+					"webLink": "http://www.pleasureislandoflights.com/christmas-parade.html"
 					}
 				],
 				},
 				{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -1961,12 +2020,27 @@ var data = [{
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/Bellamy+Mansion+Museum/@34.2359058,-77.9434995,20.48z/data=!4m5!3m4!1s0x0:0xac77d95426661dba!8m2!3d34.2361411!4d-77.9429917",
 					"webLink": "http://www.bellamymansion.org/"
+					},
+					{
+					"name": "Holiday Tour of Homes",
+					"location": "Carolina Beach",
+					"address": "Carolina Beach, NC 28428",
+					"position": {
+						"top": "650px",
+						"left": "1350px"
+					},
+					"image": "/images/pleasure-island-homes.jpg",
+					"imageCredit": "© Mancuso Photography",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Take a self-guided tour through some of Pleasure Island's most beautiful homes decorated for the holidays. Enjoy Southern hospitality at its best as the homeowners open their doors to welcome you for this special holiday treat.",
+					"dates": "Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/Carolina+Beach,+NC+28428/@34.0381307,-77.9124383,14z/data=!3m1!4b1!4m5!3m4!1s0x89a9f8f555957b5f:0xbfb3627c771e9b56!8m2!3d34.0351639!4d-77.8935814",
+					"webLink": "http://www.pleasureislandoflights.com/tour-of-homes.html"
 					}
 				],
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
@@ -1984,6 +2058,54 @@ var data = [{
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/North+Carolina+Aquarium+At+Fort+Fisher/@33.9621448,-77.9324443,17z/data=!4m13!1m7!3m6!1s0x89aa01d5d98999ab:0x77857b8b538b7340!2sKure+Beach,+NC+28449!3b1!8m2!3d33.9621448!4d-77.9302503!3m4!1s0x0:0xcb898b94e2c2d3a!8m2!3d33.9626269!4d-77.9261541",
 					"webLink": "https://reservations.ncaquariums.com/fortfisher/Info.aspx?EventID=17"
+					},
+					{
+					"name": "Cape Fear Festival of Trees",
+					"location": "N.C. Aquarium at Fort Fisher",
+					"address": "900 Loggerhead Rd, Kure Beach, NC 28449",
+					"position": {
+						"top": "700px",
+						"left": "1340px"
+					},
+					"image": "/images/capefear-trees.jpg",
+					"imageCredit": "© LCFH Foundation",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "The Cape Fear Festival of Trees returns as one of the most heart-warming holiday traditions in our area. During the two-week festival, starting with an opening on November 21, you are invited to wander through a winter wonderland of holiday elegance. Glittering trees decorated by local businesses, various organizations and individual artists transform the aquarium space into an enchanted forest for all to enjoy. In addition to the dazzling array of trees, enjoy performances by local musical groups and artists. Treat your ears to the wonderful sounds of harps, handbell and ukulele choirs, A Capella singing and more. This is the perfect way to kick off your holiday celebrations! Visit their website for schedule information and pricing for specific festival events.",
+					"dates": "TBD - Check back soon!",
+					"googleMaps": "https://www.google.com/maps/place/North+Carolina+Aquarium+At+Fort+Fisher/@33.9621448,-77.9324443,17z/data=!4m13!1m7!3m6!1s0x89aa01d5d98999ab:0x77857b8b538b7340!2sKure+Beach,+NC+28449!3b1!8m2!3d33.9621448!4d-77.9302503!3m4!1s0x0:0xcb898b94e2c2d3a!8m2!3d33.9626269!4d-77.9261541",
+					"webLink": "http://www.lcfhfoundation.org/event/cape-fear-festival-trees/"
+					},
+					{
+					"name": "Christmas Parade",
+					"location": "Carolina Beach",
+					"address": "N Lake Park Blvd, Carolina Beach, NC 28428",
+					"position": {
+						"top": "650px",
+						"left": "1340px"
+					},
+					"image": "/images/beach-parade.jpg",
+					"imageCredit": "© Visit Carolina Beach NC",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Residents and visitors both young and old look forward to the annual Christmas Parade. Floats, bands and Santa Claus will be there to add to the festivities of the season and provide a night of entertainment and holiday cheer for families.",
+					"dates": "Dec 2",
+					"googleMaps": "https://www.google.com/maps/place/N+Lake+Park+Blvd,+Carolina+Beach,+NC+28428/@34.0440623,-77.900037,17z/data=!3m1!4b1!4m5!3m4!1s0x89a9f8590041f145:0x679f565942854db6!8m2!3d34.0440623!4d-77.8978483",
+					"webLink": "http://www.pleasureislandoflights.com/christmas-parade.html"
+					},
+					{
+					"name": "New Year's Eve Celebration",
+					"location": "Ocean Front Park and Pavillion",
+					"address": "105 Atlantic Avenue Kure Beach NC 28449",
+					"position": {
+						"top": "680px",
+						"left": "1370px"
+					},
+					"image": "/images/new-years-kure-beach.jpg",
+					"imageCredit": "© Paul Borosnoff",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Come celebrate New Year's Eve at the beach with the Island of Lights New Year's Eve Celebration! This free family-friendly event will feature a DJ and dancing with refreshments and party favors available for purchase. Patrons can also enjoy the annual raffle, with the winner taking home the original artowrk for the Island of Lights 2016 Official Christmas card and ornament. Don't miss the giant ball being dropped at midnight followed by an epic fireworks display!",
+					"dates": "Dec 31",
+					"googleMaps": "https://www.google.com/maps/place/Ocean+Front+Park+and+Pavilion/@33.998639,-77.908123,17z/data=!4m13!1m7!3m6!1s0x89a9f8b552f38f9b:0x976127ab1bac3fd6!2s105+Atlantic+Ave,+Kure+Beach,+NC+28449!3b1!8m2!3d33.998639!4d-77.905929!3m4!1s0x89a9f8b552f38f9b:0x103365970082b5a4!8m2!3d33.998639!4d-77.905929",
+					"webLink": "http://www.pleasureislandoflights.com/the-new-year-celebration.html"
 					}
 				],
 				},
@@ -1999,16 +2121,35 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
 				"events": [
 					
 				],
 				},
 				{
+				"categoryType": "Celebration",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+				"events": [
+					{
+					"name": "Cookie Walk",
+					"location": "Downtown",
+					"address": "311 Middle St, New Bern, NC 28560",
+					"position":{
+						"top": "390px",
+						"left": "1520px",
+					},
+					"image": "/images/cookie-walk.jpg",
+					"imageCredit": "© Charlie Hall/Sun Journal",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Tables full of homemade cookies for sale, including hostess trays and specialty cookies of all kinds, will be available for purchase. Breakfast and/or lunch can also be enjoyed at the Cookie Walk Cafe. Music will be provided by David Leahey. Net proceeds will benefit Outreach Ministries in and around New Bern. Please come and join us!",
+					"dates": "Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/311+Middle+St,+New+Bern,+NC+28560/@35.1070548,-77.0395651,19.14z/data=!4m21!1m15!4m14!1m6!1m2!1s0x89a8d195f7eec3c9:0xcdd6119da4733bd!2sChrist+Church,+New+Bern,+320+Pollock+Street,+New+Bern,+NC+28560!2m2!1d-77.0391588!2d35.1072256!1m6!1m2!1s0x89a8d1bdf9c74d9d:0x4855ec4cb33e0465!2s311+Middle+St,+New+Bern,+NC+28560!2m2!1d-77.0398081!2d35.107376!3m4!1s0x89a8d1bdf9c74d9d:0x4855ec4cb33e0465!8m2!3d35.107376!4d-77.0398081",
+					"webLink": "http://www.visitnewbern.com/calendar/event-details?3330"
+					}
+				],
+				},
+				{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -2026,48 +2167,142 @@ var data = [{
 					"dates": "Nov 27 - Jan 3",
 					"googleMaps": "https://www.google.com/maps/place/North+Carolina+History+Center+at+Tryon+Palace/@35.1046004,-77.0452626,17z/data=!4m5!3m4!1s0x0:0xe58d279c3c33a0b5!8m2!3d35.1046902!4d-77.0430824",
 					"webLink": "http://www.tryonpalace.org/events/holiday-tours-tryon-palacetryon"
+					},
+					{
+					"name": "The Holly and The Ivy",
+					"location": "Downtown",
+					"address": "New Bern",
+					"position":{
+						"top": "405px",
+						"left": "1525px",
+					},
+					"image": "/images/newbern-tour.jpg",
+					"imageCredit": "© New Bern Woman’s Club",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Join the New Bern Woman’s Club as they ring in the holiday season with their annual “The Holly and The Ivy” Holiday Homes Tour in the historic city of New Bern! Visit six homes and a charming bed and breakfast, all delight-fully decorated for the holiday season, and enjoy cookies and hot cider from the “Sugar Plum” House as you stroll through the beautiful Historic District.",
+					"dates": "Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/New+Bern,+NC/@35.0776578,-77.1453038,12z/data=!3m1!4b1!4m5!3m4!1s0x89a8d06ec57ecbf9:0x7b0e42e4e4e60070!8m2!3d35.1084928!4d-77.0441151",
+					"webLink": "http://newbernwomansclub.com/club-events/holiday-homes-tour/"
 					}
 				],
 				},
 				{
 				"categoryType": "Production",
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
-				"id": 30,
+				"events": [
+					{
+					"name": "Irving Berlin's: White Christmas",
+					"location": "Historic Masonic Theatre",
+					"address": "514 Hancock St, New Bern, NC 28560",
+					"position":{
+						"top": "415px",
+						"left": "1525px",
+					},
+					"image": "/images/irving-christmas.jpg",
+					"imageCredit": "© The Estate of Irving Berlin",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Irving Berlin’s White Christmas tells the story of a song-and-dance team putting on a show in a magical Vermont inn and falling for a stunning sister act in the process. This performance will be full of dancing, laughter and some of the greatest songs ever written! Give everyone the gift they’re dreaming of with this merry and bright holiday musical.",
+					"dates": "Dec 2 - Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/RiverTowne+Players/@35.1106337,-77.0430571,17z/data=!4m13!1m7!3m6!1s0x89a8d1965f5c201d:0x5e7f5092cc2e2043!2s514+Hancock+St,+New+Bern,+NC+28560!3b1!8m2!3d35.1106337!4d-77.0408684!3m4!1s0x89a8d1968b30323f:0x52ccc73e3a172800!8m2!3d35.1105804!4d-77.0404821",
+					"webLink": "http://www.rivertowneplayers.org/productions.html"
+					},
+					{
+					"name": "Holiday Pops",
+					"location": "Riverfront Convention Center",
+					"address": "203 South Front Street New Bern, NC 28560",
+					"position":{
+						"top": "415px",
+						"left": "1525px",
+					},
+					"image": "/images/pops-newbern.jpg",
+					"imageCredit": "© Edgecombe Community College",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Bring the family as we celebrate the most wonderful time of the year with this sparkling holiday spectacular! Join us for carols and warm your heart with traditional holiday favorites performed by the North Carolina Symphony Orchestra.",
+					"dates": "Dec 13",
+					"googleMaps": "https://www.google.com/maps/place/New+Bern-Craven+County+Convention+%26+Visitors+Center/@35.1035144,-77.0394676,17z/data=!4m13!1m7!3m6!1s0x89a8d1bef094b617:0x205e348e5740036d!2s203+S+Front+St,+New+Bern,+NC+28560!3b1!8m2!3d35.1035144!4d-77.0372736!3m4!1s0x89a8d1bee8e200b7:0xad8ccdcf7f9a5dcb!8m2!3d35.1035791!4d-77.0371978",
+					"webLink": "http://www.ncsymphony.org/events/index.cfm?view=details&detailid=5268&viewref=venue&venue=41&eid=6299"
+					}
+				],
+				},
+			]
+	},
+	{"city": "Jacksonville",
+			"cityFlag": "",
+			"icon-animation": "",
+			"position": {
+				"top": "515px",
+						"left": "1490px",
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+				"mapLocation": "coordinates",
 				"events": [
 					{
 					"name": "",
 					"location": "",
 					"address": "",
 					"position":{
-						"top": "420px",
-						"left": "1530px",
+						"top": "515px",
+						"left": "1490px",
 					},
 					"image": "/images/.jpg",
 					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 					"description": "",
 					"dates": "",
 					"googleMaps": "",
 					"webLink": ""
 					},
-					{
-					"name": "",
-					"location": "",
-					"address": "",
-					"position":{
-						"top": "420px",
-						"left": "1530px",
-					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-production.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
-					}
 				],
 				},
+				{
+				"categoryType": "Celebration",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Christmas Holiday Parade",
+					"location": "Jacksonville Onslow Chamber of Commerce",
+					"address": "1099 Gum Branch Rd, Jacksonville, North Carolina 28540",
+					"position":{
+						"top": "515px",
+						"left": "1470px",
+					},
+					"image": "/images/jacksonville-parade.jpg",
+					"imageCredit": "© Jacksonville | Onlso Chamber of Commere",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "This is an annual tradition in the Jacksonville community to start the holiday season.  Every year a large number of spectators (approx. 15,000) come from different cities in Onslow County and out of town to watch and enjoy this beautiful parade.  Every year, the Saturday before Thanksgiving, 200 plus entries travel down Western BLVD in Jacksonville.",
+					"dates": "Nov 19",
+					"googleMaps": "",
+					"webLink": "https://www.facebook.com/events/1824287504469702/"
+					},
+				],
+				},
+				{
+				"categoryType": "Production",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Holiday Pops",
+					"location": "Northside High School",
+					"address": "365 Commons Dr S, Jacksonville, NC 28546",
+					"position":{
+						"top": "515px",
+						"left": "1490px",
+					},
+					"image": "/images/.jpg",
+					"imageCredit": "",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "",
+					"dates": "Dec 1",
+					"googleMaps": "https://www.google.com/maps/place/Northside+High+School/@34.7909494,-77.3891999,18.37z/data=!4m5!3m4!1s0x0:0x1d4fb51aba2f14a3!8m2!3d34.7915319!4d-77.388787",
+					"webLink": "http://ncsymphony.org/events/index.cfm?view=details&viewref=calendar&detailid=5268&eid=6314&sdate=12/1/2016"
+					},
+				],
+				}
 			]
 	},
 	{"city": "Boone",
@@ -2080,7 +2315,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -2089,7 +2323,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 
@@ -2098,7 +2331,6 @@ var data = [{
 				{
 				"categoryType": "Tree Farm",
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
-				"id": 20,
 				"events": [
 					{
 					"name": "Appalachian Evergreens",
@@ -2466,7 +2698,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -2475,7 +2706,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"events": [
 					{
@@ -2499,7 +2729,6 @@ var data = [{
 				{
 				"categoryType": "Tree Farm",
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
-				"id": 20,
 				"events": [
 
 				],
@@ -2507,7 +2736,6 @@ var data = [{
 				{
 				"categoryType": "Production",
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
-				"id": 30,
 				"events": [
 					
 				],
@@ -2524,7 +2752,6 @@ var data = [{
 			"categories": [
 				{
 				"categoryType": "Light Show",
-				"id": 10,
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -2548,7 +2775,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Tour",
-				"id": 20,
 				"categoryIcon": "/graphics/christmas_icons-tours.svg",
 				"mapLocation": "coordinates",
 				"events": [
@@ -2574,7 +2800,6 @@ var data = [{
 				{
 				"categoryType": "Tree Farm",
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
-				"id": 20,
 				"events": [
 					{
 					"name": "B&D Christmas Tree Farm",
@@ -2698,7 +2923,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Celebration",
-				"id": 30,
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
 					{
