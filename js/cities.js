@@ -2278,6 +2278,22 @@ var data = [{
 					"googleMaps": "",
 					"webLink": "https://www.facebook.com/events/1824287504469702/"
 					},
+					{
+					"name": "Christmas Parade",
+					"location": "Downtown Burgaw",
+					"address": "Downtown Burgaw, NC 28425",
+					"position":{
+						"top": "555px",
+						"left": "1390px",
+					},
+					"image": "/images/parade-burgaw.jpg",
+					"imageCredit": "© Burgaw Area Chamber of Commerce",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "The town of Burgaw would like to invite you to our Annual Lighted Christmas Parade! Floats, cars and even bands will be covered in bright, shiny Christmas lights. Bring the family and come enjoy a small-town tradition that can brighten up anyone’s holiday!",
+					"dates": "Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/Burgaw,+NC+28425/@34.5551037,-77.9488599,13z/data=!4m5!3m4!1s0x89a9809efdea9fe9:0x27b8782d12a495eb!8m2!3d34.5521113!4d-77.926098",
+					"webLink": "http://www.onlyinonslow.com/events/#!/85486-burgaw-christmas-parade"
+					},
 				],
 				},
 				{
@@ -2290,17 +2306,77 @@ var data = [{
 					"location": "Northside High School",
 					"address": "365 Commons Dr S, Jacksonville, NC 28546",
 					"position":{
-						"top": "515px",
-						"left": "1490px",
+						"top": "475px",
+						"left": "1510px",
 					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "",
+					"image": "/images/jacksonville-pops.jpg",
+					"imageCredit": "© Michael Zirkle",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "The North Carolina Symphony’s Holiday Pops is a musical tradition that will fill your heart with cheer. Enjoy all your holiday favorites and our popular sing-a-long; special guests this year include Triangle Youth Ballet and the Raleigh Boychoir. Be sure to visit Santa in the lobby before the performance! David Glover, conductor.",
 					"dates": "Dec 1",
 					"googleMaps": "https://www.google.com/maps/place/Northside+High+School/@34.7909494,-77.3891999,18.37z/data=!4m5!3m4!1s0x0:0x1d4fb51aba2f14a3!8m2!3d34.7915319!4d-77.388787",
 					"webLink": "http://ncsymphony.org/events/index.cfm?view=details&viewref=calendar&detailid=5268&eid=6314&sdate=12/1/2016"
 					},
+				],
+				},
+				{
+				"categoryType": "Activities",
+				"categoryIcon": "/graphics/christmas_icons-activities.svg",
+				"events": [
+					{
+					"name": "Saturday with Santa",
+					"location": "Carmike 16 Cinema",
+					"address": "Carmike 16, Western Boulevard, Jacksonville, NC",
+					"position":{
+						"top": "475px",
+						"left": "1500px",
+					},
+					"image": "/images/carmike-santa.jpg",
+					"imageCredit": "© Carmike",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "Santa will be arriving on a Fire Truck Saturday December 3, 9am at the Carmike Cinema 16 (behind the Jacksonville Mall) . Admission 3 canned goods to be donated to Christmas Cheer. Visit with Santa, take a picture, and watch a kid friendly Christmas Movie. Goody Bags for all participants.",
+					"dates": "Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/Carmike+16/@34.7635748,-77.3800799,17.08z/data=!4m5!3m4!1s0x89a9107987f00469:0x9692836ae9d91927!8m2!3d34.7635427!4d-77.3780472",
+					"webLink": "http://www.onlyinonslow.com/events/#!/94874-saturday-with-santa"
+					},
+					{
+					"name": "Naughty & Nice 5K",
+					"location": "Wallace Creek Fitness Center",
+					"address": "WC1, Birch St, Camp Lejeune, NC 28547",
+					"position":{
+						"top": "515px",
+						"left": "1490px",
+					},
+					"image": "/images/jacksonville-5k.jpg",
+					"imageCredit": "© MCCS Camp Lejeune",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "The race starts and finishes at the Wallace Creek Fitness Center. Runners are encouraged to dress up in the most festive holiday running attire. Following the event will be the presentation of awards for the race as well as to the winner of the 2016 Grand Prix Series.",
+					"dates": "Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/Wallace+Creek+Fitness+Center/@34.6779385,-77.3473247,17z/data=!3m1!4b1!4m5!3m4!1s0x89a905ac30ff1899:0xa89f9251f9a71eea!8m2!3d34.6779341!4d-77.345136",
+					"webLink": "http://www.mccslejeune-newriver.com/grandprix/naughtynice/"
+					}
+				],
+				},
+				{
+				"categoryType": "Tour",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
+				"events": [
+					{
+					"name": "Burgaw Home and Tree Tour",
+					"location": "Downtown Burgaw",
+					"address": "Downtown Burgaw, NC 28425",
+					"position":{
+						"top": "545px",
+						"left": "1400px",
+					},
+					"image": "/images/burgaw-tour.jpg",
+					"imageCredit": "© Visit NC ",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "The Pender County Historical Society invites you to the Annual Burgaw Christmas Homes and Tree Tour. Join them a tour some of the most beautiful structures in Burgaw all decorated with the Christmas Spirit. Then head over to the Burgaw Community Building for the Festival of Trees. Tickets are $15 for the Tour and the Festival of Trees. Tickets will also be sold for just the Festival of Trees for $8. Tickets can be purchased from the Pender County Historical Society as well as several locations around Burgaw.",
+					"dates": "Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/Burgaw,+NC+28425/@34.5551037,-77.9488599,13z/data=!3m1!4b1!4m5!3m4!1s0x89a9809efdea9fe9:0x27b8782d12a495eb!8m2!3d34.5521113!4d-77.926098",
+					"webLink": "http://www.onlyinonslow.com/events/#!/85674-the-burgaw-christmas-homes-and-tree-tour"
+					}
 				],
 				}
 			]
