@@ -708,7 +708,7 @@ var data = [{
 				},
 			]
 	},
-	{"city": "Highpoint",
+	{"city": "High Point",
 			"cityFlag": "",
 			"icon-animation": "",
 			"position": {
@@ -741,11 +741,11 @@ var data = [{
 			]
 	},
 	{"city": "Winston-Salem",
-			"cityFlag": "",
+			"cityFlag": "/graphics/christmas_icons-winston-salem.svg",
 			"icon-animation": "",
 			"position": {
-				"top": "",
-				"left":"",
+				"top": "80px",
+				"left":"850px",
 			},
 		"categories": [
 			{
@@ -2227,11 +2227,11 @@ var data = [{
 			]
 	},
 	{"city": "Jacksonville",
-			"cityFlag": "",
+			"cityFlag": "/graphics/christmas_icons-jacksonville.svg",
 			"icon-animation": "",
 			"position": {
-				"top": "515px",
-						"left": "1490px",
+				"top": "475px",
+				"left": "1460px",
 				},
 			"categories": [
 				{
@@ -2382,11 +2382,11 @@ var data = [{
 			]
 	},
 	{"city": "Boone",
-			"cityFlag": "",
+			"cityFlag": "/graphics/christmas_icons-boone.svg",
 			"icon-animation": "",
 			"position": {
-				"top": "350px",
-				"left": "1520px"
+				"top": "90px",
+				"left": "547px"
 				},
 			"categories": [
 				{
@@ -2765,11 +2765,11 @@ var data = [{
 			]
 	},
 	{"city": "Edenton",
-			"cityFlag": "",
+			"cityFlag": "/graphics/christmas_icons-edenton.svg",
 			"icon-animation": "",
 			"position": {
-				"top": "100px",
-				"left": "1580px"
+				"top": "120px",
+				"left": "1590px"
 				},
 			"categories": [
 				{
@@ -2799,6 +2799,60 @@ var data = [{
 					"dates": "Dec 9 - Dec 10",
 					"googleMaps": "https://www.google.com/maps/place/Barker+House/@36.05581,-76.611976,17z/data=!4m5!3m4!1s0x0:0x4d881ddf22c3b811!8m2!3d36.0561309!4d-76.6094913",
 					"webLink": "http://visitedenton.com/christmas-candlelight-tour"
+					}
+				],
+				},
+				{
+				"categoryType": "Tree Farm",
+				"categoryIcon": "/graphics/christmas_icons-trees.svg",
+				"events": [
+
+				],
+				},
+				{
+				"categoryType": "Production",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"events": [
+					
+				],
+				},
+			]
+	},
+	{"city": "Greenville",
+			"cityFlag": "/graphics/christmas_icons-greenville.svg",
+			"icon-animation": "",
+			"position": {
+				"top": "270px",
+				"left": "1510px"
+				},
+			"categories": [
+				{
+				"categoryType": "Light Show",
+				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+				"mapLocation": "coordinates",
+				"events": [
+					
+				],
+				},
+				{
+				"categoryType": "Tour",
+				"categoryIcon": "/graphics/christmas_icons-tours.svg",
+				"events": [
+					{
+					"name": "",
+					"location": "",
+					"address": "",
+					"position":{
+						"top": "157px",
+						"left": "1650px",
+					},
+					"image": "/images/.jpg",
+					"imageCredit": "",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "",
+					"dates": "",
+					"googleMaps": "",
+					"webLink": ""
 					}
 				],
 				},
