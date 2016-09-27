@@ -33,8 +33,8 @@ var data = [{
 					"image": "/images/charlotte_motor_speedway.jpg",
 					"imageCredit": "© Patrick Schneider",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
+					"description": "The Charlotte Motor Speedway will hold its annual Speedway Christmas light show again this year. Drive through 2.5 miles a Christmas light park and village. Sure to be fun for the whole family!",
+					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/5555+Concord+Pkwy+S,+Concord,+NC+28027/@35.3515472,-80.6887447,17z/data=!3m1!4b1!4m5!3m4!1s0x88541b1a5c551711:0x6fa37f14287b98c1!8m2!3d35.3515472!4d-80.6865507",
 					"webLink": "charlottemotorspeedway.com"
 					},
@@ -49,7 +49,7 @@ var data = [{
 					"image": "/images/mcadenville.jpg",
 					"imageCredit": "© Henderson Properties",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "The quiet little town of McAdenville, which lies along the South Fork River in Gaston County  N.C., comes alive in spectacular fashion each year as Christmas draws near.  Almost overnight, the small textile town is transformed into Christmas Town, USA. While much emphasis has been placed on the lighting of trees, this represents only a portion of the effort that goes into the preparation for Christmas.   The town residents play a big part as they decorate their doors in original styles according to their own personal feelings.  This gives a special expression of “Best Wishes for a Merry Christmas” from the townspeople to their visitors. ",
+					"description": "The quiet little town of McAdenville, which lies along the South Fork River in Gaston County  N.C., comes alive in spectacular fashion each year as Christmas draws near. Almost overnight, the small textile town is transformed into Christmas Town, USA. While much emphasis has been placed on the lighting of trees, this represents only a portion of the effort that goes into the preparation for Christmas. The town residents play a big part as they decorate their doors in original styles according to their own personal feelings. This gives a special expression of “Best Wishes for a Merry Christmas” from the townspeople to their visitors.",
 					"dates": "Dec 1st - Dec 26th",
 					"googleMaps": "https://www.google.com/maps/place/100+Main+St,+McAdenville,+NC+28101/@35.25854,-81.078092,17z/data=!3m1!4b1!4m5!3m4!1s0x8856be755117d6db:0x938ffa2c50c58b02!8m2!3d35.25854!4d-81.075898",
 					"webLink": "charlottemotorspeedway.com"
@@ -65,8 +65,8 @@ var data = [{
 					"image": "/images/panthers_tree_lighting.jpg",
 					"imageCredit": "© Mark Hames | Charlotte Observer",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "sdkjfklsajfdkladjflkdjsf.",
-					"dates": "example",
+					"description": "Gather around Bank of America's Panther Stadium at the corner of Mint and Graham Street to watch the tree lighting and other performances!",
+					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/800+S+Mint+St,+Charlotte,+NC+28202/@35.2257952,-80.8550356,17z/data=!3m1!4b1!4m5!3m4!1s0x8856a02c9707857d:0x1116773e122c477!8m2!3d35.2257952!4d-80.8528416",
 					"webLink": "http://www.panthers.com/schedule/calendar.html"
 					},
@@ -81,7 +81,7 @@ var data = [{
 					"image": "/images/kannapolis_christmas.jpg",
 					"imageCredit": "© DowntownKannapolis.org",
 					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "Check back soon for 2016 details!",
+					"description": "The 78th Annual Kannapolis Christmas events will begin after Thanksgiving and run through the month of December.",
 					"dates": "Nov 28 - ",
 					"googleMaps": "https://www.google.com/maps/place/700+W+C+St,+Kannapolis,+NC+28081/@35.502895,-80.6339993,17z/data=!3m1!4b1!4m5!3m4!1s0x8854062a799722a9:0x9f03c682288d08e6!8m2!3d35.502895!4d-80.6318053",
 					"webLink": "https://kannapolischristmas.com/"
@@ -167,7 +167,7 @@ var data = [{
 					"image": "/images/latta-plantation.jpg",
 					"imageCredit": "© Lake Norman Magazine",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
-					"description": "Skip out on the hectic black-Friday shopping and instead bring your family to Historic Latta Plantation for a day full of holiday cheer.  Open both the Friday and Saturday after Thanksgiving for the annual Christmas living history event which is sure to be a highlight of the season. See the circa 1800 plantation home and buildings decorated in period holiday décor. See dressed re-enactors as they demonstrate primitive activities in preparation for the Christmas holiday. See how festivities changed within the one hundred years between the colonial days to the antebellum ways. Fun for the entire family! Picnicking available.",
+					"description": "Skip out on the hectic black-Friday shopping and instead bring your family to Historic Latta Plantation for a day full of holiday cheer.  Open both the Friday and Saturday after Thanksgiving for the annual Christmas living history event which is sure to be a highlight of the season. See the circa-1800 plantation home and buildings decorated in period holiday décor. See dressed re-enactors as they demonstrate primitive activities in preparation for the Christmas holiday. See how festivities changed within the one hundred years between the colonial days to the antebellum ways. Fun for the entire family! Picnicking available.",
 					"dates": "Nov 25 - Nov 26",
 					"googleMaps": "https://www.google.com/maps/place/Latta+Plantation+Nature+Preserve/@35.354958,-80.932856,17z/data=!4m13!1m7!3m6!1s0x8856a44d4105e987:0x1b43560dd687dec8!2s5225+Sample+Rd,+Huntersville,+NC+28078!3b1!8m2!3d35.354958!4d-80.930662!3m4!1s0x0:0x93bf8e43616b07cb!8m2!3d35.3525511!4d-80.9302497",
 					"webLink": "http://www.lattaplantation.org/"
@@ -183,10 +183,10 @@ var data = [{
 					"image": "/images/ballantyne.jpg",
 					"imageCredit": "© 2012 The Bissell Companies, Inc.",
 					"categoryIcon": "/graphics/christmas_icons-tours.svg",
-					"description": "Vote on your favorite gingerbread creation. $1 for each time you vote. All proceeds will benefit the Levine Children's Hospital.",
+					"description": "Visit The Ballantyne to view an enchanting display of gingerbread creations from Thursday, December 8 through Wednesday, December 28. Gingerbread Lane is free to visit and open to the public, anytime throughout the dates offered. Attendees may vote on their favorite entries with $1 minimum donation per vote. All proceeds will benefit Levine Children’s Hospital (LCH), dedicated to caring for the physical and emotional needs of children and their families. Bissell, The Ballantyne’s parent company, has played an integral role in fundraising for LCH even before its inception. Also, Santa Claus will make periodic visits to Gingerbread Lane throughout the holiday season.",
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/The+Ballantyne,+a+Luxury+Collection+Hotel,+Charlotte/@35.056497,-80.8503875,17z/data=!4m5!3m4!1s0x0:0xabf32b050a1a5618!8m2!3d35.0564968!4d-80.8481935",
-					"webLink": "http://www.theballantynehotel.com/"
+					"webLink": "http://www.theballantynehotel.com/dining/gallery-restaurant/special-events/"
 					}
 				],
 				},
@@ -254,9 +254,9 @@ var data = [{
 					"imageCredit": "© Laura Mueller",
 					"categoryIcon": "/graphics/christmas_icons-production.svg",
 					"description": "Get in the holiday spirit with jazzy renditions of seasonal classics at the Bechtler Museum of Modern Art.",
-					"dates": "example",
+					"dates": "Dec 2",
 					"googleMaps": "https://www.google.com/maps/place/Bechtler+Museum+of+Modern+Art/@35.2246023,-80.8496045,17z/data=!4m5!3m4!1s0x0:0x3d1743fc4e7596ce!8m2!3d35.2244822!4d-80.8473279",
-					"webLink": "http://www.bechtler.org/Programs/Jazz-at-the-bechtler"
+					"webLink": "http://bechtler.org/Learn/Events/details/jazz-at-the-bechtler-holiday-jazz-vi-jingle-bell-jazz"
 					},
 					{
 					"name": "The Best Christmas Pageant Ever",
@@ -307,10 +307,10 @@ var data = [{
 					"image": "/images/vtg-clt-market.jpg",
 					"imageCredit": "© Vintage Charlotte",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
-					"description": "Vintage Charlotte is popping up at The Fillmore Charlotte for the fifth annual Winter Market! Come out and spend the day shopping with over 60 of the region’s best vintage & handmade vendors.",
-					"dates": "TBD - Check back soon!",
+					"description": "Vintage Charlotte is popping up at The Fillmore Charlotte for the annual Winter Market! Come out and spend the day shopping with over 60 of the region’s best vintage & handmade vendors.",
+					"dates": "Nov 20",
 					"googleMaps": "https://www.google.com/maps/place/The+Fillmore+Charlotte/@35.2402992,-80.8475085,17z/data=!4m5!3m4!1s0x0:0xa561448b68aa901d!8m2!3d35.2398978!4d-80.8452813",
-					"webLink": "http://vintage-charlotte.com/"
+					"webLink": "http://vintage-charlotte.com/announcing-2016-vtgclt-winter-market/"
 					},
 					{
 					"name": "Christmas at the Library",
@@ -324,9 +324,9 @@ var data = [{
 					"imageCredit": "© Billy Graham Evangelistic Association",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "Christmas is a special time at the Billy Graham Library with plenty of family-friendly attractions to celebrate the birth of Christ. The main activities include a Live Nativity, Horse-drawn Carriage Rides, Story Time, Christmas Dinner and Christmas Carolers.",
-					"dates": "TBD - Check back soon!",
+					"dates": "December",
 					"googleMaps": "https://www.google.com/maps/place/Billy+Graham+Library/@35.1905251,-80.9115349,17z/data=!4m5!3m4!1s0x0:0x3b0bf80939fa1cd1!8m2!3d35.1905038!4d-80.9092641",
-					"webLink": "http://billygrahamlibrary.org/"
+					"webLink": "http://billygrahamlibrary.org/christmas-at-the-library/"
 					},
 					{
 					"name": "Southern Christmas Show",
@@ -412,7 +412,7 @@ var data = [{
 					"description": "For the first time ever in North Carolina! The Train to Christmas Town is a fun, festive holiday train ride based on the book of the same name published in 2012 and departing from three other locations across the USA. The story follows Janice, her brother Paul and their woodland friends on their yearly journey to Christmas Town. This heartwarming tale highlights the power of family tradition, friendship and the magic of Christmas. Guests are reminded that the event takes place completely on board the train. Upon arrival at ‘Christmas Town’ – a secret location named for the town in the book – Santa boards the train and visits.",
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/Piedmont+and+Northern+Railroad,+Charlotte,+NC/@35.2505874,-80.887008,17z/data=!3m1!4b1!4m5!3m4!1s0x8856a191765769f1:0x862c70f707375fc8!8m2!3d35.2505874!4d-80.884814",
-					"webLink": "http://www.traintochristmastown.com/"
+					"webLink": "http://www.traintochristmastown.com/northcarolina/"
 					}
 				],
 				},
@@ -496,7 +496,7 @@ var data = [{
 					"imageCredit": "© Lights On The Neuse",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "Bring your family and celebrate Christmas at Lights on the Neuse. This down home Christmas Lights park is located on Boyette Farms. Activities will include Sugar Barn (sugar cookie decorating), a Christmas Hayride, Santa's Sweet Shoppe and Santa himself!",
-					"dates": "Nov 27 - Dec 24 (varying dates)",
+					"dates": "Nov 27 - Dec 24",
 					"googleMaps": "https://www.google.com/maps/place/Lights+on+the+Neuse/@35.6761649,-78.4267164,17z/data=!4m5!3m4!1s0x0:0xf8ffe4349b56bb05!8m2!3d35.6761257!4d-78.4244831",
 					"webLink": "http://lightsontheneuse.com/"
 					},
@@ -534,7 +534,7 @@ var data = [{
 					"imageCredit": "© Back Archers Christmas Tree Farm",
 					"categoryIcon": "/graphics/christmas_icons-trees.svg",
 					"description": "Our trees are grown by an old man with a white mustache who was trained as a forester much closer to the North Pole than we are here. This gave him many opportunities to consult with Santa Claus and other experts on how to grow the perfect tree. Our mission is not just to sell trees, but to provide a fun-filled outing for the family. Bring the children and let them romp among the trees. Let them run and yell and have a great time.  But, please warn them to be careful and watch out for tree stumps so they don’t fall.",
-					"dates": "example",
+					"dates": "December",
 					"googleMaps": "https://www.google.com/maps/place/Back+Achers+Christmas+Tree+Farm/@35.720564,-78.675128,17z/data=!4m5!3m4!1s0x0:0xc96045927893354f!8m2!3d35.7205642!4d-78.6729341",
 					"webLink": "http://www.back-achers.com/"
 					},
@@ -550,7 +550,7 @@ var data = [{
 					"imageCredit": "© Kris Montgomery | Raleigh Parks",
 					"categoryIcon": "/graphics/christmas_icons-trees.svg",
 					"description": "Boyce Farms, Inc. is a family owned and operated Christmas Tree Farm located in Raleigh, NC (northern Wake county) and is committed to providing a family-oriented, hands-on experience for families from all walks of life when the holiday season rolls around.",
-					"dates": "example",
+					"dates": "Nov 19 - Dec 20",
 					"googleMaps": "https://www.google.com/maps/place/2813+Mt+Vernon+Church+Rd,+Raleigh,+NC+27613/@35.97558,-78.69443,17z/data=!3m1!4b1!4m5!3m4!1s0x89acf8dabe73f825:0x8172d94fceba53f2!8m2!3d35.97558!4d-78.692236",
 					"webLink": "http://boycefarms.com/"
 					},
@@ -607,102 +607,6 @@ var data = [{
 					"dates": "Dec 10",
 					"googleMaps": "https://www.google.com/maps/place/Duke+Energy+Center+for+the+Performing+Arts/@35.7711818,-78.6419339,17z/data=!4m5!3m4!1s0x0:0xbad5e93da1a22112!8m2!3d35.7711293!4d-78.6395708",
 					"webLink": "http://www.ncsymphony.org/events/index.cfm?view=details&viewref=calendar&detailid=3235&eid=4216"
-					}
-				],
-				},
-			]
-	},
-	{"city": "Ronda",
-			"cityFlag": "",
-			"icon-animation": "",
-			"position": {
-				"top": "",
-				"left":"",
-			},
-		"categories": [
-			{
-				"categoryType": "Celebration",
-				"categoryIcon": "/graphics/christmas_icons-celebration.svg",
-				"events": [
-					{
-					"name": "An Afternoon of Holiday Cheer",
-					"location": "Ronda",
-					"address": "450 Groce Road, Ronda, NC 28670",
-					"position": {
-						"top": "135px",
-						"left": "735px"
-					},
-					"image": "/images/raffaldini-vineyards.jpg",
-					"imageCredit": "© Raffaldini Vineyards",
-					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
-					"description": "Carol along with the Raffaldini chorus, enjoy light refreshments, and a 3pm visit from the Italian Christmas character, La Befana. This mystical woman will read her story fireside for all to enjoy. While visiting, participating in some last minute shopping. This is an event for your entire family!",
-					"dates": "Dec 11",
-					"googleMaps": "https://www.google.com/maps/place/Raffaldini+Vineyards+%26+Winery,+LLC/@36.180389,-80.890064,17z/data=!4m5!3m4!1s0x0:0x76b8a9a2555aa182!8m2!3d36.1803891!4d-80.8878701",
-					"webLink": "https://www.raffaldini.com/event/an-afternoon-of-holiday-cheer/"
-					}
-				],
-				},
-			]
-	},
-	{"city": "Pilot Mountain",
-			"cityFlag": "",
-			"icon-animation": "",
-			"position": {
-				"top": "",
-				"left":"",
-			},
-		"categories": [
-			{
-				"categoryType": "Light Show",
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"events": [
-					{
-					"name": "Christmas Lights",
-					"location": "Pilot Mountain",
-					"address": "4236 NC 268 Highway East, Pilot Mountain, NC 27041",
-					"position": {
-						"top": "115px",
-						"left": "770px"
-					},
-					"image": "/images/pilot-mountain.jpg",
-					"imageCredit": "© Larry & Rachel Charpiat ",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "Enjoy a trail walking tour through a decorated four acres of Pilot Mountain. View over 750,000 lights and hundreds of figures in Santa's enchanted forest. See animated windows, Santa's workshop, computer animated displays, a talking christmas tree and much more!",
-					"dates": "Nov 24 - Jan 2",
-					"googleMaps": "https://www.google.com/maps/place/Pilot+Mountain+Christmas/@36.4010004,-80.4361587,18.1z/data=!4m5!3m4!1s0x0:0x9dc38c83472d23b5!8m2!3d36.400621!4d-80.4336977",
-					"webLink": "http://pilotmountainchristmas.com/"
-					}
-				],
-				},
-			]
-	},
-	{"city": "Kernersville",
-			"cityFlag": "",
-			"icon-animation": "",
-			"position": {
-				"top": "",
-				"left":"",
-			},
-		"categories": [
-			{
-				"categoryType": "Tour",
-				"categoryIcon": "/graphics/christmas_icons-tours.svg",
-				"events": [
-					{
-					"name": "Christmas at...",
-					"location": "Korner's Folly",
-					"address": "413 South Main St. Kernersville, NC 27284",
-					"position": {
-						"top": "150px",
-						"left": "860px"
-					},
-					"image": "/images/korners-folly.jpg",
-					"imageCredit": "© Körner’s Folly",
-					"categoryIcon": "/graphics/christmas_icons-tours.svg",
-					"description": "Körner’s Folly is transformed in the holidays with floor-to-ceiling garland, lights, live holiday music, and Christmas trees in nearly every room.  Tours and special events promise visitors of all ages holiday cheer and an unforgettable experience!",
-					"dates": "Nov 25 - Dec 31",
-					"googleMaps": "https://www.google.com/maps/place/K%C3%B6rner's+Folly/@36.1152324,-80.0809514,17z/data=!4m5!3m4!1s0x0:0xc29c207cfe475746!8m2!3d36.1152205!4d-80.0786892",
-					"webLink": "https://www.kornersfolly.org/event/christmas/"
 					}
 				],
 				},
@@ -767,6 +671,106 @@ var data = [{
 					"dates": "Nov 18 - Dec 23",
 					"googleMaps": "https://www.google.com/maps/place/Old+Salem+Museums+%26+Gardens/@36.083516,-80.245075,17z/data=!4m5!3m4!1s0x0:0xa4997592e1f7b3d4!8m2!3d36.0835158!4d-80.2428813",
 					"webLink": "http://www.oldsalem.org/events/event/christmas-by-candlelight-tours/"
+					},
+					{
+					"name": "Christmas at...",
+					"location": "Korner's Folly",
+					"address": "413 South Main St. Kernersville, NC 27284",
+					"position": {
+						"top": "150px",
+						"left": "860px"
+					},
+					"image": "/images/korners-folly.jpg",
+					"imageCredit": "© Körner’s Folly",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "Körner’s Folly is transformed in the holidays with floor-to-ceiling garland, lights, live holiday music, and Christmas trees in nearly every room.  Tours and special events promise visitors of all ages holiday cheer and an unforgettable experience!",
+					"dates": "Nov 25 - Dec 31",
+					"googleMaps": "https://www.google.com/maps/place/K%C3%B6rner's+Folly/@36.1152324,-80.0809514,17z/data=!4m5!3m4!1s0x0:0xc29c207cfe475746!8m2!3d36.1152205!4d-80.0786892",
+					"webLink": "https://www.kornersfolly.org/event/christmas/"
+					}
+				],
+				},
+				{
+				"categoryType": "Celebration",
+				"categoryIcon": "/graphics/christmas_icons-celebration.svg",
+				"events": [
+					{
+					"name": "An Afternoon of Holiday Cheer",
+					"location": "Ronda",
+					"address": "450 Groce Road, Ronda, NC 28670",
+					"position": {
+						"top": "135px",
+						"left": "735px"
+					},
+					"image": "/images/raffaldini-vineyards.jpg",
+					"imageCredit": "© Raffaldini Vineyards",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Carol along with the Raffaldini chorus, enjoy light refreshments, and a 3pm visit from the Italian Christmas character, La Befana. This mystical woman will read her story fireside for all to enjoy. While visiting, participating in some last minute shopping. This is an event for your entire family!",
+					"dates": "Dec 11",
+					"googleMaps": "https://www.google.com/maps/place/Raffaldini+Vineyards+%26+Winery,+LLC/@36.180389,-80.890064,17z/data=!4m5!3m4!1s0x0:0x76b8a9a2555aa182!8m2!3d36.1803891!4d-80.8878701",
+					"webLink": "https://www.raffaldini.com/event/an-afternoon-of-holiday-cheer/"
+					}
+				],
+				},
+				{
+				"categoryType": "Activities",
+				"categoryIcon": "/graphics/christmas_icons-activities.svg",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Gingerbread House Workshop",
+					"location": "Children's Museum of Winston-Salem",
+					"address": "390 South Liberty Street Winston-Salem, NC 27101",
+					"position":{
+						"top": "150px",
+						"left": "840px"
+					},
+					"image": "/images/childrens-museum.jpg",
+					"imageCredit": "© Children’s Museum of Winston Salem",
+					"categoryIcon": "/graphics/christmas_icons-activities.svg",
+					"description": "Make and take a mini gingerbread house for $6.40, while supplies last! Build your creation with a mini milk carton, graham crackers, icing, and a variety of sweet treats! Museum admission required.",
+					"dates": "Dec 23",
+					"googleMaps": "https://www.google.com/maps/place/Children's+Museum+of+Winston-Salem/@36.0913133,-80.2461151,17z/data=!4m13!1m7!3m6!1s0x8853ae4fe6099c35:0x18d1c260dac137b4!2s390+S+Liberty+St,+Winston-Salem,+NC+27101!3b1!8m2!3d36.0913133!4d-80.2439211!3m4!1s0x8853ae4fe4fe6b7d:0x1bd0eb62ed1c7c2a!8m2!3d36.091312!4d-80.2438642",
+					"webLink": "http://www.childrensmuseumofws.org/programs/noon-years-eve-celebration/"
+					}
+				],
+				},
+				{
+				"categoryType": "Production",
+				"categoryIcon": "/graphics/christmas_icons-production.svg",
+				"mapLocation": "coordinates",
+				"events": [
+					{
+					"name": "Nutcracker",
+					"location": "Stevens Center",
+					"address": "405 West 4th Street, Winston-Salem, NC 27101",
+					"position": {
+						"top": "130px",
+						"left": "830px"
+					},
+					"image": "/images/uncsa-nutcracker.jpg",
+					"imageCredit": "© UNCSA",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Presented by First Tennessee Bank. Music by Pyotr Ilyich Tchaikovsky; Directed by Jared Redick. Original Staging and Direction by Ethan Stiefel. Experience the extraordinary performances, vivid staging and beloved score that have made UNCSA's The Nutcracker a holiday tradition! Cited as a production of enormous power and artistic excellence by YES! Weekly, the Winston-Salem Journal raves gorgeous...UNCSA's Nutcracker thrills. Featuring the largest Nutcracker orchestra in the Triad.",
+					"dates": "Dec 9 - Dec 18",
+					"googleMaps": "https://www.google.com/maps/place/Community+Music+School+of+UNC+School+of+the+Arts/@36.0984358,-80.2503287,17z/data=!4m13!1m7!3m6!1s0x8853ae43f9f69741:0x8b7cd9e1a1f54965!2s405+W+4th+St,+Winston-Salem,+NC+27101!3b1!8m2!3d36.0984358!4d-80.2481347!3m4!1s0x8853ae43f79a8097:0x65ac86961398382d!8m2!3d36.0983589!4d-80.2483007",
+					"webLink": "http://www.childrensmuseumofws.org/programs/gingerbread-house-workshop/"
+					},
+					{
+					"name": "Macy's Yes Virginia: The Musical",
+					"location": "Twin City Stage",
+					"address": "610 Coliseum Dr NW, Winston-Salem, NC 27106",
+					"position":{
+						"top": "100px",
+						"left": "825px",
+					},
+					"image": "/images/yes-musical.jpg",
+					"imageCredit": "© Yes Virginia Musical",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Twin City Stage will present Macy’s Yes, Virginia: The Musical, December 16-18 at the Arts Council Theatre. Does Santa Claus really exist? Eight-year-old Virginia O’Hanlon is determined to find out. When an excitable librarian, a scraggly street Santa and even her own parents can’t give her a satisfactory answer, she writes to Francis Church at the New York Sun. Based on a true story, Church’s answer will ultimately become the most famous newspaper editorial of all time. This is TCS’s 3rd annual production of this heartwarming family musical. Friday & Saturday performances are at 7:30 pm and the Sunday matinee is at 2 pm. Tickets are $25; the box office opens to the public on Monday, December 5 at noon and is open Mon-Fri from noon-5:30 pm.",
+					"dates": "Dec 16 - Dec 18",
+					"googleMaps": "https://www.google.com/maps/place/Twin+City+Stage/@36.1235555,-80.2623337,17z/data=!4m13!1m7!3m6!1s0x8853ae0986cf3a13:0x712816e3893d9c00!2s610+Coliseum+Dr+NW,+Winston-Salem,+NC+27106!3b1!8m2!3d36.1235555!4d-80.2601397!3m4!1s0x8853ae09836bf75f:0x3bc8b956aafc5528!8m2!3d36.1235359!4d-80.2602718",
+					"webLink": "http://twincitystage.org/show-virginia.html"
 					}
 				],
 				},
@@ -789,6 +793,22 @@ var data = [{
 					"dates": "Nov 18 - Jan 1",
 					"googleMaps": "https://www.google.com/maps/place/Tanglewood+Park/@36.0093039,-80.4149274,17z/data=!4m12!1m6!3m5!1s0x8853b90089b15917:0xc0a256eee1c10d6!2sTanglewood+Park!8m2!3d36.0093039!4d-80.4127334!3m4!1s0x8853b90089b15917:0xc0a256eee1c10d6!8m2!3d36.0093039!4d-80.4127334",
 					"webLink": "http://www.forsyth.cc/Parks/Tanglewood/fol/index.html"
+					},
+					{
+					"name": "Christmas Lights",
+					"location": "Pilot Mountain",
+					"address": "4236 NC 268 Highway East, Pilot Mountain, NC 27041",
+					"position": {
+						"top": "115px",
+						"left": "770px"
+					},
+					"image": "/images/pilot-mountain.jpg",
+					"imageCredit": "© Larry & Rachel Charpiat ",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Enjoy a trail walking tour through a decorated four acres of Pilot Mountain. View over 750,000 lights and hundreds of figures in Santa's enchanted forest. See animated windows, Santa's workshop, computer animated displays, a talking christmas tree and much more!",
+					"dates": "Nov 24 - Jan 2",
+					"googleMaps": "https://www.google.com/maps/place/Pilot+Mountain+Christmas/@36.4010004,-80.4361587,18.1z/data=!4m5!3m4!1s0x0:0x9dc38c83472d23b5!8m2!3d36.400621!4d-80.4336977",
+					"webLink": "http://pilotmountainchristmas.com/"
 					}
 				],
 				},
@@ -802,13 +822,6 @@ var data = [{
 				"left": "1045px"
 				},
 			"categories": [
-				{
-				"categoryType": "Light Show",
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
-				"events": [
-				],
-				},
 				{
 				"categoryType": "Production",
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -880,21 +893,6 @@ var data = [{
 				"left": "1120px"
 				},
 			"categories": [
-				{
-				"categoryType": "Light Show",
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
-				"events": [
-					
-				],
-				},
-				{
-				"categoryType": "Tree Farm",
-				"categoryIcon": "/graphics/christmas_icons-trees.svg",
-				"events": [
-					
-				],
-				},
 				{
 				"categoryType": "Production",
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
@@ -1530,7 +1528,7 @@ var data = [{
 					{
 					"name": "Hanukkah Shuk",
 					"location": "Asheville",
-					"address": "???",
+					"address": "TBD - Check back soon!",
 					"position":{
 						"top": "300px",
 						"left": "400px"
@@ -1688,7 +1686,7 @@ var data = [{
 					"image": "/images/smoky-mnt.jpg",
 					"imageCredit": "© Smoky Mountain Christmas Tree Farm",
 					"categoryIcon": "/graphics/christmas_icons-trees.svg",
-					"description": "n Jonathan creek..NC near Maggie Valley, NC ..nestled atop a knoll... you will find Smoky Mountain Christmas Tree Farm. The beautiful old red barn is surrounded by Fraser Fir Christmas trees...",
+					"description": "In Jonathan creek, near Maggie Valley, NC, you will find Smoky Mountain Christmas Tree Farm. The beautiful old red barn is surrounded by Fraser Fir Christmas trees...",
 					"dates": "TBD - Check back soon!",
 					"googleMaps": "https://www.google.com/maps/place/756+Hemphill+Rd,+Waynesville,+NC+28785/@35.596497,-83.1798624,10.69z/data=!4m5!3m4!1s0x88597a611c7ccc97:0x8daf38518b1f4e66!8m2!3d35.5583653!4d-83.0326194",
 					"webLink": "http://smokymountainchristmastreefarm.com/"
@@ -1818,14 +1816,6 @@ var data = [{
 				},
 			"categories": [
 				{
-				"categoryType": "Light Show",
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
-				"events": [
-					
-				],
-				},
-				{
 				"categoryType": "Celebration",
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
@@ -1845,13 +1835,6 @@ var data = [{
 					"googleMaps": "https://www.google.com/maps/place/Greensboro+Farmers+Curb+Market/@36.078425,-79.781053,17z/data=!4m5!3m4!1s0x0:0x79d2ef95b8a63b2a!8m2!3d36.0784249!4d-79.7788592",
 					"webLink": "https://www.eventbrite.com/e/made-4-the-holidays-arts-crafts-pottery-show-nov-13-dec-4-2016-registration-25842782458?aff=es2"
 					}
-				],
-				},
-				{
-				"categoryType": "Tour",
-				"categoryIcon": "/graphics/christmas_icons-tours.svg",
-				"events": [
-					
 				],
 				},
 				{
@@ -1926,7 +1909,6 @@ var data = [{
 				},
 				{
 				"categoryType": "Production",
-				"id":"",
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
 					{
@@ -2071,7 +2053,7 @@ var data = [{
 					"imageCredit": "© LCFH Foundation",
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "The Cape Fear Festival of Trees returns as one of the most heart-warming holiday traditions in our area. During the two-week festival, starting with an opening on November 21, you are invited to wander through a winter wonderland of holiday elegance. Glittering trees decorated by local businesses, various organizations and individual artists transform the aquarium space into an enchanted forest for all to enjoy. In addition to the dazzling array of trees, enjoy performances by local musical groups and artists. Treat your ears to the wonderful sounds of harps, handbell and ukulele choirs, A Capella singing and more. This is the perfect way to kick off your holiday celebrations! Visit their website for schedule information and pricing for specific festival events.",
-					"dates": "TBD - Check back soon!",
+					"dates": "Nov 21 - Dec 4",
 					"googleMaps": "https://www.google.com/maps/place/North+Carolina+Aquarium+At+Fort+Fisher/@33.9621448,-77.9324443,17z/data=!4m13!1m7!3m6!1s0x89aa01d5d98999ab:0x77857b8b538b7340!2sKure+Beach,+NC+28449!3b1!8m2!3d33.9621448!4d-77.9302503!3m4!1s0x0:0xcb898b94e2c2d3a!8m2!3d33.9626269!4d-77.9261541",
 					"webLink": "http://www.lcfhfoundation.org/event/cape-fear-festival-trees/"
 					},
@@ -2119,13 +2101,6 @@ var data = [{
 				"left": "1520px"
 				},
 			"categories": [
-				{
-				"categoryType": "Light Show",
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"events": [
-					
-				],
-				},
 				{
 				"categoryType": "Celebration",
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
@@ -2235,29 +2210,6 @@ var data = [{
 				},
 			"categories": [
 				{
-				"categoryType": "Light Show",
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
-				"events": [
-					{
-					"name": "",
-					"location": "",
-					"address": "",
-					"position":{
-						"top": "515px",
-						"left": "1490px",
-					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
-					},
-				],
-				},
-				{
 				"categoryType": "Celebration",
 				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"mapLocation": "coordinates",
@@ -2275,7 +2227,7 @@ var data = [{
 					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 					"description": "This is an annual tradition in the Jacksonville community to start the holiday season.  Every year a large number of spectators (approx. 15,000) come from different cities in Onslow County and out of town to watch and enjoy this beautiful parade.  Every year, the Saturday before Thanksgiving, 200 plus entries travel down Western BLVD in Jacksonville.",
 					"dates": "Nov 19",
-					"googleMaps": "",
+					"googleMaps": "https://www.google.com/maps/place/Jacksonville+Onslow+Chamber+of+Commerce/@34.7759917,-77.4154944,17z/data=!4m13!1m7!3m6!1s0x89a91057826428e3:0x9c151569dca5b839!2s1099+Gum+Branch+Rd,+Jacksonville,+NC+28540!3b1!8m2!3d34.7759917!4d-77.4133057!3m4!1s0x89a910577f29d7e5:0xf8c9f39107202c6e!8m2!3d34.7758733!4d-77.4131959",
 					"webLink": "https://www.facebook.com/events/1824287504469702/"
 					},
 					{
@@ -2389,21 +2341,6 @@ var data = [{
 				"left": "547px"
 				},
 			"categories": [
-				{
-				"categoryType": "Light Show",
-				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
-				"mapLocation": "coordinates",
-				"events": [
-					
-				],
-				},
-				{
-				"categoryType": "Tour",
-				"categoryIcon": "/graphics/christmas_icons-tours.svg",
-				"events": [
-
-				],
-				},
 				{
 				"categoryType": "Tree Farm",
 				"categoryIcon": "/graphics/christmas_icons-trees.svg",
@@ -2777,7 +2714,22 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					
+					{
+					"name": "Dickens Christmas and Flotilla",
+					"location": "The Monument at South Broad Street",
+					"address": "504 S Broad St Edenton, NC 27932",
+					"position":{
+						"top": "170px",
+						"left": "1600px",
+					},
+					"image": "/images/edenton-floatilla.jpg",
+					"imageCredit": "© Visit NC",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Kick off the joyous holiday season with a wonderful annual event in Historic Downtown Edenton to include Tree Lighting and Flotilla - 5:30 pm. This event is sponsored by Destination Downtown Edenton.",
+					"dates": "Dec 2",
+					"googleMaps": "https://www.google.com/maps/place/504+S+Broad+St,+Edenton,+NC+27932/@36.056532,-76.6102515,198m/data=!3m2!1e3!4b1!4m13!1m7!3m6!1s0x89af8fba8dcc97bd:0x73055c921168e299!2sS+Broad+St,+Edenton,+NC+27932!3b1!8m2!3d36.0580094!4d-76.6091659!3m4!1s0x89af8fbba8fbfdf3:0xf4857c3e3842cacb!8m2!3d36.0567268!4d-76.6095887",
+					"webLink": "http://mainstreetedenton.com/events.html"
+					}
 				],
 				},
 				{
@@ -2789,8 +2741,8 @@ var data = [{
 					"location": "Baker House",
 					"address": "505 S Broad St., Edenton, NC 27932",
 					"position":{
-						"top": "157px",
-						"left": "1650px",
+						"top": "145px",
+						"left": "1600px",
 					},
 					"image": "/images/edenton-tour.jpg",
 					"imageCredit": "© Visit Edenton",
@@ -2799,21 +2751,61 @@ var data = [{
 					"dates": "Dec 9 - Dec 10",
 					"googleMaps": "https://www.google.com/maps/place/Barker+House/@36.05581,-76.611976,17z/data=!4m5!3m4!1s0x0:0x4d881ddf22c3b811!8m2!3d36.0561309!4d-76.6094913",
 					"webLink": "http://visitedenton.com/christmas-candlelight-tour"
+					},
+					{
+					"name": "Groaning Board",
+					"location": "Iredell House",
+					"address": "108 N Broad St, Edenton, NC 27932",
+					"position":{
+						"top": "140px",
+						"left": "1590px",
+					},
+					"image": "/images/iredell-house.jpg",
+					"imageCredit": "© Trip Advisor",
+					"categoryIcon": "/graphics/christmas_icons-tours.svg",
+					"description": "The Iredell House is decorated for the season with period decorations and foods that make the table heavily laden with treats to enjoy. This event is part of the 35th annual Candlelight Christmas Tour.",
+					"dates": "Dec 9 - Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/Historic+Edenton/@36.0614384,-76.6100784,17z/data=!3m1!4b1!4m5!3m4!1s0x89af8fb0384a14c7:0xc7d4035e70534e4f!8m2!3d36.0614384!4d-76.6078897",
+					"webLink": "http://www.nchistoricsites.org/iredell/iredell.htm"
 					}
-				],
-				},
-				{
-				"categoryType": "Tree Farm",
-				"categoryIcon": "/graphics/christmas_icons-trees.svg",
-				"events": [
-
 				],
 				},
 				{
 				"categoryType": "Production",
 				"categoryIcon": "/graphics/christmas_icons-production.svg",
 				"events": [
-					
+					{
+					"name": "Rocky Hock Opry Christmas Show",
+					"location": "Swain Auditorium",
+					"address": "200 E Church St, Edenton, NC 27932",
+					"position":{
+						"top": "150px",
+						"left": "1590px",
+					},
+					"image": "/images/edenton-christmas-show.jpg",
+					"imageCredit": "© Brian Smith",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Christmas Favorites from the 80s some old and some new. This show is a annually-held holiday event that brings together classic Southern Christmas music in a live performance that is fun for the entire family.",
+					"dates": "Dec 2 - Dec 3",
+					"googleMaps": "https://www.google.com/maps/place/200+E+Church+St,+Edenton,+NC+27932/@36.0597009,-76.6085417,17z/data=!3m1!4b1!4m5!3m4!1s0x89af8faffc23d671:0x188c36891a76227d!8m2!3d36.0597009!4d-76.606353",
+					"webLink": "http://www.visitedenton.com/december-events"
+					},
+					{
+					"name": "A Christmas Carol",
+					"location": "Swain Auditorium",
+					"address": "200 E Church St, Edenton, NC 27932",
+					"position":{
+						"top": "150px",
+						"left": "1590px",
+					},
+					"image": "/images/edenton-carol.jpg",
+					"imageCredit": "© Wikipedia",
+					"categoryIcon": "/graphics/christmas_icons-production.svg",
+					"description": "Charles Dickens' classic tale is brought to life and reawakens the true spirit of Christmas. There's fun for the whole family as Epic Music Theatre weaves the story with delightful Christmas songs, rousing dance numbers, a touch of comedy and a heart-warming cast. The show is 90 minutes long with a short intermission.",
+					"dates": "Dec 9 - Dec 11",
+					"googleMaps": "https://www.google.com/maps/place/200+E+Church+St,+Edenton,+NC+27932/@36.0597009,-76.6085417,17z/data=!3m1!4b1!4m5!3m4!1s0x89af8faffc23d671:0x188c36891a76227d!8m2!3d36.0597009!4d-76.606353",
+					"webLink": "http://www.visitedenton.com/december-events"
+					}
 				],
 				},
 			]
@@ -2831,43 +2823,60 @@ var data = [{
 				"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
 				"mapLocation": "coordinates",
 				"events": [
-					
-				],
-				},
-				{
-				"categoryType": "Tour",
-				"categoryIcon": "/graphics/christmas_icons-tours.svg",
-				"events": [
 					{
-					"name": "",
-					"location": "",
-					"address": "",
+					"name": "Festival of Lights",
+					"location": "Greenville Convention Center",
+					"address": "303 SW Greenville Blvd Greenville, NC 27834",
 					"position":{
-						"top": "157px",
-						"left": "1650px",
+						"top": "320px",
+						"left": "1520px",
 					},
-					"image": "/images/.jpg",
-					"imageCredit": "",
-					"categoryIcon": "/graphics/christmas_icons-tours.svg",
-					"description": "",
-					"dates": "",
-					"googleMaps": "",
-					"webLink": ""
+					"image": "/images/festival-greenville.jpg",
+					"imageCredit": "© FSNENC",
+					"categoryIcon": "/graphics/christmas_icons-lightshow.svg",
+					"description": "Bring the entire family and enjoy more than 100 trees, as they are transformed into a Holiday wonderland with each displaying a different meaning and theme. Story time with Santa December 1st and December 6th at 6 pm, reservation must be made in advance.",
+					"dates": "Dec 1 - Dec 23",
+					"googleMaps": "https://www.google.com/maps/place/Greenville+Convention+Center/@35.5730438,-77.3932978,17z/data=!4m13!1m7!3m6!1s0x89aec2c6691e222d:0xdb4b529eb01e3acb!2s303+Greenville+Blvd+SW,+Greenville,+NC+27834!3b1!8m2!3d35.5730438!4d-77.3911091!3m4!1s0x89aec2c63f5a8cf1:0xda55d6134deb8f38!8m2!3d35.574257!4d-77.391034?sa=X&ved=0ahUKEwjIpJSOyK3PAhWLdSYKHccgDIsQ8gEIGzAA",
+					"webLink": "http://www.greenvilleconventioncenter.com/event"
 					}
 				],
 				},
 				{
-				"categoryType": "Tree Farm",
-				"categoryIcon": "/graphics/christmas_icons-trees.svg",
+				"categoryType": "Celebration",
+				"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
 				"events": [
-
-				],
-				},
-				{
-				"categoryType": "Production",
-				"categoryIcon": "/graphics/christmas_icons-production.svg",
-				"events": [
-					
+					{
+					"name": "Down East Holiday Show",
+					"location": "Greenville Convention Center",
+					"address": "303 SW Greenville Blvd Greenville, NC 27834",
+					"position":{
+						"top": "320px",
+						"left": "1520px",
+					},
+					"image": "/images/down-east.jpg",
+					"imageCredit": "© Pitt Community College",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "Each year, the Pitt Community College Foundation presents the Down East Holiday Show to raise funds for student scholarships and educational activities at Pitt Community College. Our 2015 Holiday Show was a record success, generating more than $100,000 to benefit PCC students. Started in 2002, the Down East Holiday Show helps to kick off the holiday shopping season by featuring more than 145 exhibitors selling everything from holiday decorations and handcrafted gift items to mouth-watering foods and an array of services. This year, we’d like to encourage you to discover what more than 12,000 shoppers found out in 2015 – that the Down East Holiday Show is an ideal opportunity to purchase the perfect gifts for your loved ones.",
+					"dates": "Nov 3 - Nov 6",
+					"googleMaps": "https://www.google.com/maps/place/Greenville+Convention+Center/@35.5730438,-77.3932978,17z/data=!4m13!1m7!3m6!1s0x89aec2c6691e222d:0xdb4b529eb01e3acb!2s303+Greenville+Blvd+SW,+Greenville,+NC+27834!3b1!8m2!3d35.5730438!4d-77.3911091!3m4!1s0x89aec2c63f5a8cf1:0xda55d6134deb8f38!8m2!3d35.574257!4d-77.391034?sa=X&ved=0ahUKEwjIpJSOyK3PAhWLdSYKHccgDIsQ8gEIGzAA",
+					"webLink": "http://downeastholidayshow.com/"
+					},
+					{
+					"name": "Christmas Parade",
+					"location": "Uptown Greenville",
+					"address": "5th & Evans street Greenville, NC 27835",
+					"position":{
+						"top": "300px",
+						"left": "1510px",
+					},
+					"image": "/images/greenville-parade.jpg",
+					"imageCredit": "© indiadamjones.com",
+					"categoryIcon": "/graphics/christmas_icons-celebrations.svg",
+					"description": "For the over 30 years, the Greenville Jaycees have provided an exciting beginning to the holiday season in Greenville. The Greenville Christmas Parade marches through the Uptown Greenville area giving thousands of citizens their first celebration of the Christmas holidays. Typically, over 150 entrants march through the parade including numerous Girl Scout and Boy Scout Troops, several high school bands  as well as local groups merchants. Many media outlets participate in the event and often broadcast the event live for the their viewers. Sponsorships pay for numerous expenses associated with the parade including performance fees, float rentals, and insurance.",
+					"dates": "Dec 10",
+					"googleMaps": "https://www.google.com/maps/place/Evans+St+%26+E+5th+St,+Greenville,+NC+27858/@35.6111537,-77.3735743,19z/data=!3m1!4b1!4m5!3m4!1s0x89aee7e38c775a7f:0x67ddae8fba4f5435!8m2!3d35.6111537!4d-77.3730271",
+					"webLink": "http://greenvillejaycees.com/projects/greenville-christmas-parade/"
+					},
 				],
 				},
 			]
@@ -2999,7 +3008,7 @@ var data = [{
 					"description": "Join Sweet Tea Shakespeare (STS) for the story of Advent and Christmas, told in song and story. Featuring Andrew Peterson’s Behold the Lamb of God and music and readings by the STS artists, this special event is an ideal way to center oneself in the hustle and bustle of the Advent and Christmas seasons. Join STS for warm and warming beverages and a night of music and fellowship.",
 					"dates": "Dec 8 - Dec 9",
 					"googleMaps": "https://www.google.com/maps/place/Holy+Trinity+Episcopal+Church/@35.0539326,-78.9095308,14.81z/data=!4m5!3m4!1s0x89ab134a925ceb79:0x81a1075585c1d067!8m2!3d35.053497!4d-78.90743",
-					"webLink": ""
+					"webLink": "http://fsuarts.com/event/behold-a-folk-christmas-cantata/"
 					},
 					{
 					"name": "Waltzing in a Winter Wonderland",
